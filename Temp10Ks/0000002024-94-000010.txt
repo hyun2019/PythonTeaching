@@ -1,0 +1,3597 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ GCoD3RpqyuwTLFirj0O0PoGMZn/grkmdOxA5gX+divPV9m/j48hYVrOcQUTVn+PF
+ c3Ix94UJYJxmb7BbtN6NOA==
+
+<IMS-DOCUMENT>0000002024-94-000010.txt : 19940324
+<IMS-HEADER>0000002024-94-000010.hdr.sgml : 19940324
+ACCESSION NUMBER:		0000002024-94-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19931231
+FILED AS OF DATE:		19940323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACE HARDWARE CORP
+		CENTRAL INDEX KEY:			0000002024
+		STANDARD INDUSTRIAL CLASSIFICATION:	5070
+		IRS NUMBER:				360700810
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	002-55860
+		FILM NUMBER:		94517327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 KENSINGTON COURT
+		CITY:			OAK BROOK
+		STATE:			IL
+		ZIP:			60521
+		BUSINESS PHONE:		7089906600
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT FORM 10-K
+<TEXT>
+
+   
+    
+                  
+      
+                     
+                      SECURITIES AND EXCHANGE COMMISSION  
+                            Washington, D.C. 20549  
+                                 Form 10-K 
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF 
+                     THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the fiscal year ended December 31, 1993     Commission File No. 2-55860  
+
+
+                            Ace Hardware Corporation  
+             (Exact Name of Registrant as Specified in its Charter)  
+         
+              DELAWARE                                 36-0700810   
+   (State or Other Jurisdiction of                  (I.R.S. Employer   
+   Incorporation or Organization)                  Identification No.)   
+            
+
+        2200 Kensington Court, Oak Brook, IL              60521
+       (Address of Principal Executive Offices)        (Zip Code)
+            
+Registrant's telephone number, including Area Code:           (708) 990-6600  
+
+Securities registered pursuant to Section 12(b) of the Act:   NONE   
+
+Securities registered pursuant to Section 12(g) of the Act:   NONE   
+     
+
+   State the aggregate market value of the voting stock held by
+non-affiliates of the Registrant. The Registrant's shares are issued only
+to, and may be held only by, its dealer-stockholders, and the shares held
+by a dealer-stockholder are subject to repurchase by the Registrant upon
+termination of the membership agreement of a dealer-stockholder. Thus,
+there is no market for the Registrant's shares. The repurchase price for
+each share of Class A stock, the only voting stock issued by the
+Registrant, is equal to the par value of $1,000 per share. As of February
+28, 1994, the aggregate value of the Class A stock held by non-affiliates
+(dealer-stockholders) calculated on the basis of such repurchase price was
+$3,933,000. 
+
+   Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.        Yes  X     No      
+
+   Indicate the number of shares outstanding of each of the Registrant's
+classes of common stock, as of the latest practicable date (applicable only
+to corporation Registrants). Outstanding Shares as of February 28, 1994: 
+ 
+          
+  Class A (voting) Stock,       $1,000 par value           3,933 shares   
+  Class B (nonvoting) Stock,    $1,000 par value           3,400 shares   
+  Class C (nonvoting) Stock,    $ 100 par value        1,523,707 shares   
+  
+
+
+                                   PART I 
+
+Item 1. Business 
+
+   Ace Hardware Corporation was formally organized as a Delaware
+corporation in 1964. In 1973, by means of a corporate merger, it succeeded
+to the business of Ace Hardware Corporation, an Illinois corporation
+organized in 1928. Until 1973, the business now being engaged in by the
+Company had been conducted by the Illinois corporation. The Company's
+principal executive offices are located at 2200 Kensington Court, Oak Brook,
+Illinois 60521. Its telephone number is (708) 990-6600. 
+ 
+   The Company functions as a wholesaler of hardware and related products,
+and manufactures paint products. Sales of the products distributed by it
+are presently made primarily to individuals, partnerships or corporations
+who are engaged in business as retail dealers of hardware or related items
+and who have entered into Membership Agreements with the Company entitling
+them to purchase merchandise and services from the Company and to use the
+Company's marks as provided therein. 
+ 
+   The Company operates on a cooperative basis and distributes patronage
+dividends to its eligible member dealers each year in proportion to the
+amount of their annual purchases of merchandise from it. (See the
+subheading "Distribution of Patronage Dividends".) 
+ 
+   At December 31, 1993 there were 4,921 retail business outlets with
+respect to which such Membership Agreements had been entered into. Those
+States having the largest concentration of member outlets are California
+(approximately 10%), Illinois and Texas (approximately 7% each), Florida
+(approximately 5%), and Michigan and Georgia (approximately 4% each).
+States into which were shipped the largest percentages of the merchandise
+sold by the Company in 1993 are California (approximately 12%), Illinois
+(approximately 9%), Florida and Texas (approximately 6% each) and Michigan
+and Georgia (approximately 4% each). Less than 3% of the Company's sales
+are made to outlets located outside of the United States or its
+territories. 
+ 
+   Information as to the number of the Company's member outlets during
+each of the past three calendar years is set forth in the following table:
+
+   
+                                                1993      1992      1991    
+   Member outlets at beginning of period        4,986     5,111     5,206  
+   New member outlets                             158       183       253  
+   Member outlets terminated                      223       308       348   
+   
+   Member outlets at end of period              4,921     4,986     5,111
+                
+   Dealers having one or more 
+     member outlets at end of period            4,045     4,134     4,266  
+  
+
+   The Company services its dealers by purchasing merchandise in quantity
+lots, primarily from manufacturers, by warehousing substantial quantities
+of said merchandise and by selling the same in smaller lots to the dealers.
+Most of the products that the Company distributes to its dealers from its
+regional warehouses are sold at a 10% markup. In 1993 warehouse sales
+accounted for 61.7% of total sales and bulletin sales accounted for 3.4% of
+total sales with the balance of 34.9% representing direct shipment,
+including lumber and building material sales. 
+ 
+
+                                      1
+   
+   
+   The proportions in which the Company's total warehouse sales were
+divided among the various classes of merchandise sold by it during each of
+the past three calendar years are as follows: 
+ 
+                 
+   Class of Merchandise                           1993     1992     1991     
+   
+   Paint, cleaning and related supplies            19%      18%      18%   
+   Hand and power tools                            14%      15%      14%   
+   Electrical supplies                             12%      13%      12%   
+   Plumbing and heating supplies                   15%      15%      16%   
+   General hardware                                12%      12%      12%   
+   Housewares and appliances                        7%       7%       8%   
+   Garden, rural equipment and related supplies    12%      11%      11%   
+   Sundry                                           9%       9%       9%  
+   
+ 
+   The Company sponsors two major conventions annually (one in the Spring
+and one in the Autumn) at various locations. Dealers and vendors are
+invited to attend, and dealers generally place substantial orders for
+delivery during the period prior to the next convention. During the
+convention regular merchandise, new merchandise and seasonal merchandise
+for the coming season are displayed to attending dealers. Lawn and garden
+supplies, building materials and exterior paints are seasonal merchandise
+in many parts of the country, as are certain sundries such as holiday
+decorations. 
+ 
+   Warehouse sales involve the purchase of merchandise from the Company
+that is maintained in inventory by the Company at its warehouses. Direct
+shipment sales involve the purchase of merchandise from the Company with
+shipment directly from the vendors. Bulletin sales involve the purchase of
+merchandise from the Company pursuant to special bulletin offers by the
+Company. 
+ 
+   Direct shipment sales are orders placed by dealers directly with
+vendors, using special purchase orders. Such vendors bill the Company for
+such orders, which are shipped directly to dealers. The Company, in turn,
+bills the ordering dealers at a markup. The markup on this category of
+sales varies with invoice amounts in accordance with the following schedule
+and is exclusive of sales under the LTL Plus program discussed below. 
+ 
+               
+        Invoice Amount                       Handling Charge (Markup) 
+
+   $    0.00 to $  999.99                2.00% or $1.00 whichever is greater   
+   $1,000.00 to $1,999.99                1.75%   
+   $2,000.00 to $2,999.00                1.50%   
+   $3,000.00 to $3,999.00                1.25%   
+   $4,000.00 to $4,999.00                1.00%   
+   $5,000.00 to $5,999.00                 .75%   
+   $6,000.00 to $6,999.00                 .50%   
+   $7,000.00 to $7,999.00                 .25%   
+   $8,000.00 and over                     .00%  
+   
+ 
+   Bulletin sales are made based upon notification from dealers of their
+participation in special bulletins offered by the Company. Generally, the
+Company will give notice to all members of its intention to purchase
+certain products for bulletin shipment and then purchases only so many of
+such products as the members order. When the bulletin shipment arrives at
+the Company, it is not warehoused, but is broken up into appropriate
+quantities and delivered to members who placed orders. A 6% markup is
+generally applied to this category of sales. 
+ 
+   An additional markup of 3% is applied on the various categories of sales
+of merchandise exported to certain dealers located outside of the United
+States and its territories and possessions. 
+ 
+                                      
+                                      2
+   
+   
+   The Company maintains inventories to meet only normal resupply orders.
+Resupply orders are orders from members for merchandise to keep inventories
+at normal levels. Generally, such orders are filled within one week of
+receipt. Bulletin orders (which are in the nature of resupply orders) may
+be for future delivery. The Company does not backlog normal resupply orders
+and, accordingly, no significant backlog exists at any point in time.    
+
+   The Company also has established special sales programs for lumber and
+building materials products and for products assigned from time to time to
+an "extreme competitive price sales" classification and for products
+purchased from specified vendors for delivery to certain of the Company's
+dealers on a direct shipment basis ("LTL Plus"). Under its lumber and
+building materials ("LBM") program, the Company imposes no handling charge,
+markup or national advertising assessment on direct shipment orders for
+such products. The LBM program also enables the Company's dealers to
+purchase these products at net invoice prices which pass on to them
+important cost savings resulting from the Company's closely monitored
+lumber and building materials purchasing procedures. Additionally, the LBM
+program offers dealers the opportunity to order less than truckload
+quantities of many lumber and building materials products at economical
+prices under the LTL warehouse redistribution procedure which the Company
+has established with certain major vendors. 
+ 
+   The Store Traffic Opportunity Program ("STOP") established by the
+Company is a program under which certain stockkeeping units of specific
+products assigned to an "extreme competitive price sales" classification
+are offered for sale to its dealers for delivery from designated Company
+retail support centers. Sales under this program are made without the
+addition of freight charges and with such handling charge or markup (if
+any) of not more than 5% as shall be specified for each item. The Company's
+officers have authority to add items to, and to withdraw items from, the
+STOP program from time to time and to establish reasonable minimum or
+multiple item purchase requirements for the items offered under the
+program. No allocations or distributions of patronage dividends are made
+with respect to sales under the STOP program. Purchases under the STOP
+program are, however, deemed to be warehouse purchases or bulletin
+purchases, as the case may be, for purposes of calculating the forms of
+patronage dividend distributions. (See the subheading under this Item 1
+entitled "Forms of Patronage Dividend Distributions.) 
+ 
+   The LTL Plus Program, established by the Company effective as of
+September, 1990 is a program under which full or partial truckloads of
+products are purchased by the Company's dealers from specific vendors for
+delivery to such dealers on a direct shipment basis. No markup, handling
+charge or national advertising assessment is imposed by the Company on
+sales under the LTL Plus Program, and the maximum amount of patronage
+dividends allocated or distributed to the Company's dealers with respect to
+their purchases of products in the LTL Plus category is .5% of such sales.
+(See the subheading under this Item 1 entitled "Patronage Dividend
+Determinations and Allocations.") 
+ 
+   The Company, in addition to conducting semi-annual and other
+conventions and product exhibits for its dealers, also provides them with
+numerous special services (on a voluntary basis and at a cost to cover its
+related expenses), such as inventory control systems, price and bin
+ticketing, and an electronic ordering system. In order for them to have on
+hand current pricing and other information concerning the merchandise
+obtainable from the Company, the Company further provides to each of its
+dealers either a catalogue checklist service or a microfiche film service
+(whichever the dealer selects), for either of which services the dealer
+must pay a monthly charge. The Company also provides on a
+full-participation basis videotapes and related materials for educational
+and training programs for which dealers must pay an established monthly
+charge. (See the subheading under this Item 1 entitled "Special Charges and
+Assessments.") 
+ 
+   Through its wholly-owned subsidiary, Ace Insurance Agency, Inc., the
+Company makes available to its dealers a Group Dealer Insurance Program
+under which they can purchase a package of insurance coverages, including
+"all risk" property insurance and business interruption, crime, liability
+and workers' compensation coverages, as well as medical expense coverage
+for their employees. AHC Realty Corporation, another wholly-owned
+
+
+                                      3
+
+
+subsidiary of the Company, provides the services of a broker to those
+dealers who desire to sell or seek a new location for a presently owned
+store or to acquire an additional store. In addition, the Company offers to
+its dealers retail computer systems consisting of computer equipment,
+maintenance service and certain software programs and services. These are
+marketed by the Company under its registered service mark "PACE". 
+
+   The Company manufactures paint and related products at a facility
+owned by it in Matteson, Illinois. This facility now constitutes the
+primary source of such products offered for sale by the Company to its
+dealers. It is operated as a separate Division of the Company for
+accounting purposes. All raw materials used by the Company to manufacture
+paint are purchased from outside sources. The Company has had adequate
+sources of raw materials, and no shortages of any materials which would
+materially impact operations are currently anticipated. The manufacturing
+of paint is seasonal to the extent that greater paint sales are found in
+the months of April through September. Historically, compliance with
+federal, state and local provisions which have been enacted or adopted
+regulating the discharge of materials into the environment or otherwise
+relating to the protection of the environment have not had any material
+impact. 
+ 
+   The Company's business, either in hardware wholesaling or paint
+manufacturing activities is not dependent on any major suppliers and the
+Company feels that any seasonal fluctuations do not have a significant
+impact upon operations. For further discussion of Company's business, see
+"Management's Discussion and Analysis of Financial Condition and Results
+of Operations", in Item 7 hereof. 
+ 
+
+Special Charges and Assessments 
+
+   The Company sponsors a national advertising program for which its
+dealers are currently assessed an amount equal to 1.25% of their purchases
+(exclusive of lumber, building materials, purchases of PACE computer
+systems (hardware and software), less than truckload lumber and building
+material program purchases and LTL Plus Program purchases as described here
+in above in this Item 1) from the Company during each bi-weekly period,
+with the current minimum annual assessment being $975.00 and with the 
+maximum annual assessment being $4,750 for each business location of any
+one dealer which has become a member of the Company. The total annual
+amount of advertising assessments payable by any one dealer is also
+subject to a further maximum limit which is determined by multiplying the
+number of such dealer's member retail store outlets serving the general
+public by $4,750. In the case of a dealer whose place of business is
+located outside the contiguous States of the United States, the Company's
+management has authority to determine the extent, if any, to which such
+dealer shall be required to pay the annual national advertising assessment
+based upon its evaluation of the amount and nature of the television
+broadcasts received in the dealer's area. The percentage of bi-weekly
+purchases to be assessed for the Company's national advertising program and
+the amount of the maximum annual assessment for such program are both
+subject to being changed from time to time by action of the Board of
+Directors of the Company. The Company also has the authority, effective
+January 1, 1993 to impose a regional advertising assessment (for select
+geographic regions) not to exceed 2% of annual purchases with the same
+minimum and maximum assessments imposed by the National Advertising
+assessment. 
+ 
+   Each dealer must pay a low volume service charge if the dealer's
+purchases during the calendar year are less than the minimum purchase
+levels described below. Minimum purchase levels and the amount of the low
+volume service charge are subject to change from time to time by the
+Company's Board of Directors. Presently, the low volume service charge is
+$30.00 and applies beginning one (1) year after the granting of the
+membership, if the dealer's purchases from the Company (exclusive of
+carload lumber purchases) are less than $4,000.00 per bi-weekly billing
+period. If the dealer's purchases from the Company reach $104,000 during
+the calendar year, then the dealer receives credit on its next bi-weekly
+billing statement for all low volume service charges imposed on that
+account earlier in the same calendar year, and the account is not subject
+to any further low volume service charges for the rest of the calendar
+year. The low volume service charge is not billed on a bi-monthly basis to
+those accounts whose previous year's sales volume exceeded the minimum
+purchases level for the previous year, but the full annual low volume
+
+
+                                      4
+
+
+service charge will be billed at year end to those accounts if the minimum
+purchase level to avoid imposition of the charge has not been met for the
+current year. For the calendar year in which the first anniversary of the
+store's membership occurs, the $104,000 purchase requirement is pro-rated
+from the first billing statement after that anniversary through December 31,
+if less than a full calendar year. An Ace store that falls below minimum
+purchase levels is also subject to termination. 
+ 
+   A late payment service charge is added on any past due balance owing by
+a dealer to the Company for purchases of merchandise and services or for
+the purchase price of the capital stock of the Company subscribed for by
+the dealer. The late payment service charge currently in effect is an
+amount equal to .77% per bi-weekly statement period, except in Texas where
+the charge is .384% and Georgia where the charge is .692%. A past due
+balance is created whenever payment of the amounts shown as due on any such
+statement is not received by the Company within 10 days following the date
+of the statement. The percentage for determining the amount of the late
+payment service charge may be changed from time to time by the Company. 
+ 
+   Subscriptions to a retail training program consisting of video tapes and
+related course materials (the "S.T.A.R. Program") are mandatory for all
+stores located in the United States and U.S. Territories. The initial
+monthly assessment imposed on such stores for such subscriptions is $14.50
+for each single store or parent store and $10.00 for each branch store. A
+single store or parent store is an initial retail outlet for which a dealer
+owns, or has subscribed for, one (1) share of Class A stock and forty (40)
+shares of Class C stock of the Company. A branch store is an additional
+retail outlet for which a dealer owns, or has subscribed for, fifty (50)
+shares of Class C stock of the Company. (See Article XXV, Section 2 of the
+By-laws.) Branch stores may, upon request, be granted an exemption from the
+monthly subscription fee. 
+ 
+
+Trademark and Service Mark Registrations 
+
+   The names "ACE HARDWARE" and "ACE" are used extensively by the Company
+and by its member-dealers in connection with the promotion, advertising
+and marketing of products distributed by the Company. 
+ 
+   The Company also uses the names "Bright & Easy" and "Weather Shedder"
+for promotion of the sale of certain paints and paint primers, the name
+"Super Striker" for promotion of the sale of a packaged assortment
+containing fishing rods and lures (other than big game trolling lures) and
+the name "LUB-E" for the promotion of the sale of lubricant. In addition,
+the Company uses several service marks as an aid in the establishment and
+operation of stores owned and operated by its member-dealers and uses the
+service mark "Hardware University" for certain seminars and workshops
+conducted for its dealers and the service mark "PACE" for in-store computer
+systems which it markets for use by them in their store operations. 
+ 
+   The Company holds the following Trademark and Service Mark
+Registrations issued by the U.S. Patent and Trademark Office for the marks
+used by it for the above-described purposes: 
+ 
+<TABLE>                 
+<CAPTION>
+                                                         Registration  
+           Description of Mark         Type of Mark         Number          Expiration Date    
+   
+   <S>                                 <C>                 <C>             <C>
+   Name "ACE" in stylized  
+     lettering design                  Service Mark        1,464,025       November 3, 2007  
+   Name "ACE Hardware" and  
+     winged emblem containing same     Service Mark          840,176       December 5, 2007  
+   "ACE Hardware--  
+     The More Store"                   Service Mark        1,003,523       January 28, 1995  
+   "ACE Is The Place With The  
+     Helpful Hardware Man"             Service Mark        1,055,743       January 4, 1997  
+   
+   
+                                      5
+   
+   "The Helpful Hardware Man"          Service Mark        1,055,741       January 4, 1997  
+   "Ace Is the Place"                  Service Mark        1,602,715       June 19, 2000   
+   "LUB-E"                             Trademark           1,615,386       October 2, 2000  
+   "Ace Five Star"                     Trademark           1,627,887       December 18, 2000  
+   "The Paintin' Place"                Service Mark        1,138,654       August 12, 2000  
+   "Hardware University" with design   Service Mark        1,180,539       December 1, 2001  
+   Name "PACE" with design             Service Mark        1,208,887       September 14, 2002  
+   Name "ACE Hardware" and winged      
+     emblem containing same            Trademark             898,070       September 8, 2000  
+   Name "ACE Hardware" and winged  
+     emblem containing same            Trademark           1,277,581       May 15, 2004  
+   "Super Striker"                     Trademark           1,182,330       December 15, 2001  
+   "Bright & Easy"                     Trademark           1,058,117       February 8, 1997  
+   "Weather Shedder"                   Trademark           1,053,816       December 7, 1996  
+   Name "ACE Hardware" in slanted
+     bar design                        Trademark           1,426,137       January 27, 2007  
+   Name "ACE Hardware" in stylized  
+     lettering design                  Service Mark        1,486,528       April 26, 2008  
+   Name "ACE Hardware and Garden  
+     Center"                           Service Mark        1,487,216       May 3, 2008  
+   Name "ACE New Experience" in  
+     stylized lettering design         Trademark           1,554,322       September 5, 2009  
+   Name "ACE Seven Star" in  
+     stylized lettering design         Trademark           1,556,389       September 19, 2009  
+   Name "FLO-SOFT"                     Trademark           1,532,900       April 14, 2009  
+   Name "ACE Best Buys" in  
+     circle design                     Service Mark        1,560,250       October 10, 2009  
+   Name "PACER"                        Trademark           1,570,820       December 12, 1999  
+   Name "ACENET"                       Service Mark        1,574,019       December 26, 1999  
+   "ASK ACE"                           Service Mark        1,653,263       August 6, 2001  
+   Name "ACE Three Star" in  
+     stylized lettering design         Trademark           1,631,237       January 15, 2001
+   Name "ACE Pro" in  
+     stylized lettering design         Trademark           1,632,078       January 22, 2001
+   Christmas Elves design              Trademark           1,669,306       December 24, 2001
+   "ACE 2000"                          Service Mark        1,682,467       April 7, 2002  
+   Name "ACE" in stylized  
+     lettering design                  Trademark           1,683,538       April 21, 2002
+   Name "HARMONY" in stylized  
+     lettering design                  Trademark           1,700,526       July 14, 2002
+   Seven Star Satisfaction Guaranteed 
+     Quality Ace Paints Design         Service Mark        1,705,321       August 4, 2002
+   Name "THE OAK BROOK COLLECTION" 
+     in stylized lettering design      Trademark           1,707,986       August 18, 2002
+   Name "THE OAK BROOK COLLECTION"
+     in stylized lettering design      Trademark           1,783,335       July 20, 2003
+   Name "ACE HARDWARE BROWN 
+     BAG BONANZA" with design          Service Mark        1,761,277       April 13, 2003
+   Name "STORE 2000 THE 
+     STORE OF THE FUTURE"              Trademark           1,811,032       December 14, 2003
+   Name "ENVIRO-CHOICE"                Trademark           1,811,392       December 14, 2003  
+   "ACE HARDWARE COMMITTED 
+     TO A QUALITY ENVIRONMENT"         Service Mark        1,764,803       April 13, 2003  
+</TABLE>     
+     
+   
+                                      6   
+   
+
+Currently the Company has a pending application before the U.S. Patent
+and Trademark Office for registration of "ACE RENTAL PLACE" in stylized
+lettering design for use in connection with the rental of equipment,
+merchandise and supplies. 
+ 
+
+Competition 
+
+   The competitive conditions in the wholesale hardware industry can be
+characterized as intensive due to the fact that independent retailers are
+required to remain competitive with discount stores and chain stores such
+as Wal-Mart, Home Depot and Sears and with other mass merchandisers. The
+gradual shift of retail operations to high rent shopping center locations
+and the trend toward longer store hours have also intensified pressures to
+obtain low cost wholesale supply sources. The Company directly competes in
+several U.S. markets with Cotter & Company, Servistar Corporation, Hardware
+Wholesalers, Inc., Our Own Hardware Company, and United Hardware
+Distributing Co., all of which companies are also dealer-owned
+wholesalers. Of the aforementioned companies, only Cotter & Company,
+headquartered in Chicago, Illinois, has a larger sales volume than the
+Company. 
+ 
+
+Employees 
+
+   The Company employs 3,405 full-time employees, of which 981 are
+salaried employees. Collective bargaining agreements covering one truck
+drivers' bargaining unit and four warehouse bargaining units are currently
+in effect at certain of the Company's distribution warehouses. The
+Company's employee relations with both union and non-union employees are
+considered to be good, and the Company has experienced only one
+employee-related work stoppage in the past five years. All employees are
+covered either by negotiated or non-negotiated employee benefit plans which
+include hospitalization, death benefits and, with few exceptions,
+retirement benefits. 
+ 
+
+Limitations on Ownership of Stock 
+   
+   All of the issued and outstanding shares of capital stock of the
+Company are owned by its dealers. Only approved retail and other dealers in
+hardware and related products having Membership Agreements with the Company
+are eligible to own or purchase shares of any class of the Company's stock.
+
+   No dealer, regardless of the number of member business outlets owned
+or controlled by him, shall be entitled to own more than 1 share of Class A
+Stock, which is the only class of voting stock which can be issued by the
+Company. This ensures that each stockholder-dealer will have an equal voice
+in the management of the Company. An unincorporated person or partnership
+shall be deemed to be controlled by another person, partnership or
+corporation if 50% or more of the assets or profit shares therein are owned
+(i) by such other person, partnership or corporation or (ii) by the owner
+or owners of 50% or more of the assets or profit shares of another
+unincorporated business firm or (iii) by the owner or owners of 50% or more
+of the capital stock of an incorporated business firm. A corporation shall
+be deemed to be controlled by another person, partnership or corporation if
+50% or more of the capital stock of said corporation is owned (i) by such
+person, partnership or corporation or (ii) by the owner or owners of 50% or
+more of the capital stock of another incorporated business firm or (iii) by
+the owner or owners of 50% or more of the assets or profit shares of an
+unincorporated business firm. 
+ 
+
+Distribution of Patronage Dividends 
+   
+   The Company operates on a cooperative basis with respect to purchases
+of merchandise made from it by those of its dealers who have become
+"members" of the Company as described below and in the Company's By-laws.
+In addition, the Company operates on a cooperative basis with respect to
+all dealers who have subscribed for shares but who have not as yet become
+"members" by reason of the fact that the payments made by them on account
+of the purchase price of their shares have not yet reached an amount equal
+to the $1,000 purchase price of 1 share of Class A Voting Stock. All member
+dealers falling into either of the foregoing classifications are entitled
+to receive patronage dividend distributions once each year from the 
+Company in proportion to the amount of their annual purchases of 
+merchandise from it.  
+    
+                                      7
+   
+   
+   The patronage dividends distributed on wholesale warehouse, bulletin
+and direct shipment sales made by the Company and on total sales of
+products manufactured by the Paint Division represented the following
+percentages of each of said categories of sales during each of the past
+three calendar years: 
+ 
+                 
+                                    1993          1992         1991    
+                                    
+   Warehouse Sales                4.94434%      5.26838%     4.99516%  
+   Bulletin Sales                 2.0%          2.0%         2.0%  
+   Direct Shipment Sales          1.0%          1.0%         1.0%  
+   Paint Sales                    7.9389%       8.9440%      8.6463%  
+
+   In addition to the dividends described above, patronage dividends are
+calculated separately and distributed on sales of lumber products,
+building material products and less-than-truckload (LTL) sales of lumber
+and building material products. Patronage dividends equal to .1763%, .1260%
+and .2098% of the total sales of these products (calculated separately by
+each of these three sales categories) were distributed to the Company's
+dealers who purchased those products in 1993, 1992 and 1991, respectively.
+Under the LTL Plus Program, patronage dividends are also calculated
+separately on sales of full or partial truckloads of products purchased by
+eligible dealers from specified vendors (see discussion of LTL Plus Program
+set forth above in this Item 1). The maximum amount of patronage dividends
+allocable to LTL Plus sales is .5% of such sales. The LTL Plus Program
+dividend was .5% of such sales for 1993, 1992 and 1991. 
+ 
+
+Patronage Dividend Determinations and Allocations 
+   
+   The amounts distributed by the Company as patronage dividends consist
+of its gross profits on business done with dealers who qualify for
+patronage dividend distributions after deducting from said gross profits a
+proportionate share of the Company's expenses for administration and
+operations. Such gross profits consist of the difference between the price
+at which merchandise is sold to such dealers and the cost of such
+merchandise to the Company. All income and expenses associated with
+activities not directly related to patronage transactions are excluded from
+the computation of patronage dividends. Generally these include profits on
+business done with dealers who do not qualify for patronage dividend
+distributions and any income (loss) realized by the Company from the
+disposition of property and equipment (except that, to the extent that
+depreciation on such assets has been deducted as an expense during the time
+that the Company has been operating on a cooperative basis and is
+recaptured in connection with such a disposition, the income derived from
+such recapture would be included in computing patronage dividends). 
+ 
+   The By-laws of the Company provide that, by virtue of a dealer being a
+"member" of the Company (that is, by virtue of his ownership of 1 share of
+Class A Voting Stock), he will be deemed to have consented to include in
+his gross income for federal income tax purposes for the dealer's taxable
+year in which they are received by him all patronage dividends
+distributed to him by the Company in connection with his purchases of
+merchandise from the Company. A dealer who has not yet paid an amount which
+at least equals the $1,000 purchase price of the 1 share of Class A Voting
+Stock subscribed for by him will also be required to include all patronage
+dividends distributed to him by the Company in his gross income for federal
+income tax purposes in the year in which they are received by him. This is
+required by virtue of a provision in the Subscription Agreement executed by
+him under which he expressly consents to take all such patronage dividends
+into his gross income for such purposes. The amount of the patronage
+dividends which must be included in a dealer's gross income includes both
+the portion of such patronage dividends received by him in cash or applied
+against indebtedness owing by him to the Company in accordance with Section
+7 of Article XXIV of the Company's By-laws and the portion or portions
+thereof which he receives in shares of Class C Nonvoting Stock of the
+Company or in patronage refund certificates.  
+   
+
+                                      8
+   
+   
+   Patronage dividends on each of the Company's three basic categories of
+sales (warehouse sales, bulletin sales and direct shipment sales) are
+allocated separately, as are patronage dividends under the LTL Plus
+Program. However, the maximum amount of patronage dividends allocable to
+LTL Plus Program sales is an amount no greater than .5% of such sales, the
+maximum amount of patronage dividends allocable to direct shipment sales
+exclusive of LTL Plus Program sales is an amount equal to 1% of such sales
+and the maximum amount of patronage dividends allocable to bulletin sales
+is an amount equal to 2% of that category of sales. All remaining patronage
+dividends resulting from sales made under these programs are allocated by
+the Company to warehouse sales. The Company feels that this allocation
+procedure provides a practical and understandable method for the
+distribution of these patronage dividends in a fair and equitable manner. 
+
+   Sales of lumber and building materials products are not included as
+part of warehouse sales, bulletin sales, or direct shipment sales for
+patronage dividend purposes. Patronage dividends are calculated separately
+and distributed to the Company's dealers with respect to their purchases
+within each of three sales categories involving these types of products.
+These three categories are (a) lumber products (other than
+less-than-truckload sales); (b) building materials products (other than
+less-than-truckload sales); and (c) less-than-truckload ("LTL") sales of
+lumber and building material products. Patronage dividends are also
+calculated separately and distributed to the Company's dealers for full and
+partial truckloads of products purchased under the LTL Plus Program. (See
+the discussion of the LTL Plus Program set forth above in this Item 1 and
+under the subheading "Forms of Patronage Dividend Distributions,"
+subparagraphs 2(a)-(b) below). 
+
+   Any manufacturing profit realized on intracompany sales of the products
+manufactured by the Company's Paint Division is allocated among and
+distributed as patronage dividends to those member dealers who are eligible
+to receive patronage dividends from the Company in proportion to their
+respective annual dollar purchases of paint and related products
+manufactured by said Division. The earnings realized by the Company on
+wholesale sales of such products made by it to its member dealers are
+distributed as patronage dividends to all of its dealers who are eligible
+to receive patronage dividends from it as part of the patronage dividends
+which they receive each year with respect to the basic patronage dividend
+categories established for warehouse sales, bulletin sales, and direct
+shipment sales. Under Section 8 of Article XXIV of the Company's By-laws,
+if the Paint Division's manufacturing operations for any year result in a
+net loss, rather than a profit, to the Paint Division, such loss would be
+netted against the earnings realized by the Company from its other
+activities during the year, with the result that the earnings available
+from such other activities for distribution as patronage dividends for such
+year would be correspondingly reduced. 
+ 
+
+Forms of Patronage Dividend Distributions 
+   
+   Patronage dividend distributions will be made to the eligible and
+qualified member dealers of the Company in cash, shares of the Company's
+Class C stock and patronage refund certificates in accordance with the
+following plan which has been adopted by the Company's Board of Directors
+with respect to purchases of merchandise made by such dealers from the
+Company on or after January 1, 1993, and which will continue to be in
+effect until such time as the Board of Directors, in the exercise of their
+authority and discretion based upon business conditions from time to time
+and the requirements of the Company, shall determine that such plan should
+be altered or amended: 
+
+       1. With respect to each store owned or controlled by each eligible and
+    qualifying dealer, such dealer shall receive a minimum cash distribution
+    determined as follows: 
+           (a) an amount equal to 20% of the first $5,000 of the total
+       patronage dividends allocated for distribution each year to such dealer
+       in connection with the purchases made for such store; 
+           (b) an amount equal to 25% of the portion of the total patronage
+       dividends allocated for distribution each year to such dealer for such
+       store which exceeds $5,000 but does not exceed $7,500;  
+           
+           
+                                      9
+           
+           
+           (c) an amount equal to 30% of the portion of the total patronage
+       dividends allocated for distribution each year to such dealer for
+       such store which exceeds $7,500 but does not exceed $10,000; 
+           (d) an amount equal to 35% of the portion of the total patronage
+       dividends allocated for distribution each year to such dealer for
+       such store which exceeds $10,000 but does not exceed $12,500; 
+           (e) an amount equal to 40% of the portion of the total patronage 
+       dividends allocated for distribution each year to such dealer for
+       such store which exceeds $12,500. 
+       
+       2. The portion of the total annual distribution allocated to any such
+    dealer for each store owned or controlled by such dealer in excess of the
+    amount to be distributed to such dealer for such store in cash shall be
+    distributed to him each year in the form of shares of Class C Non-voting
+    Stock of Ace Hardware Corporation (par value $100 per share), valued at
+    the par value thereof, until the total par value of all shares of all
+    classes of capital stock of the corporation held by such dealer with
+    respect to such store equals the greater of: 
+           (a) $20,000; or 
+           (b) a sum equal to the total of the following categories of 
+       purchases made by such dealer for such store during the most recent 
+       calendar year: 
+                (i)   10% of the volume of Ace manufactured paint and related
+                      products purchases, plus 
+                (ii)  3% of the volume of drop-shipment or direct purchases 
+                      (excluding Ace manufactured paint and related products), 
+                      plus 
+                (iii) 13% of the volume of warehouse (including STOP and 
+                      excluding Ace manufactured paint and related products) 
+                      and bulletin purchases, plus 
+                (iv)  4% of the volume of lumber and building material 
+                      (excluding LTL) purchases, plus 
+                (v)   4% of the volume of LTL Plus purchases; 
+    provided, however, that no fractional shares of Class C Non-voting
+    Stock shall be issued to any dealer and that any amount which would have
+    otherwise been distributable as a fractional share of such stock shall
+    instead be distributed to such dealer in cash. 
+       
+       3. The portion of the total patronage dividends allocated each year
+    to any such dealer for each store owned or controlled by such dealer 
+    which exceeds the sum of (a) the amount to be distributed to such dealer 
+    for such store in cash pursuant to Paragraph 1. above and (b) any amount 
+    to be distributed to him in the form of shares of Class C Non-voting 
+    Stock of Ace Hardware Corporation (par value $100 per share) pursuant to 
+    Paragraph 2. above shall be distributed to such dealer in cash; provided, 
+    however, that in no event shall the total amount distributed under this 
+    plan to any such dealer for any such store in cash exceed 49.9% of the 
+    total patronage dividends allocated for such store for such year, and to 
+    the extent that any distribution to be made to any such dealer for any 
+    store pursuant to this Paragraph 3. would otherwise cause the total cash 
+    distribution to such dealer for such store to exceed 49.9% of the total 
+    patronage dividends allocated for such store for such year, the 
+    distribution to be made under this Paragraph 3. shall instead be made in
+    the form of a non-negotiable patronage refund certificate having such a 
+    maturity date and bearing interest at such an annual rate as shall be 
+    determined by the Board of Directors prior to the issuance thereof. 
+
+   With certain modifications, the above Plan is applied separately in
+determining the form in which patronage dividends accrued with respect to
+sales of lumber and building materials products are distributed. In this
+connection the combined patronage dividends allocated annually to a store
+from (a) sales of lumber products (other than LTL sales) to the store, (b)
+sales of building materials (other than LTL sales) to the store, and (c)
+LTL sales to the store are used in determining the minimum cash
+distribution percentages to be applied under Paragraph 1 of the above
+Plan. A store's patronage dividends from any other sales category with 
+
+
+                                      10
+
+
+respect to which patronage dividends are distributed by the Company are not 
+taken into account in determining either the minimum portion or any 
+additional portion of the store's patronage dividends derived from its 
+purchases of lumber and building materials products which is to be 
+distributed in cash. Also, Paragraphs 2 and 3 of the above Plan are applied
+separately to patronage dividends on lumber and building materials sales and 
+the requirements of Paragraph 2 of the Plan shall not be deemed to have been 
+complied with in the cases of (a) purchases of lumber products (other than 
+LTL purchases) or (b) purchases of building materials products (other than 
+LTL purchases) until the store's holdings of Class C Non-voting Stock of the 
+Company resulting from patronage dividends on the Company's sales to it 
+within the particular one of those two sales categories for which a patronage 
+dividend distribution is to be made equal 4% of the volume of the store's 
+purchases within such category during the most recent calendar year. However, 
+no such special Class C Stock requirement applies to patronage dividends 
+accrued on LTL purchases. 
+ 
+   Notwithstanding the provisions of the above-described Plan, however,
+under Section 7 of Article XXIV of the Company's By-laws the portion of any
+patronage dividends which would otherwise be distributable in cash with
+respect to a retail dealer outlet which is a member of the Company will
+instead be applied against any indebtedness owing by the dealer to the
+Company to the extent of such indebtedness in any case where the membership
+for such outlet is cancelled or terminated prior to the distribution of
+such patronage dividends except that an amount equal to 20% of the dealer's
+total annual patronage dividends for such outlet will be paid in cash if a
+timely request for the payment of such amount in cash is submitted to the
+Company by the dealer. 
+ 
+   Because of the requirement of the U. S. Internal Revenue Code that the
+Company withhold 30% of the annual patronage dividends distributed to
+member dealers of the Company whose places of business are located in
+foreign countries or Puerto Rico (except in the case of unincorporated
+Puerto Rico dealers owned by individuals who are U.S. citizens and certain
+dealers incorporated in Guam, American Samoa, the Northern Mariana Islands,
+or the U.S. Virgin Islands, if less than 25% of its stock is owned by
+foreign persons, and at least 65% of the Corporation's gross income for the
+last three years has been effectively connected with the conduct of a trade
+or business in such possession or in the United States), the cash portion
+of the annual patronage dividends of such dealers shall in no event be less
+than 30%. 
+ 
+   It is anticipated that the terms of any patronage refund certificates
+issued pursuant to Paragraph 3. of the foregoing Plan would include
+provisions giving the Company a first lien thereon for the amount of any
+indebtedness owing to it at any time by the owner of any such certificate
+and provisions subordinating the certificates to all the rights and claims
+of secured, general and bank creditors against the Company. It is further
+anticipated that all such patronage refund certificates will have maturity
+dates which will be no later than five years from the dates of issuance
+thereof. 
+ 
+   In order to aid the Company's dealers in acquiring and installing
+standardized exterior signs identifying the retail stores operated by them
+as member outlets supplied by the Company, the Board of Directors of the
+Company has authorized a program under which a dealer may borrow from the
+Company within a range of $100 to $20,000 the funds required for such
+purpose. A dealer who obtains a loan under this program may either repay
+the loan in twelve substantially equal payments billed on such dealer's
+regular by-weekly billing statement, or may execute a direction to have the
+portion of the dealer's annual patronage dividends which would otherwise be
+distributed under the above plan in a form other than cash from no more
+than the next three annual distributions of such dividends applied toward
+payment of the principal and interest on the loan. 
+ 
+   In order to aid the Company's dealers in acquiring and installing PACE
+and PAINTMAKER computer systems purchased from the Company, the Board of
+Directors of the Company has also authorized programs under which
+the Company will finance qualified dealers in the case of a PAINTMAKER
+computer, within the range of $1,000 to $15,000 repayable over a period of
+three (3) years, and in the case of a PACE computer, within the range of 
+
+
+                                      11
+
+
+$5,000 to $50,000 repayable over a period of five (5) years for such purpose. 
+Dealers who obtain financing from the Company for these purposes direct the 
+Company, during the financing term, to first apply toward the principal and 
+interest due on such loans, the patronage dividends which would otherwise 
+be payable in the form of patronage refund certificates for each year, and 
+then to apply the patronage dividends which would otherwise be payable for 
+the same year in the form of the Company's Class C stock. 
+ 
+   The aforementioned signage and computer financing programs may be revised
+or discontinued by the Board at any time. 
+
+
+Federal Income Tax Treatment of Patronage Dividends 
+
+   Both the shares of Class C Non-voting Stock and the patronage refund
+certificates used by the Company to pay patronage dividends that accrue to
+its eligible and qualifying dealers constitute "qualified written notices
+of allocation" within the meaning of that term as used in Sections 1381
+through 1388 of the U.S. Internal Revenue Code, which specifically provide
+for the income tax treatment of cooperatives and their patrons and which
+have been in effect since 1963. The stated dollar amounts of such qualified
+written notices of allocation must be taken into the gross income of each
+of the recipients thereof for the taxable years in which they are 
+received,  not withstanding the fact that stated dollar amounts may not be
+received in such taxable years. 
+ 
+   In order for the Company to receive a deduction from its gross income
+for federal income tax purposes for the amount of any patronage dividends
+paid by it to a patron (that is, to one of its eligible and qualifying
+dealers) in the form of qualified written notices of allocation, it is
+necessary that the Company pay (or apply against indebtedness owing to the
+Company by such patron in accordance with Section 7 of Article XXIV of the
+Company's By-laws) not less than 20% of the total patronage dividends
+distributable to such patron in cash and that the patron consent to having
+the written notices of allocation, at their stated dollar amounts, included
+in his gross income for the taxable year in which they are received by him.
+It is also required under the Code that any patronage dividend distributions
+deducted by the Company on its federal income tax return with respect to 
+business done by it with patrons during the year for which such deduction
+is taken must be made to the Company's patrons within 8 1/2 months after
+the end of such year. 
+ 
+   Dealers who have become "members" of the Company by owning 1 share of
+Class A Voting Stock are deemed under the U.S. Internal Revenue Code to
+have consented to take any written notices of allocation distributed to
+them into their gross income by their act of obtaining or retaining 
+membership in the Company and by having received from the Company a written
+notification of the By-law provision providing that membership in the
+Company constitutes such consent. In accordance with another provision in
+the Internal Revenue Code, nonmember dealers who have subscribed for shares
+of the Company's stock will also be deemed to have consented, by virtue of
+the consent provisions included in their Subscription Agreements, to take
+any written notices of allocation distributed to them into their gross
+income. 
+ 
+   A dealer receiving a patronage refund certificate as part of the
+dealer's patronage dividends in accordance with the last clause of
+Paragraph 3 of the patronage dividend distribution plan previously
+described under the subheading "Forms of Patronage Dividend Distributions"
+in this Item 1, may be deemed to have received interest income in the form
+of an original issue discount to the extent of any excess of the face
+amount of the certificate over the present value of the stated principal
+and interest payments to be made by the Company under the terms of the
+certificate. Such income would be taxable to the dealer ratably over the
+term of the certificate under Section 7872(b) (2) of the U. S. Internal
+Revenue Code. The present value for this purpose is to be determined by
+using a discount rate equal to the applicable Federal rate in effect as of
+the day of issuance of the certificate, compounded semi-annually.  
+   
+   
+                                      12
+                                      
+   
+   The Company will be required to withhold for federal income tax on the
+patronage dividend distribution which is made to a payee who has not
+furnished his taxpayer identification number to the Company or as to whom
+the Company has notice of the fact that the number furnished to it is
+incorrect. A cooperative organization may also be required to withhold on
+the cash portion of each patronage dividend distribution made to a payee
+who becomes a member of the cooperative if the payee fails to certify to
+the cooperative that he is not subject to backup withholding. It is the
+opinion of counsel for the Company that this provision is not applicable to
+any patronage dividend distribution to a payee unless 50% or more of the
+total distribution is made in cash. Since all of the Company's patronage
+dividends for a given year are distributed at the same time and the
+Company's currently effective patronage dividend plan does not permit any
+store which is a member of the Company to receive more than 49.9% of its
+patronage dividends for the year in the form of cash, it is said counsel's
+further opinion that such a certification failure would ordinarily have no
+effect on the Company or any of its dealers. 
+ 
+   Patronage dividends distributed by a cooperative organization to its
+patrons who are located in foreign countries or certain U. S. possessions
+have been held to constitute fixed or determinable annual or periodic
+income on which such patrons are required to pay a tax of 30% of the amount
+received in accordance with the provisions of Sections 871(a)(1)(A) and
+881(a) (1) of the Internal Revenue Code, as do patronage dividends
+distributed to patrons which are incorporated in Puerto Rico or who reside
+in Puerto Rico but have not become citizens of the United States. With
+respect to its dealers who are subject to such 30% tax, the Company is also
+obligated to withhold from their patronage dividends and pay over to the 
+U. S. Internal Revenue Service an amount equal to the tax. The foregoing
+provisions do not apply to a corporation organized in Guam, American
+Samoa, the Northern Mariana Islands, or the U. S. Virgin Islands if less
+than 25% of its stock is owned by foreign persons and at least 65% of its
+gross income for the last three years has been effectively connected with
+the conduct of a trade or business in such possession or in the United
+States. 
+ 
+   The 20% minimum portion of the patronage dividends to be paid in cash to
+a patron with respect to whom the Company is neither required to withhold
+30% of his total patronage dividend distribution nor permitted to apply
+such minimum portion against indebtedness owing to it by him may be
+insufficient depending upon the income tax bracket of each individual
+patron, to provide funds for the full payment of the federal income tax for
+which such patron will be liable as a result of the receipt of the total
+patronage dividends distributed to him during the year, including cash,
+patronage refund certificates and/or Class C Non-voting Stock. 
+ 
+   In the opinion of the Company's management, payment in cash of not less
+than 20% of the total patronage dividends distributable each year to the
+Company's eligible and qualifying dealers will not have a material adverse
+effect on the operations of the Company or its ability to obtain adequate
+working capital for the normal requirements of its business. 
+ 
+
+Membership Agreement 
+
+   In addition to signing a Subscription Agreement for the purchase of
+shares of the Company's stock, each retail dealer who applies to become an
+Ace dealer (excluding the firms which are "International Retail Merchants"
+as discussed below under the subheading "International Retail Merchants" in
+this Item 1) must sign the Company's customary Membership Agreement. A
+payment of $400 must accompany the signed Membership Agreement to defray
+the Company's estimated costs of processing the membership application. If
+the application is accepted, copies of both the Membership Agreement and
+the Stock Subscription Agreement, signed on behalf of the Company to
+evidence its acceptance, are forwarded to the dealer. No royalties are
+payable at any time by a dealer for an outlet which the Company accepts for
+affiliation into its dealer network. Membership may be terminated upon
+various notice periods and for various reasons (including voluntary 
+termination by either party) as prescribed in the membership agreement, 
+except to the extent that special laws or regulations applicable to specific 
+locations may limit the Company's right to terminate memberships, or may 
+prescribe greater periods of notice under particular circumstances. 
+ 
+
+                                      13
+
+
+International Retail Merchants 
+   
+   In 1989, the Company's Board of Directors authorized the Company to
+affiliate International Retail Merchants, who operate retail businesses
+outside the United States, its territories and possessions. International
+Retail Merchants sign an International Retail Merchants Agreement in lieu
+of the Company's Regular Membership Agreement, and are generally granted a
+license to use certain of the Company's service marks. They do not,
+however, sign Stock Subscription Agreements or become shareholders of the
+Company by reason of their International Retail Merchants Agreements, nor
+do they receive distributions of patronage dividends. As of December 31,
+1993, 1992 and 1991 International Retail Merchant volume with the Company
+accounts for less than 3% of the Company's total sales in each such year. 
+ 
+
+Item 2. Properties 
+   
+   The Company's general offices are located at 2200 Kensington Court, Oak
+Brook, Illinois 60521. Information with respect to the Company's principal
+properties follows: 
+<TABLE>              
+<CAPTION>    
+                                          Square Feet        Owned          Lease   
+                                          of Facility          or         Expiration   
+             Location                   (Land in Acres)      Leased          Date
+  General Offices:  
+    <S>                                   <C>                <C>        <C>
+    Oak Brook, Illinois                     206,030          Leased     September 30, 2009  
+    Oak Brook, Illinois (1)                  70,508          Owned    
+   Distribution Warehouses:  
+    Lincoln, Nebraska                       346,000          Leased     October 31, 1996  
+    Arlington, Texas                        313,000          Leased     July 31, 1996  
+    Perrysburg, Ohio                        396,000          Leased     November 1, 2004  
+    Tampa, Florida                          391,760          Owned  
+    Harmans, Maryland                       277,000          Owned  
+    Yakima, Washington                      502,400          Owned  
+    Maumelle, Arkansas                      350,000          Owned  
+    LaCrosse, Wisconsin                     363,000          Owned  
+    Bloomfield, Connecticut(2)              449,820          Owned  
+    Huntersville, North Carolina            354,000          Owned  
+    Rocklin, California                     470,000          Owned  
+    Gainesville, Georgia                    478,000          Owned  
+    Prescott Valley, Arizona                633,000          Owned  
+    Princeton, Illinois                   1,080,000          Owned  
+   Print Shop Facility:  
+    Downers Grove, Illinois                  41,000          Leased     January 31, 1995  
+   Paint Manufacturing Facility:  
+    Matteson, Illinois                      356,000          Owned  
+    Other Property (Land):  
+    Aurora, Illinois                       72 acres          Owned    
+    LaCrosse, Wisconsin(3)                  3 acres          Owned   
+         
+</TABLE>           
+
+   (1) Includes 35,254 square feet leased to tenant until July 31, 1996.
+       The subject property is adjacent to the Company's general offices.  
+   (2) Includes an 80,820 sq. ft. warehouse expansion project, scheduled 
+       for completion later in 1994.  
+   (3) This land is adjacent to the Company's LaCrosse, Wisconsin
+       warehouse.  
+   
+   The Company also leases a fleet of transportation equipment for the
+primary purpose of delivering merchandise from the Company's warehouses to
+its dealers.  
+   
+
+                                      14
+
+ 
+Item 3. Legal Proceedings 
+
+   There are no material pending legal proceedings which either
+individually or in the aggregate involve claims for damages that exceed 10%
+of the current assets of the Company and its subsidiaries on a consolidated 
+basis. 
+ 
+
+Item 4. Submission To A Vote Of Security Holders 
+
+   None. 
+ 
+
+                                    PART II 
+
+Item 5. Market For The Registrant's Common Equity And Related Stockhoder
+        Matters 
+
+   There is no existing market for the stock of the Company and there is
+no expectation that any market will develop. The Company is organized and
+operates as a cooperative corporation, and its stock is owned exclusively
+by retailers of hardware and related merchandise who are members of the
+Company. 
+ 
+   The number of holders of record as of February 28, 1994 of each class of
+stock of the Company is as follows: 
+ 
+               
+    Title of Class                                  Number of Record Holders
+      Class A stock, $1,000 par value                        3,933  
+      Class B stock, $1,000 par value                          850  
+      Class C stock, $100 par value                          4,756  
+  
+   Dividends, other than patronage dividends are prohibited by the
+Company's Articles of Incorporation and By-laws. See the discussion of
+patronage dividends under Item 1. Business.  
+
+          
+                                      15
+
+
+Item 6. Selected Financial Data 
+<TABLE>
+                                                   SELECTED FINANCIAL DATA  
+                                              (Not Covered by Auditors' Report)  
+
+Income Statement Data:  
+                   
+                                                                          Year Ended December 31,   
+<CAPTION>       
+                                                      1993           1992           1991           1990           1989   
+                                                                              (000's omitted)
+<S>                                               <C>            <C>            <C>            <C>            <C>
+Net sales                                         $ 2,017,763    $ 1,870,625    $ 1,704,203    $ 1,625,029    $ 1,546,450    
+Cost of sales                                       1,867,326      1,723,017      1,569,871      1,497,147      1,426,322     
+              
+Gross profit                                          150,437        147,608        134,332        127,882        120,128   
+Total expenses                                         93,345         86,841         75,175         67,470         69,557     
+              
+Earnings before patronage dividends                    57,092         60,767         59,157         60,412         50,571    
+  Patronage dividends (Note A, B, 5 and 8)             59,023         63,207         57,729         57,519         53,128     
+              
+Net earnings                                      $    (1,931)    $   (2,440)    $    1,428    $     2,893   $     (2,557)  
+
+</TABLE>               
+<TABLE>
+              
+Balance Sheet Data:  
+                                                                         Year Ended December 31,   
+<CAPTION>       
+                                                       1993           1992           1991           1990           1989   
+                                                                              (000's omitted)  
+<S>                                               <C>             <C>            <C>           <C>           <C>
+Total assets                                      $   667,488     $  594,676     $  540,953    $   479,202   $    496,834 
+Working capital                                       133,287        103,952        105,899         92,376         76,683    
+Long-term debt                                         71,286         51,696         38,737         22,521         28,622    
+Patronage refund certificates payable, long-term       56,270         55,389         58,559         52,134         45,669    
+Member dealers' equity                                186,028        175,681        164,411        154,563        139,545   
+           
+</TABLE>
+
+ (A) The Company operates as a cooperative organization, and pays
+     patronage dividends to member dealers on earnings derived from business
+     done with such dealers. It is the practice of the Company to distribute 
+     all patronage sourced earnings in the form of patronage dividends. 
+     Earnings before patronage dividends and patronage dividends will 
+     normally be the same, except for differences caused by the timing of 
+     the recognition of certain items for income tax purposes.  
+
+ (B) The form in which patronage dividends are to be distributed can only
+     be determined at the end of each year when the amount distributable to 
+     each of the member dealers is known. For the five years ended 
+     December 31, 1993, patronage dividends were payable as follows:   
+    
+<TABLE>
+<CAPTION>                   
+                                              1993        1992        1991       1990         1989   
+              
+                                                                (000's omitted)  
+<S>                                         <C>         <C>         <C>         <C>         <C>
+In cash                                     $25,766     $27,538     $26,864     $26,462     $24,359  
+In patronage refund certificates payable     12,728      14,598      15,176      13,597      12,310  
+In Class C Stock                             19,064      20,301      14,841      16,322      15,328  
+In patronage finanacing deductions            1,465         770         848       1,138       1,131   
+              
+Total patronage dividends                   $59,023     $63,207     $57,729     $57,519     $53,128   
+               
+</TABLE>              
+
+ (C) Numbered notes refer to Notes to Financial Statements, beginning
+     on page F-8.  
+  
+
+                                      16
+
+
+    Item 7.  Management's Discussion And Analysis Of Financial Condition
+And Results Of Operations 
+ 
+
+
+                   MANAGEMENT'S DISCUSSION AND ANALYSIS OF 
+                FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+Liquidity and Capital Resources 
+
+   The Company's ability to generate cash adequate to meet its needs
+("liquidity") results from internally generated funds, short-term lines of
+credit and long-term financings (see Notes 3 and 4 to the financial
+statements). These sources have been sufficient to finance the Company's
+seasonal and other working capital requirements and its capital expenditure
+programs. 
+ 
+   The Company had unused unsecured lines of credit of $69.0 million at
+December 31, 1993. Any borrowings under these lines of credit would bear
+interest at the prime rate or less. Long-term financings are arranged as
+determined necessary to meet the Company's capital or other requirements,
+with principal amount, timing and form dependent on prevailing debt markets
+and general economic conditions. 
+ 
+   Capital expenditures for new and improved facilities were $16.3, $34.6
+and $37.9 million in 1993, 1992 and 1991, respectively. During 1993, the
+Company financed the $16.3 million of capital expenditures out of current
+and accumulated internally generated funds, and short-term and long-term
+borrowings. 1994 capital expenditures are anticipated to be approximately
+$30.9 million primarily for improvements to existing facilities. 
+ 
+   As a cooperative, the Company distributes substantially all of its 
+patronage source earnings to its members in the form of patronage dividends, 
+which are deductible for income tax purposes (see headings "Patronage 
+Dividend Determinations And Allocations" and "Federal Tax Treatment of 
+Patronage Dividends"). The 1991 capital gain from the sale and leaseback of 
+the Los Angeles, California facility constitutes nonpatronage-sourced income 
+and is not available for distribution as patronage dividends. 
+ 
+   The Company expects that existing and new internally generated funds,
+along with established lines of credit and long-term financings, will
+continue to be sufficient to finance the Company's patronage dividend and
+capital expenditure programs. 
+ 
+
+Operations--1993 Compared to 1992 
+   
+   Net sales increased 7.9% in 1993 primarily due to increases in volume
+from existing dealers. Sales of basic hardware and paint merchandise
+(including warehouse, bulletin, and direct shipments) increased 6.8%.
+Lumber and building material sales experienced a higher percentage increase
+in 1993. Net dealer outlets decreased as set forth on page 1 as a result of
+increased sales and marketing efforts with existing dealers and increased
+competition.
+   
+   Gross profit increased $2,829,000 or 1.9% vs. 1992 due primarily to
+higher net merchandise discounts and allowances. Gross profit decreased as
+a percent of sales, however, due to reduced handling charges on
+competitively priced items and shifts in the Company's sales mix. 
+ 
+   Warehouse and distribution expenses decreased by $641,000 or 2.0% due to
+decreased building rental and facility costs and increased levels of
+warehousing costs absorbed into cost of sales, partially offset by
+increased personnel and equipment costs and traffic freight subsidies. 
+ 
+   Selling, general, and administration expenses increased by $5,927,000 or
+12.2% due to higher personnel costs and marketing expenses partially
+offset by higher advertising and retail support income. 
+ 
+
+                                      17
+
+
+   Interest expense increased $1,418,000 in 1993 despite lower interest
+rates due to increased long-term debt resulting from the financing of
+planned capital expenditures and increased inventory levels. The use of
+both short-term borrowings and long-term financing is expected to continue
+to fund planned capital expenditures (see liquidity and capital resources
+and Notes 3 and 4 to the financial statements). 
+ 
+
+Operations--1992 Compared to 1991 
+   
+   Net sales increased 9.8% in 1992 primarily due to increases in volume
+from existing dealers. Sales of basic hardware and paint merchandise
+(including warehouse, bulletin, and direct shipments) increased 6.9%.
+Lumber and building material sales experienced a higher percentage increase
+in 1992. Total paint sales increased 12.3%. Net dealer outlets decreased as
+set forth on page 1 as a result of increased sales and marketing efforts
+with existing dealers and increased competition. 
+ 
+   Gross profit increased $13,276,000 or 9.9% vs. 1991 but is comparable as
+a percentage of sales primarily due to higher net merchandise discounts
+and allowances and a lower LIFO provision partially offset by reduced
+handling charges as a percent of sales caused by a shift in the sales mix. 
+ 
+   Warehouse and distribution expenses increased by $3,310,000 or 11.4% due
+to higher personnel costs related to volume increases, increased building
+rental costs and higher 1992 start-up and closing costs incurred in
+conjunction with the replacement of a facility. 
+ 
+   Selling, general, and administration expenses increased by $4,013,000 or
+9.0% due to higher personnel costs and marketing expenses partially offset
+by higher advertising income. 
+ 
+   Interest expense increased $1,370,000 in 1992 despite lower interest
+rates due to increased long and short-term debt resulting from the
+financing of planned capital expenditures and increased inventory levels.
+The use of both short-term borrowings and long-term financing is expected
+to continue to fund planned capital expenditures (see liquidity and capital
+resources and Notes 3 and 4 to the financial statements). 
+ 
+   Other income, net decreased $2,973,000 in 1992 due primarily to the 1991
+gain on the sale of the Los Angeles facility (see Note 11 to the financial
+statements). 
+ 
+
+Inflation and Changes in Prices 
+   
+   The Company's business is not generally governed by contracts that
+establish prices substantially in advance of the receipt of goods or
+services. As vendors increase their prices for merchandise supplied to the
+Company, the Company increases the price to its dealers in an equal amount
+plus the normal handling charge on such amounts. In the past, these
+increases have provided adequate gross profit to offset the impact of
+inflation on operating expenses.  
+
+
+Item 8.  Financial Statements And Supplementary Data  
+      
+   Financial statements and financial statement schedules covered by
+the report of the Company's certified public accountants are listed on
+Page F-1. 
+ 
+   Item 9.  Changes In And Disagreements With Accountants On Accounting
+And Financial Disclosures  
+
+   None.  
+   
+                                      18
+
+   
+                                    PART III 
+
+Item 10.  Directors And Executive Officers Of The Company  
+   
+   The directors and the executive officers of the Company are: 
+             
+                                             Position(s) Held   
+          Name             Age            and Business Experience   
+   Lawrence R. Bowman       47     Director since February 4, 1991; term 
+                                   expires 1995; Vice President of Owenhouse 
+                                   Hardware Co., Inc., Bozeman, Montana  
+
+   David F. Hodnik          46     Executive Vice President and Chief 
+                                   Operating Officer since January, 1994; 
+                                   Executive Vice President and Treasurer 
+                                   since January, 1991; Senior Vice President 
+                                   and Treasurer since January, 1988; Vice 
+                                   President--Finance and Management 
+                                   Information Systems and Treasurer since 
+                                   September, 1986; Vice President--Finance 
+                                   and Treasurer from December, 1982.  
+
+   Paul M. Ingevaldson      48     Vice President--Corporate Strategy and 
+                                   International Business since September, 
+                                   1992; Vice President--Retail Support 
+                                   Services since August, 1989; Vice 
+                                   President--Western Region since 
+                                   September 1, 1988; Vice President--
+                                   Distribution since September, 1986; 
+                                   Vice President--Management Information 
+                                   Systems from October, 1985; Director of 
+                                   Data Processing from October, 1982.  
+
+   Mark Jeronimus           45     Director since June 3, 1991; term expires
+                                   1994; President of Duluth Hardware, Inc.,
+                                   Duluth, Minnesota.  
+
+   Howard J. Jung           46     Director since June 1, 1987; term expires 
+                                   1996; Vice President of Ace Hardware & 
+                                   Home Center, Inc., Raleigh, North Carolina.
+
+   Rita D. Kahle            37     Vice President--Finance since January, 1994; 
+                                   Vice President--Controller since 
+                                   January, 1992; Controller from July, 1988.  
+
+   John E. Kingrey          50     Director since May 17, 1992; term expires 
+                                   1996; President of WK&K Corp., Wimberley, 
+                                   Texas.
+
+   Richard E. Laskowski     52     Chairman of the Board since February 18, 
+                                   1992 and Director since June 1, 1987; 
+                                   term expires 1995; President of Ace 
+                                   Hardware Home Center of Round Lake, Inc., 
+                                   Round Lake, Illinois.  
+
+   William A. Loftus        55     Senior Vice President--Marketing and 
+                                   Advertising since September, 1992; Senior 
+                                   Vice President since January 1, 1991; Vice 
+                                   President--Retail Support Operations since
+                                   August, 1989; Vice President--Eastern 
+                                   Region since September 1, 1988; Vice 
+                                   President--Sales since October, 1983;
+                                   National Sales Manager from October, 1976.  
+                                   
+   Fred J. Neer             54     Vice President--Human Resources since 
+                                   April, 1989; Director of Human Resources
+                                   from April, 1986.   
+      
+  
+                                      19
+   
+   
+   Ray W. Osborne           57     Director since June 6, 1988; term expires 
+                                   1994; President of Cook & Sons Ace Hardware 
+                                   Company, Inc., Albertville, Alabama.  
+
+   Roger E. Peterson        56     President and Chief Executive Officer (CEO)
+                                   since December, 1989; President since 
+                                   August, 1986; Executive Vice President from 
+                                   March, 1985; Vice President--Operations 
+                                   from December, 1982.  
+
+   Jon R. Weiss             58     Director since June 4, 1990; term expires 
+                                   1996; President of John W. Weiss Hardware 
+                                   Company, Glenview, Illinois.  
+
+   Don S. Williams          52     Director since June 6, 1988; term expires 
+                                   1994; President of Williams Lumber, Inc., 
+                                   Rhinebeck, New York.  
+
+   James R. Williams        46     Director since June 5, 1989; term expires 
+                                   1995; Vice-President of Williams Ace 
+                                   Hardware, Inc., Wichita, Kansas.  
+  
+   Gary R. Meyer whose term was to have expired in 1994, resigned from the
+Board of Directors for personal reasons in November, 1993 and no successor
+has yet been elected for the balance of his term. 
+ 
+   The By-laws of the Company provide that its Board of Directors shall be
+comprised of such number of persons, not less than 9, as shall be fixed
+from time to time by the Board of Directors. The By-laws also provide for
+three classes of directors who are to be elected for staggered 3-year
+terms. 
+ 
+   The By-laws provide that, except for one position on the Board which
+may, at the discretion of the directors, be filled by the President of the
+Company, no person is eligible to serve as a director unless such person is
+either the owner of a retail business organization holding stock in the
+Company or an executive officer, general partner or general manager of
+such a retail business organization. Such directors are referred to as
+"dealer directors", and are elected from geographic regions of the United
+States established by the Board. 
+ 
+   In accordance with the applicable procedure established by the By-laws,
+the following directors have been selected as nominees for reelection at
+the annual stockholders meeting to be held on June 6, 1994, as directors of
+the classes, from the regions, and for terms as indicated below: 
+               
+
+Nominee                                    Class    Region     Term   
+
+Don S. Williams                            First       1      3 years  
+Ray W. Osborne                             First       3      3 years  
+Mark Jeronimus                             First       9      3 years
+
+   The person named below has been selected as the nominee for election to
+the Board for the first time at the 1994 annual meeting as director of
+the class, from the region, and for the term indicated. 
+ 
+                 
+Nominee                              Age   Class    Region     Term   
+
+Jennifer Anderson                    43    First       8      3 years  
+  
+   Reference should be made to Article IV of the By-laws for information
+concerning the qualifications required for membership on the Board of
+Directors, the terms of directors, the limitations on the total period of 
+
+
+                                      20
+
+
+time for which a director may hold office, the procedure established for
+the designation of Nominating Committees to select certain persons as 
+nominees for election to the Board of Directors, and the procedure for 
+filling vacancies on the Board for the remaining portion of unexpired terms.
+ 
+   None of the events described under Item 401(f) of Regulation S-K
+occurred during the past 5 years with respect to any director of the
+Registrant, any nominee for membership on the Board of Directors of the
+Registrant or any executive or staff officer of the Registrant. 
+ 
+
+Item 11. Executive Compensation 
+   
+   The following information is set forth with respect to the cash
+compensation paid by the Company to each of the five highest paid executive
+officers of the Company whose cash compensation exceeded $100,000, for
+services rendered by them in all capacities to the Company and its
+subsidiaries during the fiscal year ended December 31, 1993 and the two
+previous fiscal years: 
+ 
+<TABLE>
+                                                SUMMARY COMPENSATION TABLE  
+    
+                    
+                                                                                                 Long-Term  
+                                                    Annual Compensation                        Compensation
+<CAPTION>        
+                                                                            (2)  
+       Name                                                                Other                            (4)  
+       and                                                                 Annual            (3)          All Other  
+    Principal                                                 (1)         Compen-        Long-Term        Compen-  
+    Position                    Year         Salary ($)     Bonus ($)     sation ($)     Payouts ($)      sation ($)    
+<S>                             <C>          <C>            <C>            <C>             <C>             <C>
+Roger E. Peterson               1993         $670,000       $100,000       $19,001         $  --           $139,598 
+President and Chief             1992          635,000          --           17,174            --            115,758  
+Executive Officer (CEO)         1991          600,000          --             --              --               --  
+                                     
+David F. Hodnik                 1993          328,000         50,840        14,794          15,500           75,210  
+Executive Vice President        1992          312,000         49,920        13,929            --             66,943  
+and Chief Operating Officer     1991          295,000         48,675          --              --               --  
+  
+William A. Loftus               1993          250,000         37,500        32,881          12,000           61,560  
+Senior Vice President-          1992          240,000         24,000        16,447            --             51,918  
+Marketing & Advertising         1991          230,000         36,800          --              --               --  
+  
+Paul M. Ingevaldson             1993          222,000         31,080        23,915          10,700           53,457  
+Vice President-                 1992          212,000         30,740         9,584            --             46,522  
+Corporate Strategy and          1991          201,000         32,160          --              --               --  
+International Business  
+  
+Fred J. Neer                    1993          157,000         17,490         5,760           7,500           37,361  
+Vice President-                 1992          148,000         18,531         6,459            --             33,222  
+Human Resources                 1991          141,000         16,243          --              --               --   
+         
+</TABLE>  
+
+         
+(1)  The Incentive Compensation Plan covers each of the executive officers 
+     (except Mr. Peterson). The bonus amounts awarded to participants in 
+     the Plan are determined in accordance with individual performance and 
+     achievement of corporate goals. For 1991 to 1993, the maximum incentive 
+     award for each of Messrs. Hodnik, Loftus and Ingevaldson was 18% of their 
+     respective annual salaries and for other executive officers was 15% of 
+     their annual salary for the short-term incentive awards. The short-term 
+     bonus award becomes payable to each participant as early as practicable 
+     after the end of the fiscal year. The 1993 bonus amount for Mr. Peterson 
+     was a one time incentive award as described in the Compensation 
+     Committee Report. For 1994, the maximum short-term incentive award for 
+     each executive officer is 20% of their respective salary.  
+
+
+                                        21
+
+
+(2)  The Company provides automobiles and prior to 1993 provided club 
+     memberships to certain of its executive officers. The Company requires 
+     them to maintain records with respect to any business automobile use. 
+     Such officers pay, both directly and by reimbursement to the Company, 
+     personal automobile expenses and personal charges at clubs. The 
+     compensation table set forth above includes the value of these items 
+     and such value for any officer did not exceed the lesser of $25,000 or 
+     10% of the compensation reported for him in said table.  
+
+(3)  Includes the long-term incentive award under the Incentive Compensation 
+     Plan paid in 1993. The long-term executive award is based on corporate 
+     performance over a three year time frame. The maximum long-term 
+     incentive award for Messrs. Hodnik, Loftus, Ingevaldson, and Neer and 
+     other executive officers is 8.7% of their respective average 3 year 
+     annual salaries. The long term incentive award is determined and 
+     becomes payable to each participant as early as practicable each year 
+     if the participant is still employed by the Company on the preceding 
+     31st of December.  
+
+(4)  Includes compensation for the Executive Supplemental Benefit Plan 
+     (ESBP), contributions to the Company's Profit Sharing Plan which has 
+     been in existence since January 1,1953, and contributions to the 
+     Company's Retirement Benefits Replacement Plan. 
+     
+     The Board of Directors adopted the Executive Supplemental Benefit Plan 
+     (ESBP) in 1991. ESBP provides supplemental life insurance through a 
+     universal life insurance policy, supplemental long-term disability and 
+     supplemental retirement benefits to the executive officers. Under the 
+     supplemental retirement benefits portion of ESBP a formula equal to 
+     .02 of 1% of the total corporate annual Patronage Dividend times the 
+     number of executive officers participating determines the total annual 
+     supplemental retirement benefits under ESBP. This total sum for all 
+     executive officers allocated to the supplemental retirement benefits
+     portion of ESBP cannot exceed $200,000 in any year. The sum is 
+     allocated, by tier, to the executive officers and placed in the cash 
+     value portion of each participant's variable annuity insurance policy 
+     as soon as practicable in each subsequent year. During the year 1993, 
+     total contributions were $14,365 for Messrs. Peterson, Hodnik and 
+     Ingevaldson and $11,485 for Mr. Neer. 
+     
+     All active employees are eligible to participate in the Company's
+     profit sharing plan after one year of service but those active 
+     employees covered by a collective bargaining agreement regarding 
+     retirement benefits which were the subject of good faith bargaining 
+     are not eligible if such agreement does not include them in the plan. 
+     For the year 1993, the Company contributed 10.9% of each participant's 
+     eligible compensation to the Plan. During the year 1993, $25,707 was 
+     expensed by the Company pursuant to the Plan for Messrs. Peterson,
+     Hodnik, Loftus and Ingevaldson and $21,896 for Mr. Neer.  
+     
+     The Company has also established a Retirement Benefits Replacement 
+     Plan covering Messrs. Peterson, Hodnik, Loftus and Ingevaldson. 
+     Effective January 1, 1994, the plan will cover all executive officers 
+     of the Company. This is an unfunded Plan under which the participants 
+     therein are eligible to receive retirement benefits equal to the 
+     amounts by which the benefits they would otherwise have been entitled 
+     to receive under the Company's Profit Sharing Plan may be reduced by 
+     reason of the limitations on contributions and benefits imposed by any 
+     current or future provisions of the U.S. Internal Revenue Code or other
+     federal legislation. During the year 1993, amounts expensed by the 
+     Company pursuant to the Plan were $94,253 for Mr. Peterson, $31,517 
+     for Mr. Hodnik, $17,413 for Mr. Loftus, and $9,792 for Mr. Ingevaldson.
+  
+(5)  As a cooperative whereby all stockholders are member dealers, the
+     Company does not grant or issue stock awards of any kind. 
+     
+     Messrs. Peterson, Hodnik, Loftus and Ingevaldson are employed under 
+contracts, each dated October, 1992 for respective terms of two years,
+terminating December 31, 1994. The contracts provide for annual compensation 
+
+
+                                      22
+
+
+effective January 1, 1994 of $800,000, $350,000, $260,000, and $232,000, 
+respectively or such increased amount, if any, as shall be approved by the 
+Board of Directors. 
+          
+   The Company also maintains a Pension Plan which has been in existence
+since December 31, 1970. All active employees are eligible to participate
+in this Plan on the first January 1 that they are working for the Company
+but those active employees covered by a collective bargaining agreement
+regarding which retirement benefits were the subject of good faith
+bargaining are not eligible if such agreement does not include them in
+the plan. The Plan provides benefits at retirement at or after age 65
+determined under a formula which takes into account 60% of a participant's
+average base pay (including overtime) during the 5 highest consecutive
+calendar years of his employment and his years of service prior to age 65,
+and under which an offset is applied for the straight life annuity
+equivalent of the vested portion of the participant in the amount of
+benefits provided for him by the Company under the Profit Sharing Plan. 
+    
+   Examples of yearly benefits provided by the Pension Plan (prior to
+reduction by the Profit Sharing Plan offset) are as follows:  
+                   
+                                         Years of Service     
+    Remuneration            10        15       20        25     30 or more
+    
+    $200,000             $40,000   $60,000   $80,000   $90,000   $112,221  
+     150,000              30,000    45,000    60,000    75,000     90,000
+     100,000              20,000    30,000    40,000    50,000     60,000  
+      50,000              10,000    15,000    20,000    25,000     30,000  
+   
+   
+   The amounts shown above represent straight life annuity amounts.
+Maximum benefits from the Pension Plan are attained after 30 years of
+service and attainment of age 65. The compensation covered by the Pension
+Plan consists of base compensation (exclusive of bonuses and non-recurring
+salary or wage payments) and shall not exceed $235,840 of such total
+remuneration paid to a participant during any plan year. Remuneration and
+yearly benefits under the Plan are limited, and subject to adjustment,
+under Sections 415(d) and 401(a)17 of the U.S. Internal Revenue Code. The
+present credited years of service under the Pension Plan for the currently
+employed executive officers named in the compensation table are as follows:
+Roger E. Peterson--17 years; David F. Hodnik--21 years; William A.
+Loftus--17 years; Paul M. Ingevaldson--14 years; Fred J. Neer--7 years. 
+ 
+
+Compensation Committee Report 
+
+   The corporation's Executive Compensation philosophy is one that
+supports the Company's fundamental business strategies. Like our dealers,
+we stress long term measured results, focus on teamwork, accepting prudent
+risks, and are strongly committed to fulfilling dealer/consumer needs. 
+   
+   Our compensation program reflects a policy of competitive performance
+based pay. Our competitors for Human Resources include publicly owned for
+profit retail corporations, privately owned for profit retail enterprises,
+and other national cooperatives. Each of these comparative groupings has
+quite a different compensation practice/philosophy. Therefore, our
+orientation is to be cognizant of their respective practices and pay
+levels, but to give greater emphasis to that which supports the needs of
+our dealer network. 
+   
+   The Compensation Committee is in the process of changing the compensation
+mix to one which stresses the provision of more significant performance
+based incentives, particularly long term. 1993 salary increases for
+executive officers averaged 5.3% per eligible executive. Annual and long
+term incentive opportunities for 1993 were maintained at previous levels
+while both programs were increased beginning in 1994. 
+
+   The Committee has agreed, in principle to more substantive changes to
+the existing long term incentive plan. This involves selecting appropriate
+long term performance criteria; possibly stretching the performance period
+
+
+                                      23
+
+
+to a time frame greater than its current three year time frame, or
+obligating plan eligible participants to a minimum of three to five years
+service from date of performance award. We expect to complete these plan
+redesign changes in early 1994.  
+               
+   As it relates to the President/CEO compensation, the Committee in the
+past has relied on providing the President/CEO with a base salary without
+either annual or long term incentives. The Committee's primary rationale
+for this was to allow the President/CEO to make objective recommendations
+pertaining to incentive eligible officers without the incumbrance of a
+personal stake associated with the same performance criteria. This too is
+under review and likely to change, so as to ensure the long term commitment
+of the President/CEO position to the longer term interest of our dealer
+network. 
+ 
+   The Committee also concluded that the corporation's performance results
+for 1993 were of such a significant milestone that a special one time
+incentive award to the President/CEO of $100,000 was granted. This was
+warranted based upon total sales exceeding $2 billion and distribution of a
+total patronage dividend of $59 million. Both represented excellent
+results for the company. The Compensation Committee approved a 19.4% salary
+increase for the President/CEO to take effect January 1, 1994. This was
+based upon comparison of CEO cash compensation at competitor enterprises
+and a desire to maintain Mr. Peterson's salary at a level consistent with
+his long-term contribution to the success of Ace and its over 4,900
+retailers. 
+ 
+   The Committee also reviews the executive benefits provided to either the
+CEO and other senior executives. Country club memberships previously
+granted to some officers have been eliminated, except for the President/CEO
+and Chief Operating Officer. 
+ 
+
+Compensation of Directors 
+
+   Effective January 1, 1993, and January 1, 1994, each member of the
+Board of Directors receives a fee of $2,300 and $2,500 per month,
+respectively, for their services. Effective as of the foregoing dates, Mr.
+Laskowski is paid a total annual fee of $80,000 and $100,000 per year,
+respectively, in his capacity as Chairman of the Board. Under a Deferred
+Director Fee Plan adopted by the Board, each director may elect to defer
+payment of 10% to 100% of his monthly director's fee, in 10% increments,
+until whichever of the following dates shall be selected by him at the time
+he makes such deferral election: (a) the first day of the month coinciding
+with or next following his 70th birthday or (b) the first day of the month
+coinciding with or next following such director's final day of service as
+a director, or (c) the first day of the month coinciding with or next
+following such director's 75th birthday, or (d) the first day of the month
+coinciding with or next following the date designated, which date must be 
+after the date of the deferred election.
+ 
+   Each member of the Board is also reimbursed for the amount of the travel
+and lodging expenses incurred by him in attending meetings of the Board and
+of the Committees of the Board. The expenses incurred by them in attending
+the semi-annual conventions and exhibits which the Company sponsors are
+also paid by the Company. Each member of the Board is also paid $200.00 per
+diem compensation for special committee meetings and nominating committee
+regional trips which he attends. 
+ 
+
+Item 12.  Security Ownership Of Certain Beneficial Owners And Management
+  
+   With the exception of Mr. Laskowski, no shares of the Company's
+stock were held by any of its officers. No person owns of record or is
+known by the Company to own beneficially more than five percent of the
+outstanding voting securities of the Company. 
+ 
+   The following table sets forth the shares of Class B Stock and Class C
+Stock of the Company held beneficially, directly or indirectly, by each
+director owning such shares, individually itemized, and by all officers
+and directors as a group, as of February 28, 1994:  
+
+
+
+                                      24
+   
+<TABLE>                   
+<CAPTION>
+                                 Class B Stock Owned       Class C Stock Owned     
+                                 Number      Percent       Number      Percent   
+                               of Shares    of Class     of Shares    of Class    
+    <S>                           <C>         <C>         <C>           <C>
+    Lawrence R. Bowman             4          0.118%       1,176        0.077%  
+    Mark Jeronimus                --           --            730        0.048  
+    Howard J. Jung                --           --          3,261        0.214  
+    John E. Kingrey                4          0.118          680        0.045  
+    Richard E. Laskowski           4          0.118       10,213        0.670  
+    Ray W. Osborne                 4          0.118          705        0.046  
+    Jon R. Weiss                   4          0.118        2,037        0.134  
+    Don S. Williams               --           --          2,529        0.166  
+    James R. Williams              4          0.118          671        0.044   
+            
+    All above directors and 
+        officers as a group       24          0.708%      22,002        1.444%
+</TABLE>       
+   There are no known contractual arrangements nor any pledge of
+securities of the Company which may at a subsequent date result in a change
+in control of the Company. 
+
+
+Item 13.  Certain Relationships And Related Transactions  
+      
+   No director, director nominee, executive officer, security holder
+who is known to the Registrant to own of record or beneficially more than
+five percent of any class of the Registrant's voting securities, or any
+member of the immediate family of any of the foregoing persons, had during
+the last fiscal year or is currently proposed to have any material
+interest, direct or indirect, in any transaction in which the amount
+involved exceeds $60,000.00 and to which the Registrant was or is to be a
+party, except that each of the directors and director nominees, purchased
+merchandise and services from the Registrant in the ordinary course of
+business on behalf of the retail hardware businesses in which they have
+ownership interests. None of such persons received benefits not shared by
+other hardware retailers supplied by the Registrant. 
+ 
+   No director or director nominee has had any business relationship which
+is required to be disclosed pursuant to Item 404(b) of Regulation S-K of
+the Securities and Exchange Commission, during the Registrant's last
+fiscal year nor is any such relationship proposed during the Registrant's
+current fiscal year. 
+ 
+   No director, director nominee, executive officer, any member of the
+immediate family of any of the foregoing, or any corporation or
+organization of which any of the foregoing is an executive officer, partner,
+or, directly or indirectly, the beneficial owner of ten percent or
+more of any class of equity securities, or any trust or other estate in
+which any of the foregoing has a substantial beneficial interest or as to
+which such person serves as a trustee or in a similar capacity, has been
+indebted to the Registrant or its subsidiaries at any time since the
+beginning of the Registrant's last fiscal year in an amount in excess of
+$60,000.00, except for indebtedness incurred in connection with purchases
+of merchandise and services made from the Registrant in the ordinary course
+of business by the retail hardware businesses in which the directors and
+director nominees have ownership interest.  
+   
+ 
+                                        25
+
+   
+                                   PART IV 
+
+Item 14.  Exhibits, Financial Statement Schedules And Reports On Form 8-K. 
+
+    (a)  1.  Financial Statements 
+             The financial statements listed in the accompanying index 
+             (page F-1) to the financial statements are filed as part of 
+             this annual report. 
+   
+         2.  Financial Statement Schedules 
+             The financial statement schedules listed in the accompanying 
+             index (page F-1) to the financial statements are filed as part 
+             of this annual report. 
+
+          3. Exhibits 
+             The exhibits listed on the accompanying index to exhibits 
+             (pages E-1 through E-5) are filed as part of this annual report.
+
+    (b)   Reports on Form 8-K 
+
+             None.  
+               
+                                        26
+
+   
+                                   SIGNATURES 
+
+   Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Annual Report to
+be signed on its behalf by the undersigned, thereunto duly authorized. 
+                                                   
+                                               ACE HARDWARE CORPORATION 
+                                                   
+                                               By    RICHARD E. LASKOWSKI
+                                                     Richard E. Laskowski 
+                                            Chairman of the Board and Director
+
+DATED: March 23, 1994 
+    
+   Pursuant to the requirements of the Securities Exchange Act of 1934,
+this Annual Report has been signed below by the following persons on behalf
+of the Registrant and in the capacities and on the dates indicated.  
+             
+      Signature                   Title                            Date    
+  
+  RICHARD E. LASKOWSKI      Chairman of the Board            March 23,1994
+  Richard E. Laskowski        and Director
+       
+   
+   ROGER E. PETERSON        President and Chief              March 23, 1994
+   Roger E. Peterson          Executive Officer
+      
+
+    DAVID F. HODNIK         Executive Vice President         March 23, 1994
+    David F. Hodnik           and Chief Operating Officer
+  
+    
+     RITA D. KAHLE          Vice President-Finance           March 23, 1994
+     Rita D. Kahle            (Principal Financial Officer)    
+      
+Lawrence R. Bowman, Mark Jeronimus,       Directors    
+Howard J. Jung, John E. Kingrey, 
+Ray W. Osborne, Don S. Williams, 
+Jon R. Weiss and James R. Williams   
+     
+
+ *By    DAVID F. HODNIK  
+        David F. Hodnik   
+        
+
+ *By    RITA D. KAHLE                                        March 23, 1994  
+        Rita D. Kahle 
+
+*Attorneys-in-fact   
+
+                                        27
+
+
+  
+   
+Item 14(a).  Index To Financial Statements And Financial Statement Schedules
+                
+                                                                      Page(s)  
+Independent Auditors' Report                                           F-2 
+
+Balance Sheets at December 31, 1993 and 1992                           F-3 
+Statements of Earnings for each of the three years in the period 
+    ended December 31, 1993                                            F-5 
+
+Statements of Member Dealers' Equity for each of the three years in 
+   the period ended December 31, 1993                                  F-6 
+
+Statements of Cash Flows for each of the three years in the period 
+    ended December 31, 1993                                            F-7 
+
+Notes to Financial Statements                                          F-8 
+
+Financial Statement Schedules for each of the three years in the
+    period ended December 31, 1993: 
+
+        V--Property, plant and equipment                               F-16 
+       
+       VI--Accumulated depreciation and amortization of property, 
+           plant and equipment                                         F-17 
+     
+     VIII--Valuation and qualifying accounts -- Allowance for 
+           doubtful accounts                                           F-18  
+ 
+    All other schedules have been omitted because the required information
+is not present or is not present in amounts sufficient to require
+submission of the schedule or the required information is included in the
+financial statements or the notes thereto.  
+   
+
+                                    F-1
+
+                      INDEPENDENT AUDITORS' REPORT 
+
+
+The Board of Directors 
+Ace Hardware Corporation: 
+ 
+    We have audited the balance sheets of Ace Hardware Corporation as of
+December 31, 1993 and 1992, and the related statements of earnings, member
+dealers' equity, and cash flows for each of the years in the three-year
+period ended December 31, 1993. In connection with our audits of the
+financial statements, we also have audited the financial statement
+schedules as listed in the accompanying index. These financial statements
+and financial statement schedules are the responsibility of the Company's
+management. Our responsibility is to express an opinion on these financial
+statements and financial statement schedules based on our audits. 
+ 
+    We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used
+and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits
+provide a reasonable basis for our opinion. 
+ 
+    In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of Ace Hardware
+Corporation at December 31, 1993 and 1992, and the results of its
+operations and its cash flows for each of the years in the three-year
+period ended December 31, 1993 in conformity with generally accepted
+accounting principles. Also, in our opinion, the related financial
+statement schedules, when considered in relation to the basic financial
+statements taken as a whole, present fairly, in all material respects, the
+information set forth therein.  
+
+
+                             KPMG PEAT MARWICK 
+Chicago, Illinois 
+January 31, 1994  
+   
+
+                                    F-2
+                                                            
+
+<TABLE>
+                                        ACE HARDWARE CORPORATION
+
+                                             BALANCE SHEEET
+                                       
+                                       December 31, 1993 and 1992
+
+
+                                                ASSETS
+
+
+
+<CAPTION>
+                                                                    1993             1992
+                                                                       (000's omitted)
+<S>                                                              <C>               <C>
+Current assets:
+  Cash                                                           $   4,142         $   2,144
+  Receivables:                                                              
+
+    Dealers                                                        183,493           170,137
+    Others                                                          29,831            24,287
+
+                                                                   213,324           194,424
+    Less Allowance for doubtful receivables                           (720)             (700)
+        
+        Net receivables                                            212,604           193,724
+
+
+  Inventories (Note 2)                                             263,576           213,477
+  Prepaid expenses and other current assets                          6,869             6,517
+
+        Total current assets                                       487,191           415,862
+
+
+Property and equipment (Notes 4 and 9):
+  Land                                                              13,673            13,673
+  Buildings and improvements                                       131,794           128,838
+  Warehouse equipment                                               47,146            48,840
+  Office equipment                                                  48,842            42,171
+  Manufacturing equipment                                           12,012            11,783
+  Transportation equipment                                          12,508            11,414
+  Leasehold improvements                                             6,553             6,495
+  Construction in progress                                           2,319               120
+                                                                   
+                                                                   274,847           263,334
+
+  Less accumulated depreciation and amortization                  (108,710)          (96,689)
+        
+        Net property and equipment                                 166,137           166,645
+
+  Other assets                                                      14,160            12,169
+                                                                        
+                                                                 $ 667,488         $ 594,676
+
+                                  
+                                  See accompanying notes to financial statements.     
+</TABLE>
+
+                                    F-3
+
+<TABLE>
+                                        ACE HARDWARE CORPORATION
+
+                                             BALANCE SHEETS
+                                       December 31, 1993 and 1992
+
+
+                                 LIABILITIES AND MEMBER DEALERS' EQUITY
+
+
+<CAPTION>
+                                                                     1993              1992
+                                                                         (000's omitted)
+<S>                                                              <C>               <C>
+Current Liabilities:
+  Current installments of long-term debt (Note 4)                $   10,707        $    1,389
+  
+  Short-term borrowings (Note 3)                                     38,500            56,000
+
+  Accounts payable                                                  234,190           181,105
+  
+  Patronage dividends payable in cash (Note 5)                       25,766            27,538
+
+  Patronage refund certificates payable (Note 5)                     11,059            17,198
+  
+  Accrued expenses                                                   33,682            28,680
+        
+        Total current liabilities                                   353,904           311,910
+
+
+Long-term debt (Note 4)                                              71,286            51,696
+                                                                                       
+
+Patronage refund certificates payable (Note 5)                       56,270            55,389
+
+
+Member dealers' equity (Notes 5 and 8):
+  
+  Class A Stock of $1,000 par value                                   3,946             4,060
+  
+  Class B Stock of $1,000 par value                                   6,499             6,499
+  
+  Class C Stock of $100 par value                                   153,155           139,014
+  
+  Class C Stock of $100 par value, issuable to dealers for      
+     patronage dividends                                             19,064            20,301
+  
+  Additional stock subscribed, net                                      613               797
+
+  Retained earnings                                                   5,622             7,553
+  
+  Contributed capital                                                 3,295             3,295
+
+                                                                    192,194           181,519
+                                                                                                         
+  Less:  Treasury stock, at cost                                     (6,166)           (5,838)
+
+        Total member dealers' equity                                186,028           175,681
+       
+
+Commitments (Notes 6 and 9)                                             --                --
+                                                                                                         
+                                                                 $  667,488        $  594,676
+
+
+                                 See accompanying notes to financial statements.
+</TABLE>
+
+                                    F-4
+
+
+<TABLE>
+                                            ACE HARDWARE CORPORATION
+
+                                                                                  
+
+                                             STATEMENTS OF EARNINGS
+
+
+
+                                                                        Year Ended December 31,        
+<CAPTION>
+                                                             1993                1992              1991   
+                                                                           (000's omitted)
+<S>                                                      <C>                 <C>                <C>
+Net sales                                                $ 2,017,763         $ 1,870,625        $ 1,704,203
+
+Cost of sales                                              1,867,326           1,723,017          1,569,871
+        
+        Gross Profit                                         150,437             147,608            134,332
+
+
+Operating expenses:
+
+   Warehouse and distribution                                 31,650              32,291             28,981
+
+   Selling, general and administration                        54,378              48,451             44,438
+        
+        Total operating expenses                              86,028              80,742             73,419
+
+        Operating income                                      64,409              66,866             60,913
+   
+   Interest expense (Note 11)                                 (9,798)             (8,380)            (7,010)
+
+   Other income, net (Note 11)                                 2,481               2,281              5,254
+
+        Earnings before patronage dividends                   57,092              60,767             59,157
+
+
+   Patronage dividends                                        59,023              63,207             57,729
+
+
+        Net earnings                                     $    (1,931)        $    (2,440)       $     1,428
+
+
+                                See accompanying notes to financial statements.
+</TABLE>
+
+
+                                    F-5
+       
+<TABLE>
+                                       ACE HARDWARE CORPORATION
+                                                          
+
+                                 STATEMENTS OF MEMBER DEALERS' EQUITY
+
+                                  Three Years Ended December 31, 1993
+
+                                            (000's omitted)
+
+<CAPTION>
+                                                                                        Class C  
+                                                                                         Stock   
+                                                                                      Issuable to
+                                                                                      Dealers for   Additional
+                                              Class A       Class B       Class C      Patronage      Stock 
+                                               Stock         Stock         Stock       Dividends   Subscribed*
+<S>                                          <C>           <C>         <C>            <C>              <C>
+Balance at December 31, 1990                 $ 4,244       $ 6,499     $ 119,496      $  16,322        $ 1,308
+   
+   Earnings before patronage dividends           --            --            --             --             --   
+                                                                                         
+   Net payments on subscriptions                 --            --            --             --           1,526
+
+   Stock issued                                  287           --         17,800        (16,322)        (1,765)
+   
+   Stock repurchased                             --            --            --             --             --   
+
+   Stock retired                                (366)          --         (7,213)           --             --   
+   
+   Stock issuable as patronage dividends         --            --            --          14,841            --   
+
+   Patronage dividends payable                   --            --            --             --             --   
+
+Balance at December 31, 1991                 $ 4,165       $ 6,499     $ 130,083      $  14,841        $ 1,069
+
+   Earnings before patronage dividends           --            --            --             --             --   
+   
+   Net payments on subscriptions                 --            --            --             --           1,302
+
+   Stock issued                                  224           --         16,191        (14,841)        (1,574)
+
+   Stock repurchased                             --            --            --             --             --   
+   
+   Stock retired                                (329)          --         (7,260)           --             --   
+                                                             
+   Stock issuable as patronage dividends         --            --            --          20,301            --   
+                                                             
+   Patronage dividends payable                   --            --            --             --             --   
+
+Balance at December 31, 1992                 $ 4,060       $ 6,499     $ 139,014      $  20,301        $   797
+   
+   Earnings before patronage dividends           --            --            --             --             --   
+                                                                                                          
+   Net payments on subscriptions                 --            --            --             --           1,049
+   
+   Stock issued                                  157           --         21,377        (20,301)        (1,233)
+
+   Stock repurchased                             --            --            --             --             --  
+
+   Stock retired                                (271)          --         (7,236)           --             --  
+   
+   Stock issuable as patronage dividends         --            --            --          19,064            --  
+
+   Patronage dividends payable                   --            --            --             --             --  
+
+Balance at December 31, 1993                 $ 3,946       $ 6,499     $ 153,155      $  19,064        $   613
+
+           * Additional stock subscribed is comprised of the following amounts at December 31, 1991, 1992 and 1993:
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                              1991        1992        1993                              
+                           <S>                               <C>         <C>         <C>
+                           Class A Stock . . . . . . . . .   $  219      $  185      $  223
+                           Class B Stock . . . . . . . . .      --          --          --
+                           Class C Stock . . . . . . . . .    2,876       2,184       1,952 
+                                                              
+                                                              3,095       2,369       2,175
+                           Less unpaid portion . . . . . .    2,026       1,572       1,562
+                                                                             
+                                                             $1,069      $  797      $  613
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+                                              Retained       Contributed        Treasury
+                                              Earnings         Capital           Stock            Total  
+<S>                                          <C>              <C>             <C>              <C>
+Balance at December 31, 1990                 $  8,565         $ 3,295         $ (5,166)        $ 154,563
+           
+   Earnings before patronage dividends         59,157             --               --             59,157
+
+   Net payments on subscriptions                  --              --               --              1,526
+
+   Stock issued                                   --              --               --                --    
+   
+   Stock repurchased                              --              --            (7,947)           (7,947)
+
+   Stock retired                                  --              --             7,579               --    
+   
+   Stock issuable as patronage dividends          --              --               --             14,841
+
+   Patronage dividends payable                (57,729)            --               --            (57,729)
+
+Balance at December 31, 1991                 $  9,993         $ 3,295         $ (5,534)        $ 164,411
+
+  Earnings before patronage dividends          60,767             --               --             60,767
+  
+  Net payments on subscriptions                   --              --               --              1,302
+
+  Stock issued                                    --              --               --                --   
+
+  Stock repurchased                               --              --            (7,893)           (7,893)
+  
+  Stock retired                                   --              --             7,589               --   
+
+  Stock issuable as patronage dividends           --              --               --             20,301
+  
+  Patronage dividends payable                 (63,207)            --               --            (63,207)
+                                                                                        
+Balance at December 31, 1992                 $  7,553         $ 3,295         $ (5,838)        $ 175,681
+  
+  Earnings before patronage dividends          57,092             --               --             57,092
+
+  Net payments on subscriptions                   --              --               --              1,049
+  
+  Stock issued                                    --              --               --                --   
+
+  Stock repurchased                               --              --            (7,835)           (7,835)
+
+  Stock retired                                   --              --             7,507               --   
+  
+  Stock issuable as patronage dividends           --              --               --             19,064
+
+  Patronage dividends payable                 (59,023)            --               --            (59,023)
+
+Balance at December 31, 1993                 $  5,622         $ 3,295        $  (6,166)        $ 186,028
+
+
+
+                                See accompanying notes to financial statements.
+</TABLE>                                                                
+
+                                      F-6
+
+<TABLE>                                                            
+                                                  ACE HARDWARE CORPORATION
+                                                                                     
+
+                                                  STATEMENTS OF CASH FLOWS
+
+
+
+
+
+                                                                                   Year Ended December 31,          
+<CAPTION>
+                                                                                       (000's omitted)
+Operating Activities:                                                     1993               1992                1991 
+<S>                                                                    <C>                <C>                 <C>
+Earnings before patronage dividends                                    $ 57,092           $ 60,767            $ 59,157
+
+Patronage dividends                                                     (59,023)           (63,207)            (57,729)
+   
+   Net Earnings                                                          (1,931)            (2,440)              1,428
+
+
+Adjustments to reconcile net earnings to net cash provided
+   by operating activities:
+   
+   Depreciation                                                          16,156             14,817              13,086
+   
+   Loss (Gain) on sale of property and equipment                            460                507              (3,880)
+   
+   Changes in operating assets and liabilities:
+        
+        Increase in accounts receivable, net                            (18,880)           (32,783)             (9,002)
+
+        Increase in inventories                                         (50,099)            (2,091)            (34,571)
+
+        Increase in prepaids and other current assets                      (352)              (632)               (235)
+        
+        Increase (Decrease) in accounts payable and accrued expenses     58,087             (2,237)              1,202
+        
+        Net Cash Provided by (Used for) Operating Activities              3,441            (24,859)            (31,972)
+ 
+
+Investing Activities:
+   
+   Purchase of property, plant and equipment                            (16,346)           (34,582)            (37,851)
+
+   Proceeds from sale of property and equipment                             238                 83              10,878
+              
+   Increase in other assets                                              (1,991)            (3,831)             (1,202)
+
+        Net Cash Used in Investing Activities                           (18,099)           (38,330)            (28,175)
+
+
+Financing Activities:
+   (Payments of) Proceeds from short-term borrowings                    (17,500)            34,000              21,000
+
+   Proceeds from Notes Payable                                           30,000             20,000              27,000
+
+   Principal payments on long-term debt and patronage
+        refund certificates                                             (19,078)           (24,582)            (12,875)
+
+   Patronage dividends payable in cash                                   25,766             27,538              26,864
+   
+   Patronage refund certificates                                         12,728             14,598              15,176
+
+   Class C stock issuable to dealers for patronage dividends             19,064             20,301              14,841
+              
+   Proceeds from sale of common stock                                     1,049              1,302               1,526
+
+   Repurchase of common stock                                            (7,835)            (7,893)             (7,947)
+              
+   Payment of cash portion of patronage dividend                        (27,538)           (26,864)            (26,462)
+
+        Net Cash Provided by Financing Activities                        16,656             58,400              59,123
+
+Increase (Decrease) in Cash and Cash Equivalents                          1,998             (4,789)             (1,024)
+
+Cash and Cash Equivalents at beginning of year                            2,144              6,933               7,957
+
+        Cash and Cash Equivalents at end of year                       $  4,142          $   2,144           $   6,933
+
+
+
+                                See accompanying notes to financial statements.
+</TABLE>
+
+                                    F-7
+
+
+                           ACE HARDWARE CORPORATION 
+     
+                        NOTES TO FINANCIAL STATEMENTS  
+                          
+(1) Summary of Significant Accounting Policies 
+
+    (a)  The Company and Its Business 
+    The Company operates as a wholesaler of hardware and related products,
+and manufactures paint products. As a dealer-owned cooperative, the Company
+distributes substantially all of its earnings in the form of patronage
+dividends to its member dealers based on their volume of merchandise
+purchases. 
+
+    (b)  Cash Equivalents 
+    The Company considers all highly liquid investments with an original
+maturity of one month or less when purchased to be cash equivalents. 
+
+    (c)  Receivables 
+    Receivables from dealers include amounts due from the sale of
+merchandise and special equipment used in the operations of dealers'
+businesses. Other receivables are principally amounts due from suppliers
+for promotional and advertising allowances. 
+
+    (d)  Inventories 
+    Inventories are valued at the lower of cost or net realizable value.
+Cost is determined using the last-in, first-out method on substantially all
+inventories. 
+
+    (e)  Property and Equipment 
+    Property and equipment are stated at cost less accumulated
+depreciation and amortization. Expenditures for maintenance, repairs and
+renewals of relatively minor items generally are charged to earnings.
+Significant improvements or renewals are capitalized. 
+
+    Depreciation expense is computed on both straight-line and accelerated
+methods based on estimated useful lives as follows:  
+             
+                                        Useful Life           Principal   
+                                           Years         Depreciation Method   
+        
+        Buildings and improvements         10-40            Straight line  
+        Warehouse equipment                 5-10            Sum of years  
+        Office equipment                    3-10            Various  
+        Manufacturing equipment             3-20            Straight line  
+        Transportation equipment            3-7             Straight line  
+
+    Leasehold improvements are generally amortized on a straight-line
+basis over the term of the respective leases. 
+
+    (f)  Retirement Plans 
+    The Company has retirement plans covering substantially all non-union
+employees. Costs with respect to the noncontributory pension plans are
+determined actuarially and consist of current costs and amounts to amortize
+prior service costs and unrecognized gains and losses. The Company
+contribution under the profit sharing plan is determined annually by the
+Board of Directors.  
+   
+                                     F-8
+
+   
+(2) Inventories 
+
+    Inventories consist primarily of merchandise inventories. Substantially
+all of the Company's inventory is valued on the last-in, first-out (LIFO)
+method; the excess of replacement cost over the LIFO value of inventory was
+approximately $63,615,000 and $60,806,000 at December 31, 1993 and 1992,
+respectively. Indirect costs, consisting primarily of warehousing costs,
+are absorbed as inventory costs rather than period costs. 
+
+
+(3) Short-Term Borrowings 
+
+    Short-term borrowings were utilized during 1993 and 1992. The maximum
+amount outstanding at any month-end during the period was $91,000,000 in
+1993 and $69,000,000 in 1992. The weighted average interest rate was 3.56%,
+4.1%, and 6.28% for the years ended December 31, 1993, 1992 and 1991,
+respectively. Short term borrowings outstanding as of December 31, 1993,
+1992 and 1991 were $38,500,000, $56,000,000 and $22,000,000, respectively.
+The aggregate unused line of credit available at December 31, 1993, 1992
+and 1991 was $69,000,000, $41,500,000 and $54,500,000, respectively. The
+aggregate compensating balances (not legally restricted) at December 31,
+1993, 1992 and 1991 were $600,000, $850,000 and $664,000, respectively. 
+
+
+(4) Long-Term Debt 
+  
+    Long-term debt is comprised of the following:
+<TABLE>
+
+                                                                                        December 31,      
+<CAPTION>
+                                                                                   1993              1992
+                                                                                      (000's omitted)
+<S>                                                                                <C>               <C> 
+Industrial Development Revenue and Variable Rate Bonds:
+
+    $125,000 payable quarterly through December 1, 1996 with interest    
+      at 65% of the prime rate                                                     $  1,500          $  2,000
+    $8,250,000 due on February 1, 1994 with interest payable monthly     
+      beginning September 1, 1988 at variable rates ranging from 1.95%    
+      to 4.95%                                                                        8,250             8,250
+
+Notes Payable:
+    $20,000,000 due in quarterly installments of $540,500, commencing
+      July 1, 1994 with interest payable quarterly beginning January 1,
+      1992 at a fixed rate of 8.74%                                                  20,000            20,000
+
+    $20,000,000 due in quarterly installments of $952,400, commencing
+      January 1, 1995 with interest payable quarterly beginning October
+      1, 1992 at a fixed rate of 6.89%                                               20,000            20,000
+
+    $30,000,000 due in semi-annual installments of $2,000,000,           
+      commencing June 22, 2001 with interest payable quarterly            
+      beginning December 22, 1993 at a fixed rate of 6.47%                           30,000                --
+Liability under capitalized leases (see Note 9)                                       1,197             1,632
+
+Installment notes with maturities through 1997 with various interest   
+      rates                                                                           1,046             1,203
+                                                                                     81,993            53,085
+
+Less current installments                                                            10,707             1,389
+
+                                                                                  $  71,286         $  51,696
+</TABLE>
+
+                                    F-9
+
+
+    Prime interest rates in effect were 6.0% in 1993 and ranged from 6.0%
+to 6.5% in 1992. 
+
+    Aggregate maturities of long-term debt are $10,707,000, $7,283,000,
+$6,965,000, $6,034,000 and $5,972,000 in 1994 through 1998, respectively.
+Under the most restrictive covenants of the loan agreements the Company
+must not permit its working capital to be less than $33,000,000 and
+maintain current assets of at least 110% of current liabilities. 
+
+    The fair value of the Company's debt based upon discounting of future
+cash flows did not materially vary from the carrying value of such debt as
+of December 31, 1993. 
+ 
+
+(5) Patronage Dividends and Refund Certificates Payable 
+
+    The Company operates as a cooperative organization and has paid or
+will pay patronage dividends to member dealers on the portion of earnings
+derived from business done with such dealers. Patronage dividends are
+allocated in proportion to the volume of purchases by member dealers during
+the period. For the years ended December 31, 1993 and 1992, the amount of
+patronage dividends to be remitted in cash depends upon the level of
+dividends earned by each member outlet, varying from 20% on the total
+dividends under $5,000 and increasing by 5% on total dividends for each
+subsequent $2,500 earned to a maximum of 40% on total dividends exceeding
+$12,500. For the year ended December 31, 1991, the amount of patronage
+dividends to be remitted in cash depended upon the level of dividends
+earned by each member outlet, varying from 20% on the total dividends under
+$2,000 and increasing by 5% on total dividends for each subsequent $1,000
+earned to a maximum of 40% on total dividends exceeding $5,000. All amounts
+exceeding the cash portions, as defined above, will be distributed in the
+form of Class C $100 par value stock, to a maximum based upon the current
+year's purchase volume or $20,000 ($10,000 in 1991), whichever is greater,
+and thereafter in a combination of additional cash and patronage refund
+certificates having maturity dates and bearing interest as determined by
+the Board of Directors. A portion of the dealer's annual patronage
+dividends distributed under the above plan in a form other than cash can be
+applied toward payment of principal and interest on any balances outstanding
+for approved exterior signage and in 1994 toward the payment of principal
+and interest on any outstanding computer equipments financing. 
+    
+    The patronage dividend composition for 1993, 1992 and 1991 follows: 
+
+<TABLE>                   
+<CAPTION>
+             
+                       Subordinated     Class          Patronage       Total
+          Cash            Refund          C            Financing      Patronage
+          Portion      Certificates     Stock          Deductions     Dividends
+
+                                                    (000's omitted)
+<S>      <C>              <C>          <C>            <C>             <C>
+1993     $25,766          $12,728      $19,064        $1,465          $59,023
+1992      27,538           14,598       20,301           770           63,207
+1991      26,864           15,176       14,841           848           57,729
+
+</TABLE>
+     Patronage dividends are allocated on a calandar year basis with 
+        issuance in the following year.
+
+     The patronage refund certificates outstanding at December 31, 1993 
+        are payable as follows:
+
+<TABLE>
+<CAPTION>
+                                                                            Interest
+              January 1,                                  Amount              Rate   
+                                                      (000's omitted)
+                <S>                                        <C>                 <C>
+                1994                                       $ 1,120             7.5 %
+                1995                                        11,292             7.0
+                1996                                        13,041             7.0
+                1997                                        14,764             6.25
+                1998                                        14,384             6.0 
+                1999                                        12,728             6.0
+
+</TABLE>
+  
+                                    F-10
+
+
+    On January 1, 1993 the Company prepaid a portion of the patronage
+refund certificates payable on January 1, 1994. The remaining patronage
+refund certificates payable on January 1, 1994 and a portion of the
+patronage refund certificates payable on January 1, 1995 will be paid in
+January 1994 and accordingly, are classified as current liabilities in the
+accompanying December 31, 1993 balance sheet. 
+ 
+
+(6) Retirement Plans 
+
+    The Company has defined benefit pension plans covering substantially
+all non-union employees. Benefits are based on years of service, highest
+average compensation (as defined) and the related profit sharing and
+primary social security benefit. Contributions to the plan are based on the
+Entry Age Normal, Frozen Initial Liability actuarial funding method and are
+limited to amounts that are currently deductible for tax reporting
+purposes. As of December 31, 1993, plan assets were held primarily in group
+annuity and guaranteed interest contracts, equities and mutual funds. 
+
+
+    Pension income for the years 1993, 1992 and 1991 included the following
+components: 
+   
+<TABLE>                                            
+<CAPTION>
+                                                           1993             1992              1991  
+                                                                        (000's omitted)               
+       <S>                                                 <C>              <C>               <C>
+       Service cost - benefits earned during the period    $   292          $   338           $  372
+       Interest cost on projected benefit obligation           752              722              602
+       Actual return on plan assets                         (1,104)            (975)          (1,120)
+       Net amortization and deferral                          (169)            (313)            (233)
+
+       Net periodic pension income                         $  (229)         $  (228)          $ (379)
+
+</TABLE>
+
+    The following table sets forth the funded status of the plans and amounts 
+    recognized in the Company's Balance Sheet at December 31, 1993 and 1992 
+    (September 30th measurement date):
+
+<TABLE>
+<CAPTION>                                                                              
+                                                                              1993              1992  
+                                                                                 (000's omitted)
+       <S>                                                                  <C>               <C>
+       Accumulated benefit obligation, including vested benefits                     
+       of $8,500,000 and $8,009,000                                         $  9,515          $  9,251
+        
+       Plan assets at fair value                                            $ 14,023          $ 13,364
+
+       Projected benefit obligation for service rendered to date              10,897            10,451
+       
+       Plan assets in excess of projected benefit obligation                $  3,126          $  2,913
+
+       Unrecognized net gain (loss) from past experience          
+        different from that assumed and effects of changes in     
+        assumptions                                                            1,544             1,611
+
+       Remaining unrecognized net asset being amortized over                                           
+        participants average remaining service period                         (2,148)           (2,318)
+
+       Prepaid pension cost included in other assets                        $  2,522          $  2,206
+           
+</TABLE>          
+   
+                                    F-11
+
+
+    The weighted average discount rate and rate of increase in future
+compensation used in determining the actuarial present value of the
+projected benefit obligation was 7.5% and 6.0%, respectively, in 1993 and
+1992. The related expected long-term rate of return was 8.5% in 1993 and 9%
+in 1992. 
+ 
+    The Company also participates in several multi-employer plans covering
+union employees. Amounts charged to expense and contributed to the plans
+totaled approximately $275,000, $426,000, and $485,000 in 1993, 1992 and
+1991, respectively. 
+ 
+    The Company's profit sharing plan contribution for the years ended 1993,
+1992, and 1991 was approximately $8,690,000, $7,374,000 and $6,824,000,
+respectively. 
+ 
+    The Company has no significant post-retirement benefit liabilities as
+defined under Financial Accounting Standard No. 106. 
+ 
+
+(7) Income Taxes  
+   
+    As a cooperative, the Company distributes substantially all of its
+patronage sourced earnings to its members in the form of patronage
+dividends. Accordingly, provisions for income taxes have been historically
+insignificant and are generally comprised primarily of state income taxes.
+The 1993 and 1992 provisions for federal income taxes were $177,000 and 
+$299,000, respectively, and state income taxes were $267,000 and $126,000, 
+repectively. As described in Note 11, the Company completed a sale and 
+leaseback of its Los Angeles, California distribution facility in 1991. 
+The 1991 tax provision totals $1,158,000 for federal income taxes and 
+$236,000 for state income taxes.
+
+    The Company made tax payments of $357,000, $728,000, and $5,017,000
+during 1993, 1992 and 1991, respectively. 
+ 
+
+(8) Member Dealers' Equity 
+   
+    The Company's founders for many years contemplated that the ownership
+of the Company would eventually be with the Company's member dealers. Prior
+to November 30, 1976, dealers deposited monies to the Ace Dealer's
+Perpetuation Fund for the purpose of accumulating funds for the purchase of
+stock when such ownership became available. The Company registered its
+stock with the Securities and Exchange Commission on October 1, 1976 and
+existing dealers who subscribed for stock applied their deposits toward
+payment of such shares. The small number of dealers who did not subscribe
+for shares had their respective deposits refunded during 1977.  
+   
+  
+                                    F-12
+
+
+    The Company's classes of stock are described below:  
+<TABLE>
+                                                                                        Number of Shares
+                                                                                         at December 31,  
+<CAPTION>
+                                                                                     1993             1992  
+            <S>                                                                   <C>              <C>
+            Class A Stock, Voting, redeemable at par value --                
+                 Authorized                                                          10,000           10,000
+                 Issued and outstanding                                               3,946            4,060
+            Class B Stock, nonvoting, redeemable at not less than
+                    twice par value --
+                 Authorized                                                           6,500            6,500
+                 Issued                                                               6,499            6,499
+                 Outstanding                                                          3,416            3,580
+                 Treasury stock                                                       3,083            2,919
+            Class C Stock, nonvoting, redeemable at not less
+                    than par value --                                                             
+                 Authorized                                                       2,000,000        2,000,000
+                 Issued and outstanding                                           1,531,549        1,390,137
+                 Issuable as patronage dividends                                    190,635          203,013
+            Additional Stock Subscribed:
+                 Class A Stock                                                          223              185
+                 Class B Stock                                                          --               -- 
+                 Class C Stock                                                       19,520           21,840
+</TABLE>             
+
+    At December 31, 1993 and 1992 there were no common shares reserved
+for options, warrants, conversions or other rights; nor were any options
+granted or exercised during the two years then ended. 
+ 
+    Member dealers may subscribe for the Company's stock in various
+prescribed combinations. Only one share of Class A Stock may be owned by a
+dealer with respect to the first member retail outlet controlled by such
+dealer. Only four shares of Class B Stock may be owned by a dealer with
+respect to each retail outlet controlled by such dealer, but only if such
+outlet was a member of the Company on or before February 20, 1974. An
+appropriate number of shares of Class C Stock must be included in any
+subscription by a dealer in an amount to provide that such dealer has a par
+value of all shares subscribed for equal to $5,000 for each retail outlet.
+Unregistered shares of Class C Stock are also issued to dealers in
+connection with patronage dividends. No dividends can be declared on any
+shares of any class of the Company's Stock. 
+ 
+    Upon termination of the Company's membership agreement with any retail
+outlet, all shares of stock of the Company, held by the dealer owning or
+controlling such outlet, must be sold back to the Company, unless a
+transfer of such shares is made to another party accepted by the Company as
+a member dealer with respect to the same outlet. 
+ 
+    A Class A share is issued to a member dealer only when the share
+subscribed has been fully paid. Class B and Class C shares are only issued
+when all such shares subscribed with respect to a retail outlet have been
+fully paid. Additional Stock Subscribed in the accompanying statements
+represents the par value of shares subscribed, reduced by the unpaid portion.
+  
+
+                                    F-13
+
+
+    All shares of stock are currently issued and repurchased at par value,
+except for Class B Stock which is repurchased at twice its par value, or
+$2,000 per share. Upon retirement of Class B shares held in treasury, the
+excess of redemption price over par is allocated equally between
+contributed capital and retained earnings. 
+ 
+    Transactions during 1992 and 1993 affecting treasury shares follow: 
+<TABLE>                
+
+
+                                                                    Shares Held in Treasury   
+<CAPTION>
+                                                           Class A           Class B            Class C 
+<S>                                                        <C>                <C>               <C>
+Balance at December 31, 1991                                 --               2,767                --
+
+   Stock issued                                              --                 --                 --
+   Stock repurchased                                         329                 152             72,600
+   Stock retired                                            (329)               --              (72,600)
+
+Balance at December 31, 1992                                 --               2,919                --
+   Stock issued                                              --                 --                 --
+   Stock repurchased                                         271                164              72,359
+   Stock retired                                            (271)               --              (72,359)
+
+Balance at December 31, 1993                                 --                3,083               --   
+</TABLE>
+
+
+(9) Commitments
+
+    Leased property under capital leases included under "Property and 
+    Equipment" in the balance sheets as follows:
+<TABLE>
+<CAPTION>
+                                                                     December 31,     
+                                                                   (000's omitted) 
+
+                                                              1993                 1992  
+<S>                                                            <C>                  <C>
+Buildings and improvements                                  $  3,422             $  3,422
+Data processing equipment                                        723                  723
+Less: Accumulated depreciation and amortization               (3,291)              (2,973)
+                                                            
+                                                            $    854             $  1,172
+</TABLE>
+           
+  
+                                    F-14
+
+
+   The Company rents buildings and warehouse, office and certain other
+equipment under operating and capital leases. At December 31, 1993 annual
+minimum rental commitments under leases that have initial or remaining
+noncancelable terms in excess of one year were as follows: 
+ 
+Year Ending                                      Capital       Operating   
+December 31,                                     Leases         Leases   
+        
+                                                   (000's omitted)  
+1994                                             $  518         $ 8,917  
+1995                                                510           6,548  
+1996                                                271           4,982  
+1997                                                --            3,689  
+1998                                                --            3,110  
+Thereafter                                          --           26,191   
+        
+   Total minimum lease payments                  $1,299         $53,437   
+       
+Less amount representing interest                   102   
+      
+Present value of total minimum lease payments    $1,197   
+              
+  
+   All leases expire prior to 2009. Under certain leases, the Company pays
+real estate taxes, insurance and maintenance expenses in addition to rental
+expense. Management expects that in the normal course of business, leases
+that expire will be renewed or replaced by other leases. Rent expense was
+approximately $21,444,000, $21,073,000 and $17,753,000 in 1993, 1992 and
+1991, respectively. Rent expense includes $4,282,000, $3,706,000 and
+$3,289,000 in contingent rentals paid in 1993, 1992 and 1991, respectively,
+primarily for transportation equipment mileage. 
+ 
+
+(10) Supplementary Income Statement Information  
+   
+   Gross media expense, prior to income offsets from dealers and
+suppliers, amounting to $48,293,000, $47,813,000 and $46,167,000 were
+charged to operations in 1993, 1992, and 1991, respectively. 
+ 
+
+(11) Interest Expense and Other Income, Net  
+   
+   Capitalized interest totaled $29,000, $836,000 and $417,000 in 1993,
+1992 and 1991, respectively. Interest paid was $10,670,000, $9,149,000 and
+$6,409,000 in 1993, 1992 and 1991, respectively. 
+ 
+   In November 1991, the Company completed a sale and leaseback of its Los
+Angeles, California facility resulting in a gain of $2.5 million, net of
+$1.4 million in federal and state income taxes. The facility was leased
+back for a term which expired on October 31, 1992. The gain on the sale and
+leaseback is included in other income for the year ended December 31, 1991.
+The capital gain from the sale constitutes nonpatronage-sourced income and
+is not available for distribution as patronage dividends. 
+  
+
+                                    F-15
+
+
+<TABLE>
+                                                                                                        Schedule V
+
+
+                                                        ACE HARDWARE CORPORATION
+
+                                                                                
+
+                                                      PROPERTY, PLANT AND EQUIPMENT
+
+                                                             (000's omitted)
+<CAPTION>
+                                   Balance at                                                       Balance 
+                                   Beginning        Additions     Retirements         Other         at End  
+         Description               of Period        at Cost        or Sales          Changes       of Period
+<S>                                 <C>             <C>            <C>              <C>             <C>
+Year ended December 31, 1991:
+ Land                               $ 14,915        $    586       $  3,328         $    --         $  12,173
+
+ Buildings and improvements           84,814          12,157          5,548           4,535            95,958
+
+ Warehouse equipment                  42,619           5,688            875              --            47,432
+ 
+ Office equipment                     33,074           6,488          1,327               3            38,238
+
+ Manufacturing equipment              11,992             507             --              41            12,540
+ 
+ Transportation equipment              9,219             599            177              --             9,641
+
+ Leasehold improvements                5,243               8             36             205             5,420
+
+ Construction in progress              4,784          11,818             --          (4,784)           11,818
+                                    
+                                    $206,660        $ 37,851       $ 11,291         $    --         $ 233,220
+
+Year Ended December 31, 1992:
+ Land                               $ 12,173        $  1,500       $     --         $    --            13,673
+
+ Buildings and improvements           95,958          21,387            191          11,684           128,838
+
+ Warehouse equipment                  47,432           3,406          1,998              --            48,840
+ 
+ Office equipment                     38,238           4,899          1,100             134            42,171
+
+ Manufacturing equipment              12,540             216            973              --            11,783
+ 
+ Transportation equipment              9,641           1,950            177              --            11,414
+
+ Leasehold improvements                5,420           1,104             29              --             6,495
+
+ Construction in progress             11,818             120             --         (11,818)              120
+                                    
+                                    $233,220        $ 34,582       $  4,468         $    --         $ 263,334
+
+Year ended December 31, 1993:
+ Land                               $ 13,673        $     --       $     --         $    --         $  13,673
+
+ Buildings and improvements          128,838           3,474            519               1           131,794
+
+ Warehouse equipment                  48,840           1,180          2,874              --            47,146
+ 
+ Office equipment                     42,171           7,394            723              --            48,842
+
+ Manufacturing equipment              11,783             229             --              --            12,012
+ 
+ Transportation equipment             11,414           1,393            299              --            12,508
+
+ Leasehold improvements                6,495             356            417             119             6,553
+
+ Construction in progress                120           2,320              1            (120)            2,319
+                                    
+                                    $263,334        $ 16,346       $  4,833         $    --         $ 274,847
+
+</TABLE>
+
+
+                                    F-16
+
+
+<TABLE>   
+
+                                                                                                       Schedule VI
+
+
+
+                                                        ACE HARDWARE CORPORATION
+
+                                                                                
+
+                                               ACCUMULATED DEPRECIATION AND AMORTIZATION OF
+
+                                                      PROPERTY, PLANT AND EQUIPMENT
+
+                                                              (000's omitted)
+<CAPTION>
+                                   Balance at                                                         Balance 
+                                   Beginning         Additions     Retirements          Other         at End  
+       Description                 of Period          at Cost       or Sales           Changes       of Period
+<S>                                <C>               <C>           <C>              <C>             <C>
+Year ended December 31, 1991:
+ 
+ Buildings and improvements        $  14,640         $ 2,408       $  2,055         $    --         $  14,993
+
+ Warehouse equipment                  28,904           3,732            848              --            31,788
+
+ Office equipment                     20,499           4,476          1,293              --            23,682
+           
+ Manufacturing equipment               5,246             931             --              --             6,177
+
+ Transportation equipment              4,520           1,031             60              --             5,491
+ 
+ Leasehold improvements                3,146             508             35              --             3,619
+
+                                   $  76,955         $13,086       $  4,291         $    --         $  85,750
+
+Year Ended December 31, 1992:
+ 
+ Buildings and improvements        $  14,993         $ 2,949        $    41         $    --         $  17,901
+
+ Warehouse equipment                  31,788           3,781          1,918              --            33,651
+ 
+ Office equipment                     23,682           5,365          1,066              --            27,981
+
+ Manufacturing equipment               6,177             941            718              --             6,400
+
+ Transportation equipment              5,491           1,182            107              --             6,566
+ 
+ Leasehold improvements                3,619             599             28              --             4,190
+
+                                   $  85,750         $14,817       $  3,878         $    --         $  96,689
+
+Year ended December 31, 1993:
+
+ Buildings and improvements        $  17,901         $ 3,507       $    175         $    --         $  21,233
+
+ Warehouse equipment                  33,651           3,533          2,682              --            34,502
+ 
+ Office equipment                     27,981           6,117            665              --            33,433
+
+ Manufacturing equipment               6,400             915             --              --             7,315
+ 
+ Transportation equipment              6,566           1,379            255              --             7,690
+
+ Leasehold improvements                4,190             705            358              --             4,537
+
+                                   $  96,689         $16,156       $  4,135         $    --         $ 108,710
+        
+</TABLE>
+
+
+                                    F-17
+
+
+<TABLE>
+                                                                                                       Schedule VIII
+
+
+                                                 ACE HARDWARE CORPORATION
+
+                                                                                 
+
+                                            VALUATION AND QUALIFYING ACCOUNTS -
+
+                                              ALLOWANCE FOR DOUBTFUL ACCOUNTS
+                                                      
+                                                      (000's omitted)
+
+<CAPTION>
+
+                                               Provision           Collections          Uncollectible
+                        Balance at            for Losses          on Receivables          Accounts             Balance 
+                         Beginning            Charged to            Previously            Written              at End 
+  Description            of Period              Income             Written Off              Off               Of Period
+     <S>                   <C>                  <C>                    <C>                <C>
+     1991                  $650                   676                  26                   (692)                $660
+
+     1992                  $660                 1,387                  20                 (1,367)                $700
+
+     1993                  $700                 1,412                  46                 (1,438)                $720
+
+</TABLE>
+                                    F-18
+
+
+
+  
+  
+   
+                                   INDEX TO EXHIBITS 
+        
+      Exhibits   
+      Enclosed                         Description   
+         
+
+      21          Subsidiaries of the Registrant.  
+
+      24          Powers of Attorney.  
+   
+   
+        Exhibits   
+      Incorporated   
+      by Reference   
+  
+      2            Not Applicable
+
+      3-A          Restated Certificate of Incorporation of the Registrant 
+                   dated September 18, 1974 filed as Exhibit 3-A to the 
+                   Registrant's Form S-1 Registration Statement 
+                   (Registration No. 2-55860) on March 30, 1976 and 
+                   incorporated herein by reference.  
+
+      3-B          By-laws of the Registrant as amended on January 24, 1994
+                   included as Appendix A to the Prospectus constituting a 
+                   part of Post Effective Amendment No. 2 to the Registrant's
+                   Form S-2 Registration Statement (Registration 
+                   No. 33-46449) filed on or about March 23, 1994 and 
+                   incorporated herein by reference.  
+   
+      3-C          Certificate of Amendment to the restated Certificate of
+                   Incorporation of the Registrant dated May 19, 1976 filed 
+                   as Exhibit 3-D to Amendment No. 1 to the Registrant's 
+                   Form S-1 Registration Statement (Registration No. 2-55860) 
+                   on June 10, 1976 and incorporated herein by reference.  
+
+      3-D          Certificate of Amendment to the restated Certificate of
+                   Incorporation of the Registrant dated May 21, 1979 filed 
+                   as Exhibit 3-F to Amendment No. 1 to the Registrant's 
+                   Form S-1 Registration Statement (Registration No. 2-63880) 
+                   on May 23, 1979 and incorporated herein by reference.  
+
+      3-E          Certificate of Amendment to the restated Certificate of
+                   Incorporation of the Registrant dated June 7, 1982 filed 
+                   as Exhibit 3-G to the Registrant's Form S-1 Registration 
+                   Statement (Registration No. 2-82460) on March 16, 1983 
+                   and incorporated herein by reference.  
+
+      3-F          Certificate of Amendment to the restated Certificate of
+                   Incorporation of the Registrant dated June 5, 1987 filed 
+                   as Exhibit 3-F to the Registrant's Form S-1 Registration 
+                   Statement (Registration No. 33-4299) on March 29, 1988 
+                   and incorporated by reference.  
+
+      3-G          Certificate of Amendment to the restated Certificate of
+                   Incorporation of the Registrant dated June 16, 1989 filed 
+                   as Exhibit 4-G to Post Effective Amendment No. 1 to the 
+                   Registrant's S-2 Registration Statement filed on or about 
+                   March 20, 1990 and incorporated by reference.  
+
+      4-A          Specimen copy of Class B stock certificate as revised as 
+                   of November, 1984, filed as Exhibit 4-A to Post-Effective 
+                   Amendment No. 2 to the Registrant's Form S-1 Registration 
+                   Statement (Registration No. 2-82460) on March 15, 1985 
+                   and incorporated herein by reference.  
+
+      4-B          Specimen copy of Patronage Refund Certificate as revised 
+                   in 1988 filed as Exhibit 4-B to Post-Effective Amendment 
+                   No. 2 to the Registrant's Form S-1 Registration Statement 
+                   (Registration No. 33-4299) on March 29, 1988 and 
+                   incorporated herein by reference.  
+
+      
+                                      E-1
+      
+      
+      4-C          Specimen copy of Class A stock certificate as revised in 
+                   1987 filed as Exhibit 4-C to Post-Effective Amendment 
+                   No. 2 to the Registrant's Form S-1 Registration Statement 
+                   (Registration No. 33-4299) on March 29, 1988 and 
+                   incorporated herein by reference.  
+
+      4-D          Specimen copy of Class C stock certificate filed as 
+                   Exhibit 4-I to the Registrant's Form S-1 Registration 
+                   Statement (Registration No. 2-82460) on March 16, 1983 
+                   and incorporated herein by reference.  
+
+      4-E          Copy of current standard form of Subscription for 
+                   Capital Stock Agreement to be used for dealers to 
+                   subscribe for shares of the Registrant's stock in 
+                   conjunction with new membership agreements submitted 
+                   to the Registrant filed as Exhibit 4-L to Post-Effective 
+                   Amendment No. 2 to the Registrant's Form S-2 Registration
+                   Statement (Registration No. 33-46449) on or about 
+                   March 23, 1994 and incorporated herein by reference.  
+
+      4-F          Copy of plan for the distribution of patronage dividends 
+                   with respect to purchases of merchandise made from the 
+                   Registrant on or after January 1, 1993, adopted by the 
+                   Board of Directors of the Registrant on December 8, 1992,
+                   filed as Exhibit 4-M to Post-Effective Amendment No. 2 
+                   to the Registrant's Form S-2 Registration Statement
+                   (Registration No. 33-46449) on or about March 23, 1994 
+                   and incorporated herein by reference.  
+
+      9            No Exhibit  
+
+      10-A         Copy of Retirement Benefits Replacement Plan of the 
+                   Registrant, restated as of January 1, 1989, filed as 
+                   Exhibit 10-A to Post-Effective Amendment No. 2 to the 
+                   Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on or about March 23, 1994 
+                   and incorporated herein by reference.  
+
+      10-B         Copy of resolutions establishing 1990 Incentive 
+                   Compensation Plan for Executives and amending the 1989 
+                   Incentive Compensation Plans for Executives of the 
+                   Registrant adopted by its Board of Directors on January 
+                   30, 1991 and filed as Exhibit 10-F to Post Effective 
+                   Amendment No. 2 to the Registrant's Form S-2 Registration 
+                   Statement (Registration No. 33-27790) on March 20, 1991 
+                   and incorporated herein by reference.  
+
+      10-C         Copy of resolutions amending the 1990 Incentive 
+                   Compensation Plans for Executives and establishing the 
+                   Executive Supplemental Benefit Plans of the Registrant 
+                   adopted by its Board of Directors on December 11, 1990 
+                   and filed as Exhibit 10-G to Post Effective Amendment 
+                   No. 2 to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-27790) on March 20, 1991 and 
+                   incorporated herein by reference.  
+
+      10-D         Copy of amendment to the Executive Supplemental Benefits 
+                   Plan of the Registrant adopted by its Board of Directors 
+                   on July 30, 1991 filed as Exhibit 10-E to the Registrant's 
+                   Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on March 23, 1992 and incorporated herein by
+                   reference.  
+
+      10-E         Copy of amendment to the Executive Supplemental Benefits 
+                   Plan of the Registrant adopted by its Board of Directors 
+                   on December 9, 1991 filed as Exhibit 10-F to the 
+                   Registrant's Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on March 23, 1992 and incorporated herein by
+                   reference.  
+
+      
+                                      E-2
+      
+      
+      10-F         Copy of amendment to the 1990 Incentive Compensation Plan 
+                   for Executives of the Registrant, filed as Exhibit 10-H 
+                   to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on March 23, 1992 and 
+                   incorporated herein by reference.   
+ 
+      10-G         Copy of the "Ace Hardware Corportation Officer's (sic) 
+                   Incentive Compensation Plan" as amended and restated 
+                   effective January 1, 1994, filed as Exhibit 10-G to 
+                   Post-Effective Amendment No. 2 to the Registrant's Form 
+                   S-2 Registration Statement (Registration No. 33-46449) 
+                   on or about March 23, 1994 and incorporated herein by 
+                   reference.  
+
+      10-H         Copy of Employment Agreement effective January 1, 1993 
+                   between Ace Hardware Corporation and Paul Ingevaldson 
+                   filed as Exhibit 10-I to Post Effective Amendment No. 1 
+                   to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on March 22, 1993 and 
+                   incorporated herein by reference.  
+             
+      10-I         Copy of Employment Agreement effective January 1, 1993 
+                   between Ace Hardware Corporation and David F. Hodnik 
+                   filed as Exhibit 10-J to Post Effective Amendment No. 1 
+                   to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on March 22, 1993 and 
+                   incorporated herein by reference.  
+
+      10-J         Copy of Employment Agreement effective January 1, 1993 
+                   between Ace Hardware Corporation and Roger E. Peterson 
+                   filed as Exhibit 10-K to Post Effective Amendment No. 1 
+                   to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on March 22, 1993 and 
+                   incorporated herein by reference.  
+
+      10-K         Copy of Employment Agreement effective January 1, 1993 
+                   between Ace Hardware Corporation and William A. Loftus 
+                   filed as Exhibit 10-L to Post Effective Amendment No. 1 
+                   to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on or about March 22, 1993 
+                   and incorporated herein by reference.  
+
+      10-L         Copy of Loan Agreement with Anne Arundel County, Maryland 
+                   dated December 1, 1981 securing 15-year floating rate
+                   industrial development revenue bonds in the principal sum 
+                   of $9 million held by The Northern Trust Company, Chicago, 
+                   Illinois, for itself and other participating lenders filed 
+                   as Exhibit 10-A-k to Post-Effective Amendment No. 3 to the 
+                   Registrant's Form S-1 Registration Statement (Registration 
+                   No. 2-63880) on March 9, 1982 and incorporated herein by 
+                   reference.  
+
+      10-M         Copy of Loan Agreement with Pulaski County, Arkansas dated 
+                   July 1, 1988 securing a variable rate demand Industrial 
+                   Development Revenue Refunding Bond with a maturity date 
+                   of February 1, 1994 in the principal sum of $8,250,000.00 
+                   filed as Exhibit 10-V to the Registrant's Form S-2 
+                   Registration Statement (Registration No. 33-27790) filed 
+                   on March 28, 1989 and incorporated herein by reference.  
+
+      
+                                      E-3
+      
+      
+      10-N         Copy of Note Purchase and Private Shelf Agreement with 
+                   the Prudential Insurance Company of America dated 
+                   September 27, 1991 securing 8.74% Senior Series A Notes 
+                   in the principal sum of $20,000,000.00 with a maturity 
+                   date of July 1, 2003 filed as Exhibit 10-A-q to the 
+                   Registrant's Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on March 23, 1992 and incorporated herein 
+                   by reference.   
+        
+      10-O         Copy of Standard Form of Ace Hardware International 
+                   Retail Merchant Agreement adopted in 1990, filed as 
+                   Exhibit 10-A-q to Post Effective Amendment No. 2 to 
+                   the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-27790) on March 20, 1991 and 
+                   incorporated herein by reference.  
+
+      10-P         Copy of current standard form of Ace Hardware Membership
+                   Agreement filed as Exhibit 10-P to Post-Effective 
+                   Amendment No. 2 to the Registrant's form S-2 Registration 
+                   Statement (Registration No. 33-46449) on or about 
+                   March 23, 1994 and incorporated herein by reference.  
+
+      10-Q         Copy of 6.89% Senior Series B notes in the aggregate 
+                   principal sum of $20,000,000 issued July 29, 1992 with 
+                   a maturity date of January 1, 2000 pursuant to Note 
+                   Purchase and Private Shelf Agreement with the Prudential 
+                   Insurance Company of America dated September 27, 1991 
+                   and filed as Exhibit 10-A-r to Post Effective Amendment 
+                   No. 1 to the Registrant's Form S-2 Registration Statement 
+                   on March 22, 1993 and incorporated herein by reference.  
+                   
+      10-R         Copy of 6.47% Senior Series A notes in the aggregate 
+                   principal amount of $30,000,000 issued September 22, 1993 
+                   with a maturity date of June 22, 2008, and $20,000,000 
+                   Private Shelf Facility, pursuant to Note Purchase and 
+                   Private Shelf Agreement with the Prudential Insurance 
+                   Company of America dated as of September 22, 1993, filed 
+                   as Exhibit 10-R to Post-Effective Amendment No. 2 to the 
+                   Registrant's Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on or about March 23, 1994 and incorporated 
+                   herein by reference.  
+
+      10-S         Assignment and Assumption dated October 22, 1992 of Lease 
+                   dated August 31, 1992 with MTI Vacations, Inc. filed as 
+                   Exhibit 10-A-s to Post-Effective Amendment No. 1 to the 
+                   Registrant's Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on March 22, 1993 and incorporated herein 
+                   by reference.  
+
+      10-T         Copy of Amendment to the Executive Supplemental Benefit 
+                   Plans of the Registrant adopted by its Board of Directors
+                   on March 17, 1992 and filed as Exhibit 10-A-t to the 
+                   Registrant's Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on March 22, 1993 and incorporated herein by 
+                   reference.  
+
+      10-U         Copy of Lease dated September 30, 1992 for general offices
+                   of the Registrant in Oak Brook, Illinois filed as Exhibit 
+                   10-A-u to the Registrant's Form S-2 Registration Statement 
+                   (Registration No. 33-46449) on March 22, 1993 and 
+                   incorporated herein by reference.   
+
+
+                                      E-4
+
+
+      10-V         Copy of Fourth Amendment to Executive Supplemental Benefit 
+                   Plans effective January 1, 1994 filed as Exhibit 10-V to 
+                   Post-Effective Amendment No. 2 to the Registrant's 
+                   Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on or about March 23, 1994 and 
+                   incorporated herein by reference. 
+
+      10-W         Copy of Ace Hardware Corporation Deferred Director Fee 
+                   Plan as amended on June 8, 1993, filed as Exhibit 10-W 
+                   to Post-Effective Amendment No. 2 to the Registrant's 
+                   Form S-2 Registration Statement (Registration 
+                   No. 33-46449) on or about March 23, 1994 and 
+                   incorporated herein by reference. 
+
+      10-X         Copy of Ace Hardware Corporation Deferred Compensation 
+                   Plan January, 1994, filed as Exhibit 10-X to 
+                   Post-Effective Amendment No. 2 to the Registrants Form S-2
+                   Registration Statement (Registration No. 33-46449) on or 
+                   about March 23, 1994 and incorporated herein by reference.
+
+      11           No Exhibit.  
+      
+      12           No Exhibit.  
+      
+      13           No Exhibit.  
+      
+      16           Not Applicable.  
+      
+      18           No Exhibit.  
+
+      22           Not Applicable.
+
+      23           Auditors' Consent, dated March 23, 1994, filed as 
+                   Exhibit 24(a) to the Registrant's Form S-2 Registration 
+                   Statement (Registration No. 33-46449) filed on or about 
+                   March 23, 1994 and incorporated herein by reference.  
+
+      27           No Exhibit.  
+      
+      28           Not Applicable.  
+  
+
+Supplemental Information to be Furnished with Reports Filed Pursuant to
+Section 15(d) of the Act by Registrants which have not Registered  
+Securities Pursuant to Section 12 of the Act.  
+   
+   As of the date of the foregoing Report, no annual report for the
+Registrant's year ended December 31, 1993, nor any proxy soliciting
+materials for the Registrant's 1994 annual meeting have been sent to 
+security holders. Copies of such Annual Report and proxy soliciting 
+materials will subsequently be sent to security holders and furnished 
+to the Securities and Exchange Commission.  
+   
+
+                                      E-5
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT LISTING EXISTING SUBSIDIARIES
+<TEXT>
+
+                                                              Exhibit 21
+
+
+                        ACE HARDWARE CORPORATION
+
+                          LIST OF SUBSIDIARIES
+                         (as of March 23, 1994)
+
+
+                                              NAME UNDER
+                    STATE OF                WHICH SUBSIDIARY
+SUBSIDIARY        INCORPORATION              DOES BUSINESS
+
+Ace Insurance 
+Agency, Inc.        Illinois           Ace Insurance Agency, Inc.
+
+
+AHC Realty          Illinois           AHC Realty Corporation
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<DESCRIPTION>POWER OF ATTORNEY EXHIBIT
+<TEXT>
+
+                                                                   Exhibit 24
+
+              ACE HARDWARE CORPORATION:  POWER OF ATTORNEY
+
+
+     KNOW ALL MEN BY THESE PRESENTS that each of the undersigned
+
+directors of ACE HARDWARE CORPORATION, a Delaware corporation, hereby
+
+constitutes and appoints DAVID F. HODNIK and RITA D. KAHLE, and each
+
+of them, his true and lawful attorneys-in-fact and agents, each with
+
+full power to act without the other, with full power of substitution,
+
+for him and in his name, place and stead, in any and all capacities,
+
+to sign the Annual Report on Form 10-K, and any and all amendments
+
+thereto, and to file the same with all exhibits thereto, and other
+
+documents in connection therewith, with the Securities and Exchange
+
+Commission, granting unto said attorneys and agents full power and
+
+authority to do and perform each and every act and thing requisite
+
+and necessary to be done in and about the premises, as fully to all
+
+intents and purposes as they might or could do in person, hereby
+
+ratifying and confirming all that said attorneys and agents, or
+
+either of them, or their substitutes, may lawfully do or cause to be
+
+done by virtue hereof.
+     
+     IN WITNESS WHEREOF, each of the undersigned has set his or her
+
+hand and seal as of this 23rd day of March, 1994.
+
+
+  LAWRENCE R. BOWMAN
+  Lawrence R. Bowman                                
+
+
+  MARK JERONIMUS                                    RAY W. OSBORNE
+  Mark Jeronimus                                    Ray W. Osborne
+
+
+  HOWARD J. JUNG                                    JON R. WEISS
+  Howard J. Jung                                    Jon R. Weiss
+
+
+  JOHN E. KINGREY                                   DON S. WILLIAMS
+  John E. Kingrey                                   Don S. Williams
+
+
+  RICHARD E. LASKOWSKI                              JAMES R. WILLIAMS
+  Richard E. Laskowski                              James R. Williams, Jr.
+                                  
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

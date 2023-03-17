@@ -1,0 +1,2899 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ cJiVIjJuZo7L28imBg8E5ARfSQRtbj8F4bagFEyMDIRGJ1NJQv677eQNmPSu0Ln/
+ opmea29Z7SbDvT7BSJB+sw==
+
+<IMS-DOCUMENT>0000032377-94-000001.txt : 19940210
+<IMS-HEADER>0000032377-94-000001.hdr.sgml : 19940210
+ACCESSION NUMBER:		0000032377-94-000001
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19930930
+FILED AS OF DATE:		19940209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELIZABETHTOWN GAS CO
+		CENTRAL INDEX KEY:			0000032377
+		STANDARD INDUSTRIAL CLASSIFICATION:	4922
+		IRS NUMBER:				220888120
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	002-38193
+		FILM NUMBER:		94505450
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 ELIZABETHTOWN PLAZA
+		CITY:			UNION
+		STATE:			NJ
+		ZIP:			07083
+		BUSINESS PHONE:		9082895000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE ELIZABETHTOWN PLAZA
+		CITY:			UNION
+		STATE:			NJ
+		ZIP:			07083
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELIZABETHTOWN CONSOLIDATED GAS CO
+		DATE OF NAME CHANGE:	19700828
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ETG 10-K
+<TEXT>
+
+                        SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D. C. 20549
+
+                                      FORM 10-K
+                    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D)
+                        OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the Fiscal Year Ended September 30, 1993      Commission File # 2-38193
+
+                              Elizabethtown Gas Company
+
+                     (Wholly-owned subsidiary of NUI Corporation)
+
+                (Exact name of registrant as specified in its charter)
+
+                   New Jersey                           22-0888120
+            (State of incorporation)       (I.R.S. employer identification no.)
+
+                      One Elizabethtown Plaza, Union, NJ  07083
+             (Address of principal executive offices, including zip code)
+
+                                    (908) 289-5000
+                 (Registrant's telephone number, including area code)
+
+          Securities registered pursuant to Section 12(b) of the Act: NONE.
+
+          Securities registered pursuant to Section 12(g) of the Act: NONE.
+
+     REGISTRANT MEETS THE CONDITIONS SET FORTH IN GENERAL INSTRUCTION J (1) (a)
+     AND (b) OF FORM 10-K AND IS THEREFORE FILING THIS FORM IN THE REDUCED
+     DISCLOSURE FORMAT.
+
+     Indicate by check mark whether the registrant: (1) has filed all reports
+     required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+     of 1934 during the preceding 12 months (or for such shorter period that
+     the registrant was required to file such reports), and (2) has been
+     subject to such filing requirements for the past 90 days:
+
+                                    YES  X  NO    
+
+     Indicate the number of shares outstanding of each of the issuer's classes
+     of common stock, as of the latest practicable date.
+
+             Common Stock, No Par Value: 1,040,164 shares outstanding
+             as of October 31, 1993.
+
+     DOCUMENTS INCORPORATED BY REFERENCE: 
+
+     No annual report to security holders, proxy or information statement nor
+     any prospectus is incorporated herein by reference.
+
+                                      <PAGE>
+
+                              Elizabethtown Gas Company
+
+                          Annual Report on Form 10-K For The
+                         Fiscal Year Ended September 30, 1993
+
+                                  TABLE OF CONTENTS
+
+
+
+                                        PART I
+                                                                         Page
+     Item 1. Business  . . . . . . . . . . . . . . . . . . . . . . . .    1
+     Item 2. Properties  . . . . . . . . . . . . . . . . . . . . . . .   12
+     Item 3. Legal Proceedings . . . . . . . . . . . . . . . . . . . .   13
+     Item 4. Submission of Matters to a Vote of Security Holders . . .   13
+
+                                       PART II
+
+     Item 5. Market for Registrant's Common Equity and
+               Related Stockholder Matters . . . . . . . . . . . . . .   13
+     Item 6. Selected Financial Data . . . . . . . . . . . . . . . . .   14
+     Item 7. Management's Discussion and Analysis of Financial Condition
+               and Results of Operations . . . . . . . . . . . . . . .   16
+     Item 8. Financial Statements and Supplementary Data . . . . . . .   22
+     Item 9. Changes in and Disagreements with Accountants on Accounting 
+               and Financial Disclosure  . . . . . . . . . . . . . . .   22
+
+                                       PART III
+
+     Item 10. Directors and Executive Officers of the Registrant . . .   22
+     Item 11. Executive Compensation . . . . . . . . . . . . . . . . .   22
+     Item 12. Security Ownership of Certain Beneficial
+               Owners and Management . . . . . . . . . . . . . . . . .   22
+     Item 13. Certain Relationships and Related Transactions . . . . .   22
+
+                                       PART IV
+
+     Item 14. Exhibits, Financial Statement Schedules,
+               and Reports on Form 8-K . . . . . . . . . . . . . . . .   22
+
+                                      <PAGE>
+
+                              Elizabethtown Gas Company
+
+                          Annual Report on Form 10-K For The
+                         Fiscal Year Ended September 30, 1993
+
+
+
+                                        PART I
+
+     Item 1. Business
+
+          Elizabethtown Gas Company ("Elizabethtown" or the "Company") is
+     engaged primarily in the distribution of natural gas and currently serves
+     more than 319,000 customers in New Jersey and Florida. Elizabethtown,
+     which was organized in 1855, operates with two divisions: The New Jersey
+     Division, that does business as Elizabethtown Gas Company, and the Florida
+     Division, that does business as City Gas Company of Florida. The Company
+     is a wholly-owned subsidiary of NUI Corporation ("NUI"), an exempt public
+     utility holding company that was incorporated in New Jersey in 1969. See
+     "-Business Plan" and "-The Planned Mergers."
+
+     Business Plan
+
+          The Company, in accordance with the NUI business plan, is
+     concentrating on customer growth and the profitability of its gas
+     distribution business. Growth opportunities could include the acquisition
+     of additional gas distribution companies, the development of new
+     franchises and the management of certain service requirements of other
+     utilities on a contract basis. The Company's strategy involves assembling,
+     as opportunities become available, a natural gas distribution system in
+     several states, while maintaining a balanced capital structure. From time
+     to time, the Company reviews acquisition opportunities and, when
+     requested, submits acquisition proposals.
+
+          The Company's plan takes advantage of opportunities presented by the
+     restructuring of interstate natural gas pipeline operations and the
+     increase in supply alternatives. Traditionally, interstate pipelines were
+     wholesalers of natural gas to local distribution companies and generally
+     did not provide separate transportation or other services for specific
+     customers. In 1985, the Federal Energy Regulatory Commission (the "FERC")
+     adopted Order No. 436 that encouraged interstate pipelines to make
+     transportation of gas available to customers on a non-discriminatory
+     basis. Such voluntary "open access" by certain interstate pipelines
+     enhanced the opportunity for the Company, other local gas distribution
+     companies and industrial customers to purchase natural gas directly from
+     gas producers and others. In 1992, the FERC issued Order No. 636 that,
+     among other things, mandated the separation or "unbundling" of interstate
+     pipeline sales, transportation and storage services and established
+     guidelines for capacity management effective in 1993. Order No. 636
+     increased the opportunity for local gas distribution companies and
+     industrial customers to purchase natural gas from alternative sources,
+     while increasing the potential business and regulatory risk borne by a
+     local gas distribution company with respect to the acquisition and
+     management of natural gas services.
+
+          The business plan envisions a natural gas distribution system in
+     which, among other matters, local managements conduct the marketing,
+
+
+                                       1 <PAGE>
+
+
+     customer service and distribution operations in each state served, with
+     management of gas supply and access to capital markets coordinated
+     centrally.
+
+          Pursuant to the business plan, NUI spun-off its non-utility
+     businesses to its shareholders and acquired City Gas Company of Florida
+     which it merged into Elizabethtown in 1988. In 1990, NUI entered into a
+     merger agreement with Pennsylvania Enterprises, Inc., which conducts
+     natural gas and water utility operations in northeastern Pennsylvania,
+     which merger agreement subsequently was terminated. The Company acquired
+     additional gas utility service areas in Florida in 1991, adding
+     approximately 6,100 customers. In fiscal 1993, the Company expanded its
+     Florida operations by initiating natural gas service in St. Lucie County
+     (see "-Territory and Customers Served-Florida Division") and NUI entered
+     into an Agreement and Plan of Merger with Pennsylvania & Southern Gas
+     Company ("PSGS") (see "-The Planned Mergers").
+
+          There can be no assurances that the Company will acquire any
+     additional gas distribution properties, develop new franchises or manage
+     the gas supply requirements of other companies and, if such actions are
+     taken, there can be no assurances that they will accomplish the purposes
+     described above.
+
+     The Planned Mergers
+
+          On July 27, 1993, NUI and PSGS entered into an Agreement and Plan of
+     Merger, pursuant to which PSGS would be merged with and into NUI (the
+     "PSGS Merger"). Under the Agreement and Plan of Merger, NUI will acquire
+     all of the outstanding common shares of PSGS for approximately $17
+     million, payable in shares of NUI Common Stock equivalent to $71.50 per
+     PSGS share, except that each shareholder will receive no less than 2.4 and
+     no more than 3.0 shares of NUI Common Stock for each PSGS share held. The
+     exchange value of the NUI Common Stock will be established over the twenty
+     day trading period immediately prior to the PSGS Merger. The PSGS Merger
+     will be consummated upon receipt of all required regulatory approvals, the
+     approval of the stockholders of PSGS and the satisfaction or waiver of
+     certain other consents and conditions. Upon the effectiveness of the PSGS
+     Merger, NUI would assume all of the rights and obligations of PSGS.
+     Following the PSGS Merger, Elizabethtown will be merged with and into NUI
+     (the "Elizabethtown Merger"). The PSGS Merger, which will result in
+     approximately a seven percent increase in the number of customers served,
+     and the Elizabethtown Merger, through which NUI will become an operating
+     utility company with three divisions providing gas service in six states,
+     fit within the business plan (see "-Business Plan").
+
+     Territory and Customers Served
+
+          See "Selected Financial Data-Summary Consolidated Operating Data" for
+     summary information by customer class with respect to operating revenues,
+     gas volumes sold or transported and customers served. The Company serves
+     more than 319,000 customers, of which approximately 72% are in New Jersey
+     and approximately 28% are in Florida. Approximately 51% of the Company's
+     customers are residential and commercial customers in New Jersey that
+     purchase gas primarily for space heating. The Company's operating revenues
+     for fiscal 1993 amounted to $354.9 million, of which approximately 84%
+     were generated in New Jersey and approximately 16% were generated in
+     Florida. Gas throughput volumes sold or transported in fiscal 1993
+
+
+                                       2 <PAGE>
+
+
+     amounted to 71,688,000 Mcf, of which approximately 87% was sold or
+     transported in New Jersey and approximately 13% was sold or transported in
+     Florida. An Mcf is a basic unit of measurement for natural gas comprising
+     1,000 cubic feet of gas.
+
+          In fiscal 1993, the Company's largest single customer, a 614 megawatt
+     cogeneration facility in New Jersey, accounted for approximately 7% of
+     operating revenues and approximately 11% of total gas sold or transported.
+     In fiscal 1993, total throughput for electric generation, including
+     cogeneration, accounted for approximately 14% of operating revenues and
+     approximately 26% of total gas sold or transported. 
+
+          New Jersey Division. The Company, through its New Jersey Division,
+     provides gas service to approximately 231,000 customers in franchised
+     territories within seven counties, or portions thereof, in central and
+     northwestern New Jersey. The New Jersey Division's 1,300 square-mile
+     service territory has a total population of approximately 950,000. Most of
+     the New Jersey Division's customers are located in densely-populated
+     central New Jersey, where increases in the number of customers are
+     primarily from conversions to gas heating from alternative forms of
+     heating systems.
+
+          The New Jersey Division's gas volumes sold or transported and
+     customers served for the past three fiscal years were as follows:
+
+                Gas Volumes Sold or Transported (in thousands of Mcf)
+
+                                           1991          1992          1993
+     Firm Customers
+         Residential                      16,348        18,225        19,115
+         Commercial                        8,546         9,639        10,463
+         Industrial                        5,427         5,052         4,781
+     Interruptible Customers              10,837         9,333        12,345
+     Transportation                       11,758        14,100        15,459
+                                          ------        ------        ------
+     Total                                52,916        56,349        62,163
+                                          ======        ======        ======
+
+                       Customers Served (twelve month average)
+
+                                           1991          1992          1993
+     Firm Customers
+         Residential - Heating           142,701       147,447       151,621
+         Residential - Non-heating        66,980        64,387        62,520
+         Commercial                       15,942        16,249        16,588
+         Industrial                          427           402           377
+     Interruptible and Transportation        131           143           160
+                                          ------        ------        ------
+     Total                               226,181       228,628       231,266
+                                          ======        ======        ======
+
+          Approximately 70% of the residential heating customers added in New
+     Jersey since October 1, 1990 represented homes that were converted to gas
+     heating from other forms of space heating and the remainder consisted of
+     new homes. The reduction in residential non-heating customers principally
+     reflects conversions to full gas heating service. As the pool of
+     conversion candidates among existing non-heating customers declines, the
+
+
+                                       3 <PAGE>
+
+
+     Company is increasing its marketing emphasis with respect to heating
+     system conversions in homes and businesses that do not currently have any
+     natural gas service. Although new residential construction was slow over
+     the past several years, the pace of growth in new residential construction
+     starts has increased recently in the New Jersey Division's northwest
+     service area.
+
+          The Company has increased its marketing emphasis on commercial
+     conversions and is supporting local economic development groups to attract
+     new businesses within its service territory. The Company has proposed an
+     economic development program to help spur economic growth and jobs
+     creation. The program, which is subject to regulatory approval, would
+     provide grants and reduced rates for qualifying businesses that start up,
+     relocate or expand within designated areas.
+
+          In fiscal 1993, approximately 13 schools and 360 businesses and
+     housing complexes, which are subject to New Jersey legislation requiring
+     the registration, systematic testing and monitoring of underground fuel
+     oil and propane storage tanks, converted to gas heating systems and/or
+     switched from interruptible service to firm service. School conversions
+     totaled approximately 24 in fiscal 1992 and 50 in fiscal 1991. Business
+     and housing complex conversions totaled approximately 439 in fiscal 1992
+     and 350 in fiscal 1991. In addition, changing economic conditions, coupled
+     with environmental concerns and legislation, are creating a market for
+     natural gas for large commercial air conditioning units and compressed
+     natural gas fleet vehicles.
+
+          The Company provides gas sales and transportation service comprising
+     twenty percent of the primary fuel requirements of a 614 megawatt
+     cogeneration facility that began commercial operation in New Jersey in
+     July 1992 to supply electric power for New York City. The Company's gas
+     supply contracts with certain large cogeneration customers, including the
+     614 megawatt facility, allow the Company under certain conditions to take
+     back gas service to satisfy peak load requirements (see "-Gas Supply and
+     Operations"). The Company is authorized by the New Jersey Board of
+     Regulatory Commissioners (the "NJBRC") to retain approximately $2.3
+     million of the operating margins that are realized from sales to the 614
+     megawatt facility over approximately four years, of which $0.6 million was
+     realized in fiscal 1993 and $0.5 million was realized in fiscal 1992. The
+     margins that otherwise would be realized on gas sold or transported to the
+     facility are used to reduce gas costs charged to firm customers. 
+
+          The decreases with respect to firm industrial customers served, which
+     generate revenues from the sale of gas, principally reflect conversions to
+     transportation service, which continues to generate revenues for the
+     Company from the transportation of customer-owned gas. The rate charged to
+     transportation customers is less than the rate charged to firm industrial
+     customers because the transportation customer rate does not include any
+     cost of gas component; however, the operating margins from both rates are
+     substantially the same. See "-Business Plan" and "-Competition."
+
+          The New Jersey Division's "interruptible" customers have alternative
+     energy sources and use gas on an "as available" basis. Variations in the
+     volume of gas sold or transported to these customers do not have a
+     significant direct effect on the Company's earnings because, in accordance
+     with New Jersey regulatory requirements, from 90% to 95% of the margins
+     that otherwise would be realized on gas sold or transported to
+
+
+                                       4 <PAGE>
+
+
+     interruptible customers is used to reduce gas costs charged to firm
+     customers.
+
+          The increase in the number of transportation customers principally
+     reflects customers converting from industrial sales service, as well as
+     the addition of new customers. See "-Business Plan" and "-Competition."
+
+          In November 1993, the NJBRC issued guidelines which are designed to
+     provide for the unbundling of natural gas transportation and sales
+     services to commercial and industrial customers. Under these guidelines
+     the Company is required to file new tariffs for its New Jersey Division by
+     April 1, 1994. The Company expects the effect of the new tariffs to be
+     neutral to the operating revenues and margins of the Company.
+
+          Florida Division. The Company, through its Florida Division, is the
+     second largest natural gas utility in Florida and it supplies gas to
+     approximately 88,000 customers in Dade and Broward Counties in south
+     Florida and in Brevard County on the central east coast of Florida, among
+     the fastest growing areas in the state. The Company initiated natural gas
+     service in fiscal 1993 to the city of Port St. Lucie in St. Lucie County.
+     Also, in fiscal 1993, the Company entered into a contract with the
+     National Aeronautics and Space Administration ("NASA") for the initiation
+     of natural gas service at Kennedy Space Center ("KSC") in Brevard County.
+     The Florida Division's service areas cover approximately 1,000 square
+     miles and have a population of approximately 500,000. 
+
+          The Florida Division's gas volumes sold or transported and customers
+     served for the past three fiscal years were as follows:
+
+                Gas Volumes Sold or Transported (in thousands of Mcf)
+
+                                           1991          1992          1993
+     Firm Customers
+         Residential                       1,785         2,026         1,904
+         Commercial                        4,053         4,367         4,455
+     Interruptible                         1,787         1,809         2,186
+     Transportation                           20           716           980
+                                          ------        ------        ------
+     Total                                 7,645         8,918         9,525
+                                          ======        ======        ======
+
+                       Customers Served (twelve month average)
+
+                                           1991          1992          1993
+     Firm Customers
+         Residential                      81,890        83,615        83,541
+         Commercial                        4,350         4,421         4,428
+     Interruptible and Transportation         30            30            32
+                                          ------        ------        ------
+     Total                                86,270        88,066        88,001
+                                          ======        ======        ======
+
+          The Florida Division's residential customers purchase gas primarily
+     for water heating, cooking and clothes drying. Some customers also
+     purchase gas to provide space heating during the relatively mild winter
+     season. Customer growth principally reflects new construction. The market
+     for new residential construction in the counties served by the Florida
+
+
+                                       5 <PAGE>
+
+
+     Division has been expanding. The Company estimates that operating margins
+     for the Florida Division were lower by $0.5 million in fiscal 1993 because
+     of losses suffered by its customers in south Dade County, Florida, in
+     August 1992 as a result of Hurricane Andrew. As of September 30, 1993,
+     approximately 2,000 of the customers previously served in the affected
+     area have not rebuilt, and may not rebuild, homes that were damaged in the
+     storm.
+
+          In fiscal 1993, the Company initiated natural gas service to the city
+     of Port St. Lucie in St. Lucie County through the construction of a gate
+     station interconnection with the interstate pipeline system, acquisition
+     and conversion of an existing underground propane system and the extension
+     of mains through the city center. The Company expects significant growth
+     from this start-up investment.
+
+          The project to serve KSC, the first of a three-phase Company project
+     to expand service in Brevard County, will entail a 25 mile pipeline
+     extension at an estimated cost of $5 million to be incurred principally in
+     fiscal 1994, upon obtaining all required environmental permits. The
+     Company expects to expend an additional $10 million over the next 10 years
+     to complete the final two phases of the main extension and looping
+     project, which will provide access to additional residential, commercial,
+     industrial and government customers in the Cape Canaveral, Merritt Island
+     and Cocoa Beach areas.
+
+          In February 1991, the Company acquired certain assets of two small
+     gas companies in Dade County. This acquisition had the effect of adding
+     approximately 6,100 customers.
+
+          Under energy conservation programs approved by the Florida Public
+     Service Commission (the "FPSC") that are designed to offset the growth of
+     Florida's demand for electricity, the Florida Division is allowed to
+     provide cash allowances to builders for natural gas piping and venting
+     upon the installation of water heaters, ranges, clothes dryers and heating
+     systems in new single family and multi-family dwellings. The programs also
+     allow the Florida Division to provide cash allowances to customers who
+     replace certain electric appliances with natural gas appliances. The
+     Florida Division is allowed to recover the expenses of the energy
+     conservation programs in its rates. Pursuant to the rate case concluded in
+     August 1991, the Company is allowed to include in rate base certain
+     additional costs for natural gas piping and venting under the Company's
+     house piping program.
+
+          The Florida Division's commercial customers consist primarily of
+     schools, businesses and public facilities, the number of which tends to
+     increase concurrently with the continuing growth in population within the
+     Florida Division's service areas.
+
+          The Florida Division's industrial customers and certain commercial
+     customers are served under tariffs applicable to "interruptible"
+     customers. The Company retains all of the operating margins generated on
+     sales to these customers as these volumes are included in the allocation
+     of the Florida Division's revenue requirements for ratemaking purposes.
+
+          One industrial customer has converted its Florida Division service
+     from a sales basis to a transportation basis and the Company has added a
+     customer that purchases transportation service. The Florida Division's
+
+
+                                       6 <PAGE>
+
+
+     transportation tariff provides margins on transportation services that are
+     substantially the same as margins earned on gas sales.
+
+     Gas Supply and Operations
+
+          In 1992, the FERC issued Order No. 636 that, among other things,
+     mandated the separation or "unbundling" of interstate pipeline sales,
+     transportation and storage services and established guidelines for
+     capacity management effective in 1993. The Company's principal pipeline
+     suppliers for its New Jersey Division have offered some open access
+     transportation services since the issuance of FERC Order No. 436 in 1985.
+     Accordingly, while the implementation of Order No. 636 involves the
+     restructuring of the Company's contracts with all of its pipeline
+     suppliers, the most significant restructuring pertains to certain
+     pipelines that together deliver less than one-third of the Company's total
+     firm gas supply. The transition to Order No. 636 has the effect of
+     increasing the opportunity for local gas distribution companies and
+     industrial customers to purchase natural gas from alternative sources,
+     while increasing the potential business and regulatory risk borne by a
+     local gas distribution company with respect to the acquisition and
+     management of natural gas services (see "-Business Plan"). 
+
+          The Company endeavors to utilize its pipeline capacity efficiently by
+     matching capacity to its load profile to the extent feasible. To this end,
+     the Company has had a broad unbundled service tariff in effect in New
+     Jersey since 1987. The Company continues to avail itself of opportunities
+     to improve the utilization of its pipeline capacity by pursuing broad
+     based customer growth, including off peak markets, and utilizing capacity
+     release provisions within Order 636 when operationally feasible.
+
+          Under Order No. 636 the pipeline companies are passing through to
+     their customers transition costs associated with mandated restructuring,
+     such as costs resulting from buying out unmarketable gas purchase
+     contracts. The transition costs charged to the Company have amounted to
+     approximately $1.4 million and are being recovered through the Company's
+     gas adjustment clauses. The total amount of such transition costs that
+     ultimately may be charged to the Company is not yet determinable. 
+
+          The Company has long-term gas delivery contracts with seven
+     interstate pipeline companies. Under these contracts, the Company has a
+     right to delivery, on a firm year-round basis, of up to 74.2 million Mcf
+     of natural gas annually with a maximum of approximately 237,000 Mcf per
+     day. Both the price and conditions of service of these contracts are
+     regulated by the FERC. 
+
+          In addition, the Company has six long-term gas purchase contracts for
+     the supply of natural gas for its system, including one with an interstate
+     pipeline company, three with gas marketers and two with independent
+     producers. Under these contracts, the Company has a right to purchase, on
+     a firm year-round basis, up to 43.1 million Mcf of natural gas annually
+     with a maximum of approximately 139,000 Mcf per day. In addition, the
+     Company has access to spot market gas through the interstate pipeline
+     system to supplement or replace, on a short-term basis, portions of its
+     long-term gas purchase contracts when such actions can reduce overall gas
+     costs or are necessary to supply interruptible customers. 
+
+
+
+
+                                       7 <PAGE>
+
+
+          The Company's gas supply during fiscal 1993, came from the following
+     sources: approximately 27% from purchases under contracts with primary
+     pipeline suppliers and additional purchases under their filed tariffs;
+     approximately 73% from purchases from various producers and gas marketers,
+     purchases under long-term contracts with independent producers and owned
+     production; and less than 1% from propane and liquefied natural gas
+     ("LNG"). The Company manages its gas supply portfolio so as to assure a
+     diverse, reliable and secure supply of natural gas at the lowest
+     reasonable cost. In fiscal 1993, the Company's largest single supplier
+     accounted for 18% of the Company's total gas purchases.
+
+          In order to have available sufficient quantities of gas during the
+     New Jersey heating season, the Company stores gas during non-peak periods
+     and purchases supplemental gas, including propane, LNG and gas available
+     under contracts with certain large cogeneration customers, as it deems
+     necessary. The storage contracts provide the Company with an aggregate of
+     12.0 million Mcf natural gas storage capacity and provide the Company with
+     the right to receive a maximum daily quantity of 150,400 Mcf. The
+     contracts with cogeneration customers provide 35,800 Mcf of daily gas
+     supply to meet peak loads by allowing the Company to take back capacity
+     and supply that otherwise is dedicated to serve those customers. 
+
+          The Company's peak load facilities in New Jersey include a
+     propane-air plant with a daily production capacity of 27,400 Mcf, fixed
+     propane storage totaling 674,000 gallons and rail car sidings capable of
+     storing an additional 300,000 gallons. The Company has an LNG storage and
+     vaporization facility with a daily delivery capacity of 24,300 Mcf and
+     storage capacity of 131,000 Mcf. 
+
+          The Company owns working interests in gas production from certain gas
+     wells in New York State. Gas reserves subject to recovery under an
+     existing rate order applicable to the New Jersey Division are
+     approximately 250,000 Mcf as of September 30, 1993.
+
+          The Company's maximum daily sendout in fiscal 1993 was approximately
+     329,500 Mcf for its New Jersey Division and approximately 39,700 Mcf for
+     its Florida Division. The Company maintains sufficient gas supply and
+     delivery capacity for a maximum daily sendout capacity for the New Jersey
+     Division of approximately 380,500 Mcf and the Florida Division of
+     approximately 53,200 Mcf. 
+
+          Certain of the Company's long-term contracts for the supply, storage
+     and delivery of natural gas include fixed charges that amount to
+     approximately $64 million annually, of which approximately $43 million is
+     associated with pipeline delivery contracts. The Company currently
+     recovers, and expects to continue to recover, such fixed charges through
+     its gas adjustment clauses. The Company also is committed to purchase, at
+     market-related prices, minimum quantities of gas that, in the aggregate,
+     are approximately 7 million Mcf per year or to pay certain costs in the
+     event the minimum quantities are not taken. The Company expects that
+     minimum demand on its systems will continue to exceed these minimum
+     purchase obligations.
+
+          In accordance with a settlement approved by the NJBRC, the Company
+     recovers through rates charged by its New Jersey Division the costs
+     (exclusive of carrying costs) of surcharges from its pipeline suppliers
+     that relate to take-or-pay obligations that the suppliers had with natural
+
+
+                                       8 <PAGE>
+
+
+     gas producers. See "Commitments and Contingencies," Note 8 of the Notes to
+     the Company's Consolidated Financial Statements. 
+
+          The Company distributes gas through approximately 2,600 miles of
+     steel, cast iron and plastic mains in New Jersey and approximately 2,350
+     miles of steel and plastic mains in Florida. The Company has physical
+     interconnections with four interstate pipelines in New Jersey and with the
+     sole interstate pipeline in Florida.
+
+     Regulation 
+
+          Elizabethtown is subject to regulation with respect to, among other
+     matters, rates, service, accounting and the issuance of securities. The
+     New Jersey Division is regulated by the NJBRC. The Florida Division is
+     regulated by the FPSC. The Company is also subject to regulation by the
+     United States Department of Transportation under the Natural Gas Pipeline
+     Safety Act of 1968 with respect to the design, installation, testing,
+     construction and maintenance of pipeline facilities. Natural gas
+     purchases, transportation service and storage service provided to the
+     Company by interstate pipeline companies are subject to regulation by the
+     FERC. See "-Gas Supply and Operations."
+
+          The Company's current rates and tariffs for its New Jersey Division
+     reflect a rate case that was settled in October 1991, under which the
+     Company obtained a weather normalization clause and reduced its rates by
+     an amount equivalent to $500,000 in annual revenues. The weather
+     normalization clause, which is designed to help stabilize the Company's
+     results by increasing amounts charged to customers when weather has been
+     warmer than normal and by decreasing amounts charged when weather has been
+     colder than normal, was initially adopted on a two-year test basis and has
+     been extended through fiscal 1994. Revenue adjustments pursuant to the
+     weather normalization clause increased the Company's operating margins by
+     $1.3 million in fiscal 1993 and by $0.8 million in fiscal 1992. The New
+     Jersey rate case settlement reflected a rate base amounting to
+     approximately $184 million with an allowed overall return of 11.3%, which
+     would allow the Company the opportunity to earn a 12.4% return on New
+     Jersey Division utility equity. The Company had filed its application for
+     a rate change for its New Jersey Division, including the weather
+     normalization clause, in December 1990 and had requested an increase in
+     rates equivalent to $11.5 million in annual revenues. The Company reduced
+     its revenue requirements after the application was filed, reflecting cost
+     reductions, the expected effect on the cost of capital from a
+     tax-advantaged financing (see "Management's Discussion and Analysis of
+     Financial Condition and Results of Operations-Financing Activities and
+     Resources") and other factors.
+
+          The Company had previously increased its New Jersey Division's rates
+     in February 1990 by an amount equivalent to $3.5 million in annual
+     revenues, pursuant to a rate order issued by the NJBRC. The Company had
+     requested an increase in rates equivalent to $13 million in annual
+     revenues when it had filed its application to the NJBRC in December 1988
+     for a rate change.
+
+          In November 1993, the NJBRC issued guidelines which are designed to
+     provide for unbundling of natural gas transportation and sales services to
+     commercial and industrial customers. Under these guidelines the Company is
+     required to file new tariffs for its New Jersey Division by April 1, 1994.
+
+
+                                       9 <PAGE>
+
+
+     The Company expects the effect of the new tariffs to be neutral to the
+     operating revenues and margins of the Company.
+
+          The Company's current rates and tariffs for its Florida Division
+     reflect a rate case that was settled in August 1991, under which the
+     Company increased its rates by an amount equivalent to $3.5 million in
+     annual revenues. A portion of this increase, equivalent to $2.5 million
+     annually, was being billed on an interim basis since July 1990. The
+     Florida rate case settlement reflected a rate base amounting to
+     approximately $63 million with an allowed overall return of 9.47%, which
+     would allow the Company the opportunity to earn a 13.0% return on Florida
+     Division utility equity. 
+
+          In response to an initiative by the FPSC, several Florida natural gas
+     utilities agreed in November 1993 to reduce the return allowed on their
+     utility equity to either 11% or 11.25%. The Company expects to agree to a
+     reduction in its allowed return on equity; however, it expects the allowed
+     return, as adjusted, to exceed the return it is actually achieving.
+     Therefore, the Company expects that the adjustment will not affect
+     operating revenues and margins.
+
+          The Company's rates for its utility operations are based on
+     recovering the cost of service for those operations, which, among other
+     factors, provides for a return on utility equity. When the Company applies
+     for rate adjustments, it estimates its cost of service based on certain
+     historical costs and pro forma adjustments for known and measurable
+     changes. As the rate case progresses, the estimates may change as more
+     information becomes available. Accordingly, the rates that are determined
+     upon the conclusion of the rate case generally will be different than
+     those reflected in the application.
+
+          The Company's tariffs contain adjustment clauses that enable the
+     Company to recover purchased gas costs. The adjustment clauses provide for
+     periodic reconciliation of recoverable gas costs with applicable amounts
+     billed. Under or over recovery at the reconciliation date is recovered
+     from or refunded to customers in subsequent periods. See "-Gas Supply and
+     Operations."
+
+     Capital Expenditures
+
+          Capital expenditures, which consist primarily of expenditures to
+     expand and upgrade the Company's gas distribution systems, were
+     $39.6 million in fiscal 1993, $31.3 million in fiscal 1992 and
+     $24.8 million in fiscal 1991. Approximately $58.6 million of these capital
+     expenditures were for construction relating to new customers and
+     additional distribution, storage and other gas plant facilities. The
+     Company's capital expenditures are expected to be approximately $48.0
+     million in fiscal 1994, including approximately $30.7 million for system
+     expansion. In addition, the net present value of minimum lease payments
+     relating to noncancelable operating leases, which relate principally to
+     New Jersey Division office space, is approximately $23.0 million as of
+     September 30, 1993, including $3.0 million payable in fiscal 1994.
+
+     Seasonal Aspects
+
+          Sales of gas to some classes of customers are affected by variations
+     in demand due to changes in weather conditions, including normal seasonal
+
+
+                                      10 <PAGE>
+
+
+     variations throughout the year. The demand for gas for heating purposes is
+     closely related to the severity of the winter heating season. Seasonal
+     variations affect short-term cash requirements.
+
+     Persons Employed
+
+          As of September 30, 1993, the Company employed 1,011 persons. As of
+     September 30, 1993, the Utility Workers Union of America (Local 424)
+     represented 299 employees of the New Jersey Division. The current labor
+     contract with Local 424 expires on November 20, 1994. It was approved by
+     the bargaining unit in December 1990 following a 24-day work stoppage
+     which began upon the expiration of the previous contract. As of September
+     30, 1993, the Teamsters Union represented 118 employees of the Florida
+     Division under a contract which expires March 31, 1997.
+
+          In July 1990, the Company offered eligible employees a one-time
+     opportunity to elect early retirement with special incentives. Twenty-five
+     New Jersey Division employees retired in January 1991 pursuant to the
+     plan.
+
+     Competition
+
+          The Company competes with distributors of other fuels and forms of
+     energy, including electricity, fuel oil and propane, in all portions of
+     the territories served. Electricity and oil are the primary competition to
+     natural gas in the residential and commercial markets where the primary
+     uses of energy are for space heating, water heating, cooking and clothes
+     drying. In recent years, natural gas has enjoyed a competitive price
+     advantage over electricity and oil for such purposes, which continues to
+     allow the Company to obtain a significant share of the residential and
+     commercial sectors of the new construction market. The number of
+     residential, commercial and industrial conversions has accelerated
+     recently due to concerns and legislation regarding underground oil storage
+     tanks. See "-Territory and Customers Served."
+
+          In addition, open access to the interstate pipeline transmission
+     systems (see "-Business Plan") allows certain industrial customers to
+     purchase gas from alternative sources for transportation through the
+     Company's distribution systems and may allow certain industrial customers
+     to bypass the Company's systems altogether by connecting directly to a gas
+     pipeline. The Company seeks to remain competitive in the industrial
+     markets through flexible tariffs.
+
+     Franchises
+
+          The Company holds non-exclusive municipal franchises and other
+     consents which enable it to provide natural gas in the territories it
+     serves. The Company intends to renew these franchises and consents as they
+     expire.
+
+     Environment
+
+          The Company is subject to federal and state legislation with respect
+     to water, air quality, solid waste disposal and employee health and safety
+     matters and to environmental regulations issued by the United States
+     Environmental Protection Agency (the "EPA"), the New Jersey Department of
+
+
+
+                                      11 <PAGE>
+
+
+     Environmental Protection and Energy (the "NJDEPE"), and other federal and
+     state agencies.
+
+          The Company owns, or previously owned, certain properties on which
+     gas was manufactured by the New Jersey Division or by other parties in the
+     past. Coal tar residues are present on six of these sites and the Company
+     has reported their presence to the EPA, the NJDEPE and the NJBRC. In April
+     1991, the NJDEPE issued an Administrative Consent Order that establishes
+     the procedures to be followed by the Company in the development of its
+     remediation plan for the site on South Street in Elizabeth, New Jersey.
+     Subsequently, the Company and the NJDEPE entered into Memoranda of
+     Agreement that establish procedures for the development of investigation
+     and remediation plans for the other five sites.
+
+          The Company expects it will expend in the next twenty years
+     approximately $25 million, net of approximately $6 million that the
+     Company estimates will be borne by the prior owner and operator of certain
+     of the sites, to complete investigation of such sites and the remediation
+     of the coal tar contamination. The Company, with the assistance of an
+     outside consulting firm, determined the estimated expenditure by assessing
+     the cost of (1) obtaining additional required data about each site and (2)
+     the applicable remedial action, among those currently known, that is most
+     appropriate for each site. The ultimate costs will depend upon the
+     investigation and remediation plans that finally are adopted by the
+     Company, subject to the approval of the NJDEPE, and may be less or greater
+     than the Company's current estimate. The Company has an accrual of
+     approximately $25 million for investigation and remediation of the sites
+     and the related costs have been deferred on its Consolidated Balance
+     Sheet.
+
+          The Company believes that its remediation costs will be recoverable
+     in rates and that a portion of such costs may be recoverable from the
+     Company's insurance carriers. The current base rate order for the New
+     Jersey Division permits the Company to utilize full deferred accounting
+     for coal tar related expenditures, which amounted to approximately $0.8
+     million in fiscal 1993 and $0.6 million in fiscal 1992. The current base
+     rate order provides for the recovery through rates at $130,000 annually of
+     coal tar related expenditures incurred prior to the rate order. Other New
+     Jersey utilities also have received authorization to recover similar
+     environmental expenditures in rates.
+
+     Item 2. Properties
+
+          The Company owns approximately 2,600 miles of steel, cast iron and
+     plastic gas mains in New Jersey, together with city gate stations, gas
+     holders and peak shaving plants, including an LNG storage facility in
+     Elizabeth, New Jersey. In addition, the Company owns approximately 2,350
+     miles of steel and plastic mains in Florida, as well as gate stations,
+     meters and related equipment. The assets of the Florida Division are
+     subject to the lien of a mortgage securing $11.6 million of indebtedness.
+
+          The Company also owns real property in Union, Middlesex, Warren,
+     Sussex and Hunterdon Counties in New Jersey and in Dade, Broward, Brevard
+     and St. Lucie Counties in Florida, portions of which are under lease to
+     others. The Company's owned properties include a general office building
+     in Hialeah, Florida, that serves as the Florida Division's headquarters;
+     another office facility in Rockledge, Florida, and various service centers
+
+
+                                      12 <PAGE>
+
+
+     in New Jersey and in Florida from which the Company dispatches service
+     crews and conducts construction and maintenance activities. In addition,
+     the Company owns working interests in certain gas production in New York
+     State and holds minor working interests in gas properties in Louisiana.
+
+          Elizabethtown leases approximately 160,000 square feet in an office
+     building in Union, New Jersey, which serves as the New Jersey Division's
+     headquarters. The building is owned and operated by the Liberty Hall Joint
+     Venture. Participants in the joint venture are Cali Liberty Hall
+     Associates, a New Jersey general partnership, and a Kean family trust, of
+     which John Kean and Stewart Kean are trustees. John Kean and Stewart Kean
+     beneficially own more than 5% of the outstanding shares of NUI Common
+     Stock. All negotiations relative to the lease were conducted between
+     Elizabethtown and Cali Liberty Hall Associates. No person involved with
+     the Kean family trust participated in such discussions. The lease
+     agreement is for an initial term through 2009 with two consecutive
+     five-year renewal options. Elizabethtown also has the right of first
+     refusal to purchase the building in the event the owner seeks to sell the
+     property. The annual base rent is approximately $2.6 million in 1994,
+     $2.9 million from 1995 through 1999, $3.3 million from 2000 through 2004
+     and $3.7 million from 2005 through 2009.
+
+          Subject to minor exceptions and encumbrances, all other units of
+     property materially important to the Company and all principal plants are
+     owned in fee, except that most of the mains and pipes are installed in
+     public streets under franchise or statutory rights or are constructed on
+     rights of way acquired from the apparent owner of the fee.
+
+     Item 3. Legal Proceedings
+
+          The Company is involved in various claims and litigation incidental
+     to its business. In the opinion of management, none of these claims and
+     litigation will have a material adverse effect on the Company's results of
+     operations or its financial condition.
+
+     Item 4. Submission of Matters to a Vote of Security Holders
+
+          Not applicable.
+
+                                       PART II
+
+     Item 5. Market for Registrant's Common Equity and Related Stockholder
+     Matters
+
+               All Elizabethtown's equity securities are owned directly by NUI
+     which is a reporting company under the Securities exchange act of 1934.
+     NUI has filed all the material required to be filed pursuant to Section
+     13, 14 or 15(d) thereof. 
+
+
+
+
+
+
+
+
+
+
+
+                                      13 <PAGE>
+
+
+     Item 6. Selected Financial Data
+<TABLE>
+                                      Summary Consolidated Financial Data
+                                                (in thousands)
+<CAPTION>
+
+                                                                       Fiscal Years Ended September 30,  
+                                                     1989       1990        1991       1992        1993  
+     <S>                                           <C>        <C>         <C>        <C>         <C>
+     Income Statement Data:
+     Operating Revenues                            $265,449   $295,950    $291,320   $291,032    $354,889
+     Operating Income                                21,453     23,384      20,914     27,227      27,807
+     Interest Expense                                10,915     12,144      11,516     12,437      12,856
+
+     Income Before the Cumulative
+     Effect of an Accounting Change                 $11,372    $12,492      $9,147    $16,477     $15,973
+     Cumulative Effect of a Change in
+     Accounting to Accrue Unbilled Revenues           1,193                                              
+                                                     ------     ------      ------     ------      ------
+     Net Income                                     $12,565    $12,492      $9,147    $16,477     $15,973
+                                                     ======     ======      ======     ======      ======
+
+     Total Assets at September 30                  $365,784   $378,866    $402,959   $468,912    $489,250
+
+     Funds for Construction Held by Trustee at
+     September 30                                                                     $34,123     $24,184
+
+     Capitalization at September 30:
+     Current Portion of Long-Term Debt and
+     Capital Lease Obligations                       $3,094     $2,943      $4,148     $5,050      $3,882
+     Notes Payable to Banks                          30,500     24,000       6,800     32,750      63,200
+     Capital Lease Obligations                       17,116     16,369      14,871     13,422      12,290
+     Long-Term Debt                                  78,628     77,048      86,189    114,046     112,090
+     Common Shareholder's Equity                    117,487    136,964     143,616    151,166     166,559
+
+<FN>
+     Note to the Summary Consolidated Financial Data:
+     Net income for fiscal 1991 includes a provision to write down certain properties amounting to $1.5
+     million (after tax).
+
+</TABLE>
+
+
+
+
+
+
+                                                   14 <PAGE>
+
+<TABLE>
+                                      Summary Consolidated Operating Data
+<CAPTION>
+                                                         Fiscal Years Ended September 30,
+                                                       1989       1990        1991       1992        1993
+     <S>                                           <C>        <C>         <C>        <C>         <C>
+     Operating Revenues (Dollars in thousands)
+     Firm Customers:
+         Residential                               $136,019   $150,607    $143,763   $145,149    $170,150
+         Commercial                                  68,750     78,224      76,341     76,685      93,633
+         Industrial                                  18,275     25,848      24,914     21,928      23,066
+     Interruptible Customers                         34,829     31,650      35,083     31,888      48,838
+     Transportation                                   5,832      6,661       7,792     10,410      12,154
+     Appliance Leasing, Fees and Other                1,745      2,960       3,427      4,972       7,048
+                                                     ------     ------      ------     ------      ------
+     Total                                         $265,450   $295,950    $291,320   $291,032    $354,889
+                                                     ======     ======      ======     ======      ======
+
+     Gas Sold or Transported (MMcf)
+     Firm Customers:
+         Residential                                 19,386     19,598      18,133     20,251      21,019
+         Commercial                                  12,486     13,034      12,599     14,006      14,918
+         Industrial                                   3,802      5,459       5,427      5,052       4,781
+     Interruptible Customers                         11,152     10,419      12,624     11,142      14,531
+     Transportation                                   8,718     10,096      11,778     14,816      16,439
+                                                     ------     ------      ------     ------      ------
+     Total                                           55,544     58,606      60,561     65,267      71,688
+                                                     ======     ======      ======     ======      ======
+
+     Customers Served (Twelve month averages)
+     Firm Customers:
+         Residential                                278,168    282,191     291,571    295,449     297,682
+         Commercial                                  18,623     19,753      20,292     20,670      21,016
+         Industrial                                     434        439         427        402         377
+     Interruptible and Transportation                   154        151         161        173         192
+                                                     ------     ------      ------     ------      ------
+     Total                                          297,379    302,534     312,451    316,694     319,267
+                                                     ======     ======      ======     ======      ======
+
+     Degree Days
+         New Jersey (normal: 4,978)                   4,841      4,736       4,219      4,880       4,703
+         Florida (normal: 377)                          213        261         150        241         203
+     Employees                                          978        976         965        979       1,011
+</TABLE>
+
+
+
+                                                   15 <PAGE>
+
+
+     Item 7. Management's Discussion and Analysis of Financial Condition and
+     Results of Operations 
+
+          The following discussion and analysis should be read in conjunction
+     with "Summary Consolidated Financial Data," "Summary Consolidated
+     Operating Data" and the Company's Consolidated Financial Statements,
+     including the notes thereto.
+
+     Overview
+
+          Net income for fiscal 1993 was $16.0 million, as compared with net
+     income of $16.5 million for fiscal 1992 and $9.1 million for fiscal 1991.
+     The decrease in net income in fiscal 1993 as compared with fiscal 1992
+     reflects the realization of certain investment gains in fiscal 1992 and
+     higher interest expense in fiscal 1993, partly offset by higher volumes of
+     gas sold or transported as a result of adding residential and commercial
+     customers and increased demand by industrial customers. The increase in
+     net income in fiscal 1992 as compared with fiscal 1991 reflects higher
+     volumes of gas sold or transported as a result of adding residential and
+     commercial customers, increased demand by industrial customers, increased
+     heating demand as a result of cooler weather, margin effects from the
+     implementation of higher rates in Florida and a weather normalization
+     clause in New Jersey, and the realization of certain investment gains;
+     partly offset by higher interest expense. 
+
+     Results of Operations
+
+          Operating Revenues and Operating Margin. The following summarizes the
+     Company's revenues and operating margins for the past three fiscal years
+     (in thousands):
+
+                                             1991          1992         1993   
+     Operating Revenues                    $291,320     $291,032     $354,889
+     Purchased Gas and Fuel                (151,928)    (139,309)    (195,842)
+     Gross Receipts and Franchise
+     Taxes                                  (28,875)     (30,297)     (30,472)
+                                             ------       ------       ------
+     Operating Margins                     $110,517     $121,426     $128,575
+                                             ======       ======       ======
+
+          The Company's operating revenues increased by $63.9 million, or 22%,
+     for fiscal 1993 as compared with fiscal 1992 and decreased by
+     $0.3 million, or 0.1%, for fiscal 1992 as compared with fiscal 1991. This
+     increase for fiscal 1993 as compared with fiscal 1992 principally reflects
+     additional residential and commercial customers served and higher volumes
+     sold or transported to industrial customers, as well as the effect of
+     increased gas costs, partly offset by the effects of weather that was 2%
+     warmer during the heating season (as measured in degree days). The effects
+     on operating revenues for fiscal 1992 as compared with fiscal 1991 from
+     adding residential and commercial customers and from a heating season that
+     was 16% cooler were offset by the effects of shifts by industrial
+     customers from sales service to transportation service and by lower gas
+     costs. Gas cost adjustment clauses in both New Jersey and Florida enable
+     the Company to pass through to customers, through periodic adjustments to
+     the amounts billed, increased or decreased costs incurred by the Company
+     for purchased gas, without affecting operating margins. Adjustments
+     related to changes in gas costs had the net effect of increasing operating
+
+
+                                      16 <PAGE>
+
+
+     revenues by $12.4 million in fiscal 1993 and $4.4 million in fiscal 1991
+     and reducing operating revenues by $16.0 million in fiscal 1992, with
+     offsetting adjustments to purchased gas and fuel costs and to gross
+     receipts and franchise taxes. Margin rates applicable to industrial
+     transportation service are substantially the same as margin rates
+     applicable to sales services for such customers.
+
+          The Company's total operating margins in fiscal 1993 increased by
+     $7.1 million, or 5.9%, as compared with fiscal 1992. The total number of
+     customers served increased by 2,572 or 0.8%, as compared with fiscal 1992.
+     In New Jersey, the number of heating customers served increased by 4,715,
+     or 3.0%, as compared with fiscal 1992, including the effects of converting
+     existing water heating and cooking service customers into gas-heating
+     customers. The Company estimates that operating margins were lower by
+     $0.5 million in fiscal 1993 because of losses suffered by its customers in
+     August 1992 as a result of Hurricane Andrew, as approximately 2,000 of the
+     customers previously served have not rebuilt, and may not rebuild, homes
+     that were damaged in the storm.
+
+          The Company's total operating margins in fiscal 1992 increased by
+     $10.9 million, or 9.9%, as compared with fiscal 1991. The total number of
+     customers served increased by 4,243 or 1.4%, as compared with fiscal 1991,
+     and the number of heating customers served in New Jersey increased by
+     4,829, or 3.1%, as compared with fiscal 1991, including the effects of
+     converting existing water heating and cooking service customers into
+     gas-heating customers. 
+
+          Operating margins from industrial customers amounted to $13.6 million
+     in fiscal 1993, $12.9 million in fiscal 1992 and $11.5 million in fiscal
+     1991. The year-to-year increases principally reflect the inception of
+     service in fiscal 1992 for a cogeneration facility in New Jersey and an
+     industrial facility in Florida.
+
+          Operating Income. The following summarizes elements of the Company's
+     operating income for the past three fiscal years (in thousands):
+
+                                            1991          1992          1993   
+     Operating Margins                    $110,517      $121,426      $128,575
+     Operation and Maintenance Expenses    (65,975)      (66,910)      (71,885)
+     Depreciation and Amortization         (12,962)      (14,273)      (15,082)
+     Payroll and Other Taxes                (5,152)       (4,978)       (5,258)
+                                            ------        ------        ------
+     Operating Income Before Income
+     Taxes                                  26,428        35,265        36,350
+
+     Income Taxes                           (5,514)       (8,038)       (8,543)
+                                            ------        ------        ------
+     Operating Income                      $20,914       $27,227       $27,807
+                                            ======        ======        ======
+
+          The Company's operating income before income taxes increased by $1.1
+     million in fiscal 1993 as compared with fiscal 1992, principally
+     reflecting the improvement in operating margins, partially offset by
+     increased operation and maintenance expenses. In fiscal 1992, operating
+     income before income taxes increased by $8.8 million as compared with
+     fiscal 1991, principally reflecting the improvement in operating margins
+
+
+                                      17 <PAGE>
+
+
+     and the absence of certain non-recurring charges incurred in fiscal 1991
+     in connection with a work stoppage at the New Jersey Division ($0.6
+     million) and a write down of certain house piping costs at the Florida
+     Division ($0.8 million). The work stoppage, which began upon the
+     expiration of an existing labor contract, was resolved when agreement was
+     reached with respect to the current four-year contract at the New Jersey
+     Division commencing as of November 21, 1990. Operation and maintenance
+     expenses increased by 7.5% in fiscal 1993 as compared with fiscal 1992
+     and, excluding the non-recurring charges incurred in fiscal 1991, by 4.0%
+     in fiscal 1992 as compared with fiscal 1991, principally reflecting system
+     growth and, in fiscal 1993, management services previously borne by NUI.
+
+          Other Income and Expense. Other income, net, for fiscal 1992 included
+     realized net pretax gains on the sale of marketable securities amounting
+     to $0.8 million. The write down of properties in fiscal 1991 relates to
+     certain reserves of natural gas that are recoverable based upon market
+     prices that had declined significantly. 
+
+          Interest Expense. Interest expense increased in fiscal 1992 and 1993
+     reflecting higher outstanding borrowings, partly offset by lower
+     prevailing interest rates.
+
+     Regulatory Matters
+
+          The Company's current rates and tariffs reflect rate cases concluded
+     in both New Jersey and Florida in 1991. In the New Jersey case, which was
+     settled in October 1991, the Company obtained a weather normalization
+     clause and reduced its rates by an amount equivalent to $500,000 in annual
+     revenues. The weather normalization clause, which is designed to help
+     stabilize the Company's results by increasing amounts charged to customers
+     when weather has been warmer than normal and by decreasing amounts charged
+     when weather has been colder than normal, was initially adopted on a
+     two-year test basis and has been extended through fiscal 1994. Revenue
+     adjustments pursuant to the weather normalization clause increased the
+     Company's operating margins by $1.3 million in fiscal 1993 and by $0.8
+     million in fiscal 1992. The New Jersey rate case settlement reflected a
+     rate base amounting to approximately $184 million with an allowed overall
+     return of 11.3%, which would allow the Company the opportunity to earn a
+     12.4% return on New Jersey Division utility equity. In the Florida case,
+     which was settled in August 1991, the Company increased its rates by an
+     amount equivalent to $3.5 million in annual revenues. A portion of this
+     increase, equivalent to $2.5 million annually, was being billed on an
+     interim basis since July 1990. The Florida rate case settlement reflected
+     a rate base amounting to approximately $63 million with an allowed overall
+     return of 9.47%, which would allow the Company the opportunity to earn a
+     13.0% return on Florida Division utility equity. 
+
+          In November 1993, the NJBRC issued guidelines which are designed to
+     provide for unbundling of natural gas transportation and sales services to
+     commercial and industrial customers. Under these guidelines the Company is
+     required to file new tariffs for its New Jersey Division by April 1, 1994.
+     The Company expects the effect of the new tariffs to be neutral to the
+     operating revenues and margins of the Company.
+
+          In response to an initiative by the FPSC, several Florida natural gas
+     utilities agreed in November 1993 to reduce the return allowed on their
+     utility equity to either 11% or 11.25%. The Company expects to agree to a
+
+
+                                      18 <PAGE>
+
+
+     reduction in its allowed return on equity; however, it expects the allowed
+     return, as adjusted, to exceed the return it is actually achieving.
+     Therefore, the Company expects that the adjustment will not affect
+     operating revenues and margins.
+
+     Financing Activities and Resources
+
+          Financing Resources. The Company generally funds its operations with
+     internally generated cash, supplemented with borrowings under its bank
+     lines of credit to satisfy seasonal requirements. The Company also borrows
+     under its bank lines of credit to finance portions of its construction
+     expenditures, pending refinancing through the issuance of equity or
+     long-term indebtedness at a later date depending upon prevailing market
+     conditions. The Company seeks to assure access to funds for system growth
+     and integrity through timely issuances of additional equity capital by NUI
+     or long-term debt at the lowest reasonable costs that provide fair returns
+     to investors.
+
+          Internally Generated Funds. Net cash provided by operating activities
+     before changes in working capital was $44.2 million in fiscal 1993,
+     $38.0 million in fiscal 1992 and $32.6 million in fiscal 1991. Working
+     capital increased $42.1 million in fiscal 1993 and $23.1 million in fiscal
+     1992, and decreased $8.0 million in fiscal 1991. The increases in net
+     working capital in fiscal 1993 and fiscal 1992 principally reflect
+     increased year end purchases of fuel supplies for the coming heating
+     season and accelerated payments of gross receipts and franchise taxes
+     under New Jersey law (see "-Capital Expenditures and Commitments"). This
+     was partially offset by the realization of deferred taxes that had been
+     established previously in connection with accruals of gross receipts and
+     franchise taxes. The decrease in net working capital in fiscal 1991
+     principally reflects lower fuel supplies acquired for inventory, partially
+     offset by the effect of funding a litigation settlement. The level of fuel
+     supplies at year end purchased in advance of peak heating season demand is
+     dependent upon market conditions and system operating requirements.
+
+          Long-Term Debt and Funds for Construction Held by Trustee. In October
+     1991, pursuant to agreements with the New Jersey Economic Development
+     Authority, the Company issued gas facilities revenue bonds that mature in
+     October 2021 in the amount of $46.2 million at 6.75% and $8.4 million at
+     6.625% to finance expenditures through fiscal 1995 for the construction of
+     certain gas facilities and related equipment in New Jersey, including
+     approximately $11.4 million expended prior to incurring this long-term
+     debt. The unexpended portion of the net proceeds from these borrowings was
+     $24.2 million at September 30, 1993, and is classified on the Company's
+     consolidated balance sheet as funds for construction held by trustee until
+     drawn upon incurring eligible expenditures.
+
+          In fiscal 1992, in accordance with the optional prepayment provisions
+     of the underlying indenture agreements, the Company borrowed under its
+     bank lines of credit to repay $6.6 million of 6.5% sinking fund debentures
+     and $6.1 million of 9.5% sinking fund debentures in advance of their
+     scheduled maturities. 
+
+          Short-Term Debt. The weighted average daily amounts outstanding of
+     notes payable to banks and the weighted average interest rates on those
+     amounts were $32.2 million at 3.6% in fiscal 1993, $13.0 million at 5.0%
+     in fiscal 1992 and $16.0 million at 7.9% in fiscal 1991. At September 30,
+
+
+                                      19 <PAGE>
+
+
+     1993, the Company had outstanding notes payable to banks amounting to
+     $63.2 million and available unused lines of credit amounting to
+     $63.7 million.
+
+          Common Stock and Dividends. NUI is Elizabethtown's sole shareholder.
+     NUI contributed additional equity capital amounting to $10.0 million in
+     fiscal 1993 and $6.5 million in fiscal 1991. Elizabethtown paid dividends
+     to NUI amounting to $10.7 million in fiscal 1993 and $9.2 million in
+     fiscal 1992 and 1991. 
+
+     Capital Expenditures and Commitments 
+
+          Capital expenditures, which consist primarily of expenditures to
+     expand and upgrade the Company's gas distribution systems, were
+     $39.6 million in fiscal 1993, $31.3 million in fiscal 1992 and
+     $24.8 million in fiscal 1991. Approximately $58.6 million of these capital
+     expenditures were for construction relating to new customers and
+     additional distribution, storage and other gas plant facilities. The
+     Company's capital expenditures are expected to be approximately $48.0
+     million in fiscal 1994, including approximately $30.7 million for system
+     expansion. In addition, the net present value of minimum lease payments
+     relating to noncancelable operating leases, which relate principally to
+     New Jersey Division office space, is approximately $23.0 million as of
+     September 30, 1993, including $3.0 million payable in fiscal 1994.
+
+          As discussed in "-Commitments and Contingencies," Note 8 of the Notes
+     to the Company's Consolidated Financial Statements, the Company expects it
+     will expend in the next twenty years approximately $25 million to complete
+     investigation and remediation of the contamination on New Jersey
+     properties which the Company owns or previously owned on which gas was
+     manufactured in the past. The ultimate costs will depend upon the
+     investigation and remediation plans that finally are adopted by the
+     Company, subject to the approval of the NJDEPE, and may be less or greater
+     than the Company's current estimate. The Company believes the remediation
+     costs will be recoverable in rates and that a portion of such costs may be
+     recoverable from the Company's insurance carriers.
+
+          In June 1991, legislation was enacted in New Jersey that accelerates
+     the payments of approximately $30 million of gross receipts and franchise
+     taxes by an average of almost one and a half years in stages from 1992
+     through 1994. The Company expects that future base rate orders will
+     reflect the recovery of prospective costs associated with the related
+     additional financing requirements.
+
+          Certain of the Company's long-term contracts for the supply, storage
+     and delivery of natural gas include fixed charges that amount to
+     approximately $64 million annually, of which approximately $43 million is
+     associated with pipeline delivery contracts. The Company currently
+     recovers, and expects to continue to recover, such fixed charges through
+     its gas adjustment clauses. The Company also is committed to purchase, at
+     market-related prices, minimum quantities of gas that, in the aggregate,
+     are approximately 7 million Mcf per year or to pay certain costs in the
+     event the minimum quantities are not taken. The Company expects that
+     minimum demand on its systems will continue to exceed these minimum
+     purchase obligations.
+
+
+
+
+                                      20 <PAGE>
+
+
+          The implementation of FERC Order No. 636 required the restructuring
+     of the Company's contracts with certain pipeline companies that together
+     supply less than one-third of the Company's total firm gas supply. Under
+     Order No. 636 the pipeline companies are passing through to their
+     customers transition costs associated with mandated restructuring, such as
+     costs resulting from buying out unmarketable gas purchase contracts. The
+     transition costs charged to the Company have amounted to approximately
+     $1.4 million and are being recovered through the Company's gas adjustment
+     clauses. 
+
+          As of September 30, 1993, the scheduled repayments of the Company's
+     long-term debt over the next five years were as follows: $1.9 million in
+     fiscal 1994, $1.1 million in fiscal 1995, $1.1 million in fiscal 1996,
+     $3.2 million in fiscal 1997 and $1.0 million in fiscal 1998. The gas
+     facilities revenue bonds that are due in 2014 and the remaining balance of
+     first mortgage bonds become eligible in fiscal 1994 for optional
+     prepayment amounting to $1.3 million in excess of their $57.3 million face
+     value.
+
+          The Company's future capital expenditures and commitments will likely
+     require additional debt and equity financing. 
+
+     Pending Acquisition
+
+          On July 27, 1993, NUI and PSGS entered into an Agreement and Plan of
+     Merger, pursuant to which PSGS would be merged with and into NUI (the
+     "PSGS Merger"). Under the Agreement and Plan of Merger, NUI will acquire
+     all of the outstanding common shares of PSGS for approximately $17
+     million, payable in shares of NUI Common Stock equivalent to $71.50 per
+     PSGS share, except that each shareholder will receive no less than 2.4 and
+     no more than 3.0 shares of NUI Common Stock for each PSGS share held. The
+     exchange value of the NUI Common Stock will be established immediately
+     prior to the merger. The PSGS Merger will be consummated upon receipt of
+     all required regulatory approvals, the approval of the stockholders of
+     PSGS, and the satisfaction or waiver of certain other consents and
+     conditions. Upon the effectiveness of the PSGS Merger, NUI would assume
+     all of the rights and obligations of PSGS. Following the PSGS Merger,
+     Elizabethtown will be merged with and into NUI (the "Elizabethtown
+     Merger"). 
+
+          The PSGS Merger will be accounted for as a purchase of PSGS by NUI in
+     accordance with generally accepted accounting principles. Accordingly, due
+     to the effects of the regulatory process, the underlying net assets of
+     PSGS will become the assets of NUI at, generally, their historical net
+     book value and the excess of the purchase price over the historical net
+     book value of the underlying net assets of PSGS, which amounts to
+     approximately $6.8 million, will be added to utility plant as a "utility
+     plant acquisition adjustment," which will be amortized over a thirty-year
+     period that approximates the remaining useful life of the utility plant
+     acquired.
+
+          Under its business plan, the Company concentrates on customer growth
+     and the profitability of the gas distribution business. The PSGS Merger,
+     which will result in a seven percent increase in the number of customers
+     served, and the Elizabethtown Merger, through which NUI will become an
+     operating utility company with three divisions providing gas service in
+     six states, fit within the business plan. Further growth opportunities,
+
+
+                                      21 <PAGE>
+
+
+     which could include the acquisition of additional gas distribution
+     companies, the development of new franchises and the management of certain
+     service requirements of other utilities on a contract basis, will likely
+     require additional debt and equity financing.
+
+     Effects of Inflation
+
+          The Company's tariffs provide gas cost adjustment clauses through
+     which rates charged to customers are adjusted for changes in the cost of
+     gas on a reasonably current basis. Increases in other utility costs and
+     expenses not otherwise offset by increases in revenue could have an
+     adverse effect on earnings due to the time lag associated with the
+     regulatory process and the relative uncertainty of whether the regulatory
+     process will allow full recovery of such costs. The ratemaking process
+     limits the recovery of utility plant costs to original cost and net cost
+     of removal on the basis of approved depreciation rates. Replacement of
+     long-lived utility plant assets is made at significantly higher current
+     costs that should be recoverable through rates in future periods as such
+     assets are depreciated.
+
+     Item 8. Financial Statements and Supplementary Data
+
+          Consolidated financial statements of the Company at September 30,
+     1993 and 1992 and for each of the fiscal years in the three year period
+     ended September 30, 1993 and the auditors' report thereon, and unaudited
+     quarterly financial data for the two-year period ended September 30, 1993
+     are included herewith as indicated on the "Index to Financial Statements
+     and Schedules" on page F-1.
+
+     Item 9. Changes in and Disagreements with Accountants on Accounting and
+     Financial Disclosure
+
+          None.
+
+                                       PART III
+
+     Item 10. Directors and Executive Officers of the Registrant
+
+          Not required. 
+
+     Item 11. Executive Compensation
+
+          Not required. 
+
+     Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+          Not required.  
+
+     Item 13. Certain Relationships and Related Transactions
+
+          Not required. 
+
+                                       PART IV
+
+     Item 14. Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+
+
+
+
+                                      22 <PAGE>
+
+
+     (a)  (1) Consolidated financial statements of the Company at September 30,
+     1993 and 1992 and for each of the fiscal years in the three-year period
+     ended September 30, 1993 and the auditors' report thereon are included
+     herewith as indicated on the "Index to Financial Statements and Schedules"
+     on page F-1.
+
+          (2) The applicable financial statement schedules for the fiscal years
+     1993, 1992 and 1991 are included herewith as indicated on the "Index to
+     Financial Statements and Schedules" on page F-1.
+
+          (3) Exhibits:
+      Exhibit
+      No.              Description                       Reference
+      -------          -----------                       ---------
+
+      3(i)       Certificate of Incorporation of     Incorporated by reference
+                 Elizabethtown, dated March 6,       to Exhibit 3(i) to
+                 1966, as amended through December   Elizabethtown's Form 10-K
+                 23, 1992                            Report for Fiscal 1992
+
+      3(ii)      By-Laws of Registrant, as adopted   Incorporated by reference
+                 September 30, 1980, as amended      to Exhibit 3(ii) to
+                 through May 4, 1990                 Elizabethtown's Form 10-K
+                                                     Report for Fiscal 1990 
+      10(i)      Service Agreement by and between    Incorporated by reference
+                 Transcontinental Gas Pipe Line      to Exhibit 10-1 to NUI
+                 Corporation and Elizabethtown,      Registration Statement
+                 dated February 1, 1992              No. 33-50561
+
+      10(ii)     Service Agreement under Rate        Incorporated by reference
+                 Schedule GSS by and between         to Exhibit 10-2 to NUI
+                 Transcontinental Gas Pipe Line      Registration Statement
+                 Corporation and Elizabethtown,      No. 33-50561
+                 dated May 3, 1972 
+      10(iii)    Service Agreement under Rate        Incorporated by reference
+                 Schedule LG-A by and between        to Exhibit 10-3 to NUI
+                 Transcontinental Gas Pipe Line      Registration Statement
+                 Corporation and Elizabethtown,      No. 33-50561
+                 dated January 12, 1971 
+
+      10(iv)     Service Agreement by and between    Incorporated by reference
+                 Transcontinental Gas Pipe Line      to Exhibit 10-4 to NUI
+                 Corporation and Elizabethtown,      Registration Statement
+                 dated November 1, 1991              No. 33-50561
+
+      10(v)      Firm Gas Transportation Agreement   Incorporated by reference
+                 for Storage Gas by and among        to Exhibit 10-5 to NUI
+                 Transcontinental Gas Pipe Line      Registration Statement
+                 Corporation, Elizabethtown and      No. 33-50561
+                 Penn-York Energy Corporation,
+                 dated November 1, 1984
+      10(vi)     Firm Gas Transportation Agreement   Incorporated by reference
+                 by and among Transcontinental Gas   to Exhibit 10-6 to NUI
+                 Pipe Line Corporation,              Registration Statement
+                 Elizabethtown and National Fuel     No. 33-50561
+                 Gas Supply Corporation, dated
+                 November 1, 1984 
+
+
+                                      23 <PAGE>
+
+
+      Exhibit
+      No.              Description                       Reference
+      -------          -----------                       ---------
+
+      10(vii)    Gas Transportation Agreement by     Incorporated by reference
+                 and among Transcontinental Gas      to Exhibit 10-7 to NUI
+                 Pipe Line Corporation and           Registration Statement
+                 Elizabethtown, dated February 4,    No. 33-50561
+                 1991 
+
+      10(viii)   Service Agreement for Rate
+                 Schedule CDS by and between Texas   Incorporated by reference
+                 Eastern Transmission Corporation    to Exhibit 10-8 to NUI
+                 and Elizabethtown, dated June 1,    Registration Statement
+                 1993                                No. 33-50561
+      10(ix)     Service Agreement under Rate
+                 Schedule SS-2 by and between Texas  Incorporated by reference
+                 Eastern Transmission Corporation    to Exhibit 10-9 to NUI
+                 and Elizabethtown, dated April 12,  Registration Statement
+                 1990                                No. 33-50561
+
+      10(x)      Service Agreement for Rate
+                 Schedule FTS-5 by and between       Incorporated by reference
+                 Texas Eastern Transmission          to Exhibit 10-10 to NUI
+                 Corporation and Elizabethtown,      Registration Statement
+                 dated June 1, 1993                  No. 33-50561
+      10(xi)     Service Agreement under Rate
+                 Schedule SS-3 by and between Texas  Incorporated by reference
+                 Eastern Transmission Corporation    to Exhibit 10-11 to NUI
+                 and Elizabethtown, dated April 12,  Registration Statement
+                 1990                                No. 33-50561
+
+      10(xii)    Service Agreement for Rate
+                 Schedule FTS-5 by and between       Incorporated by reference
+                 Texas Eastern Transmission          to Exhibit 10-12 to NUI
+                 Corporation and Elizabethtown,      Registration Statement
+                 dated June 1, 1993                  No. 33-50561
+
+      10(xiii)   Service Agreement for Rate
+                 Schedule FTS-2 by and between       Incorporated by reference
+                 Texas Eastern Transmission          to Exhibit 10-13 to NUI
+                 Corporation and Elizabethtown,      Registration Statement
+                 dated June 1, 1993                  No. 33-50561
+      10(xiv)    Service Agreement under NTS Rate    Incorporated by reference
+                 Schedule by and between Columbia    to Exhibit 10(xiv) to
+                 Gas Transmission Corporation and    NUI's Form 10-K Report
+                 Elizabethtown, dated November 1,    for Fiscal 1993
+                 1993
+
+      10(xv)     Service Agreement under SST Rate    Incorporated by reference
+                 Schedule by and between Columbia    to Exhibit 10(xv) to
+                 Gas Transmission Corporation and    NUI's Form 10-K Report
+                 Elizabethtown, dated November 1,    for Fiscal 1993
+                 1993
+
+
+
+
+
+                                      24 <PAGE>
+
+
+      Exhibit
+      No.              Description                       Reference
+      -------          -----------                       ---------
+
+      10(xvi)    Service Agreement under FTS Rate    Incorporated by reference
+                 Schedule by and between Columbia    to Exhibit 10(xvi) to
+                 Gas Transmission Corporation and    NUI's Form 10-K Report
+                 Elizabethtown, dated November 1,    for Fiscal 1993
+                 1993
+
+      10(xvii)   Gas Transportation Agreement under  Incorporated by reference
+                 FT-G Rate Schedule by and between   to Exhibit 10(xvii) to
+                 Tennessee Gas Pipeline Company and  NUI's Form 10-K Report
+                 Elizabethtown (Contract #597),      for Fiscal 1993
+                 dated September 1, 1993
+      10(xviii)  Gas Transportation Agreement under  Incorporated by reference
+                 FT-G Rate Schedule by and between   to Exhibit 10(xviii) to
+                 Tennessee Gas Pipeline Company and  NUI's Form 10-K Report
+                 Elizabethtown (Contract #603),      for Fiscal 1993
+                 dated September 1, 1993
+
+      10(xix)    Gas Transportation Agreement by     Incorporated by reference
+                 and between Tennessee Gas Pipeline  to Exhibit 10-17 to NUI
+                 Company and Elizabethtown, dated    Registration Statement
+                 March 30, 1993                      No. 33-50561
+      10(xx)     Firm Transportation Service         Incorporated by reference
+                 Agreement under FTS-1 Rate          to Exhibit 10(xx) to
+                 Schedule by and between City Gas    NUI's Form 10-K Report
+                 and Florida Gas Transmission dated  for Fiscal 1993
+                 October 1, 1993
+
+      10(xxi)    Lease Agreement between             Incorporated by reference
+                 Elizabethtown and Liberty Hall      to Exhibit 10(vi) of
+                 Joint Venture, dated August 17,     Elizabethtown's Form 10-K
+                 1987                                Report for Fiscal 1987
+
+      10(xxii)   Form of Termination of Employment   Incorporated by reference
+                 and Change in Control Agreements    to Exhibit 10(xi) of
+                                                     NUI's Form 10-K Report
+                                                     for Fiscal 1991
+      21         Subsidiaries of Elizabethtown Gas   Filed herewith
+                 Company
+
+          Exhibits listed above which have heretofore been filed with the
+     Securities and Exchange Commission pursuant to the Securities Act of 1933
+     or the Securities Exchange Act of 1934, and which were designated as noted
+     above and have not been amended, are hereby incorporated by reference and
+     made a part hereof with the same effect as if filed herewith.
+
+          Elizabethtown is a party to various agreements with respect to
+     long-term indebtedness to which the total amount of indebtedness
+     authorized under each agreement, respectively, does not exceed 10% of the
+     total assets of the Company on a consolidated basis. The Company hereby
+     agrees to furnish to the Securities and Exchange Commission copies of such
+     agreements upon request.
+
+     (b)  Reports on Form 8-K:
+
+
+                                      25 <PAGE>
+
+
+          No reports were filed on Form 8-K during the quarter ended September
+     30, 1993.
+
+                                      26 <PAGE>
+
+
+                     INDEX TO FINANCIAL STATEMENTS AND SCHEDULES
+
+     Consolidated Financial Statements of Elizabethtown Gas Company and
+     Subsidiaries:
+
+               Report of Independent Public Accountants  . . . . .  F-2
+
+               Consolidated Financial Statements as of
+               September 30, 1993 and 1992 and for Each
+               of the Fiscal Years in the Three-Year Period
+               Ended September 30, 1993  . . . . . . . . . . . . .  F-3
+
+     Financial Statement Schedules of Elizabethtown Gas Company and
+     Subsidiaries:
+
+               Report of Independent Public Accountants  . . . . .  F-2
+
+               Schedule V  Property, Plant and Equipment
+               for Each of the Fiscal Years in the Three-Year
+               Period Ended September 30, 1993 . . . . . . . . .   F-17
+
+               Schedule VI  Accumulated Depreciation and
+               Amortization of Property, Plant and Equipment
+               for Each of the Fiscal Years in the Three-Year
+               Period Ended September 30, 1993 . . . . . . . . .   F-18
+
+               Schedule VIII  Valuation and Qualifying Accounts
+               for Each of the Fiscal Years in the Three-Year
+               Period Ended September 30, 1993 . . . . . . . . .   F-19
+
+               Schedule IX  Short-Term Borrowings
+               for Each of the Fiscal Years in the Three-Year
+               Period Ended September 30, 1993 . . . . . . . . .   F-21
+
+               All other schedules are omitted because they are not required,
+     are inapplicable or the information is otherwise shown in the financial
+     statements or notes thereto.
+
+               Separate financial statements for Elizabethtown Gas Company are
+     omitted because no material restrictions exist in the flow of funds from
+     subsidiaries to the Elizabethtown Gas Company through intercompany loans,
+     advances and cash dividends.
+
+
+                                      F-1 <PAGE>
+
+
+                       REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+     To Elizabethtown Gas Company:
+
+          We have audited the accompanying consolidated balance sheets and
+     statements of consolidated capitalization of Elizabethtown Gas Company (a
+     New Jersey corporation) and subsidiaries as of September 30, 1993 and
+     1992, and the related statements of consolidated income, cash flows, taxes
+     and shareholder's equity, for each of the three years in the period ended
+     September 30, 1993. These consolidated financial statements are the
+     responsibility of the Company's management. Our responsibility is to
+     express an opinion on these consolidated financial statements based on our
+     audits.
+          
+          We conducted our audits in accordance with generally accepted
+     auditing standards. Those standards require that we plan and perform the
+     audit to obtain reasonable assurance about whether the consolidated
+     financial statements are free of material misstatement. An audit includes
+     examining, on a test basis, evidence supporting the amounts and
+     disclosures in the consolidated financial statements. An audit also
+     includes assessing the accounting principles used and significant
+     estimates made by management, as well as evaluating the overall financial
+     statement presentation. We believe that our audits provide a reasonable
+     basis for our opinion.
+          
+          In our opinion, the consolidated financial statements referred to
+     above present fairly, in all material respects, the financial position of
+     Elizabethtown Gas Company and subsidiaries as of September 30, 1993 and
+     1992, and the results of their operations and their cash flows for each of
+     the three years in the period ended September 30, 1993, in conformity with
+     generally accepted accounting principles.
+          
+          We have also audited, in accordance with generally accepted auditing
+     standards, the consolidated balance sheets and statements of consolidated
+     capitalization as of September 30, 1991, 1990 and 1989, and the related
+     consolidated statements of income, cash flows, taxes and shareholder's
+     equity, for each of the two years in the period ended September 30, 1990
+     (none of which are presented herein), and have expressed an unqualified
+     opinion on those financial statements. In our opinion, the information set
+     forth in the summary consolidated financial data for each of the five
+     years in the period ending September 30, 1993, appearing under the heading
+     "Summary Consolidated Financial Data" is fairly stated in all material
+     respects in relation to the consolidated financial statements from which
+     it has been derived.
+          
+          Our audits were made for the purpose of forming an opinion on the
+     basic financial statements taken as a whole. The schedules listed in Item
+     14(a)(2) are presented for purposes of complying with the Securities and
+     Exchange Commission's rules and are not part of the basic financial
+     statements. These schedules have been subjected to the auditing procedures
+     applied in the audits of the basic financial statements and, in our
+     opinion, fairly state in all material respects the financial data required
+     to be set forth therein in relation to the basic financial statements
+     taken as a whole.
+
+     ARTHUR ANDERSEN & CO.
+
+     New York, New York
+     November 23, 1993
+
+
+
+
+                                      F-2 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                       Statements of Consolidated Income
+                                            (Dollars in thousands)
+<CAPTION>
+                                                                             Years Ended September 30,  
+                                                                         1991        1992         1993  
+      <S>                                                              <C>         <C>          <C>           
+      Operating Revenues                                               $291,320    $291,032     $354,889
+                                                                         ------      ------       ------
+
+      Operating Expenses
+      Purchased gas and fuel                                            151,928     139,309      195,842
+      Other operation                                                    61,306      61,586       66,356
+      Maintenance                                                         4,669       5,324        5,529
+      Depreciation and amortization                                      12,962      14,273       15,082
+      General taxes                                                      34,027      35,275       35,730
+      Income taxes                                                        5,514       8,038        8,543
+                                                                         ------      ------       ------
+      Total operating expenses                                          270,406     263,805      327,082
+                                                                         ------      ------       ------
+
+      Operating Income                                                   20,914      27,227       27,807
+
+      Other Income and Expense
+      Dividend and interest income                                          793         761          587
+      Other income, net                                                     806       1,612          787
+      Write down of properties                                           (2,325)
+      Income taxes                                                          475        (686)        (352)
+                                                                         ------      ------       ------
+      Total other income and expense, net                                  (251)      1,687        1,022
+                                                                         ------      ------       ------
+
+      Interest Expense                                                   11,516      12,437       12,856
+                                                                         ------      ------       ------
+
+      Net Income                                                         $9,147     $16,477      $15,973
+                                                                         ======      ======       ======
+</TABLE>
+
+
+
+
+
+
+                      See the notes to the consolidated financial statements.
+
+                                                  F-3 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                          Consolidated Balance Sheets
+                                            (Dollars in thousands)
+
+<CAPTION>
+                                                                                         September 30,  
+                                                                                      1992        1993  
+      <S>                                                                           <C>         <C>            
+      ASSETS
+      Property, Plant and Equipment
+      Utility plant, at original cost                                               $447,610    $483,853
+      Accumulated depreciation and amortization                                     (140,086)   (151,725)
+      Unamortized plant acquisition adjustment                                        15,696      15,084
+                                                                                      ------      ------
+      Net utility plant                                                              323,220     347,212
+                                                                                      ------      ------
+      Funds for Construction Held by Trustee                                          34,123      24,184
+                                                                                      ------      ------
+      Investments in Marketable Securities                                               759       3,986
+                                                                                      ------      ------
+      Current Assets
+      Cash and temporary cash investments                                              3,303       1,662
+      Accounts receivable                                                             29,845      27,609
+      Allowance for doubtful accounts                                                 (1,369)     (1,225)
+      Amounts receivable from NUI                                                      6,854       6,735
+      Fuel inventories, at average cost, and deferred cost of gas, net                18,002      28,456
+      Deferred Federal income taxes                                                    7,672       2,625
+      Materials, supplies and other                                                    5,906       6,924
+                                                                                      ------      ------
+      Current assets                                                                  70,213      72,786
+                                                                                      ------      ------
+      Deferred Charges and Other Assets                                               40,597      41,082
+                                                                                      ------      ------
+                                                                                    $468,912    $489,250
+                                                                                      ======      ======
+
+      CAPITALIZATION AND LIABILITIES
+      Capitalization (See accompanying statements)
+      Common shareholder's equity                                                   $151,166    $166,559
+      Preferred stock
+      Long-term debt                                                                 114,046     112,090
+                                                                                      ------      ------
+      Capitalization                                                                 265,212     278,649
+                                                                                      ------      ------
+      Capital Lease Obligations                                                       13,422      12,290
+                                                                                      ------      ------
+      Current Liabilities<PAGE>
+
+
+      Current portion of long-term debt and capital lease obligations                  5,050       3,882
+      Notes payable to banks                                                          32,750      63,200
+      Accounts payable, customer deposits and accrued liabilities                     48,576      46,798
+      Amounts payable to NUI                                                           7,066         525
+      General taxes                                                                   19,929       6,078
+      Federal income taxes                                                             2,403         524
+                                                                                      ------      ------
+      Current liabilities                                                            115,774     121,007
+                                                                                      ------      ------
+      Deferred Credits and Other Liabilities
+      Deferred Federal income taxes                                                   34,985      37,737
+      Deferred investment tax credits                                                  8,132       7,687
+      Other liabilities                                                               31,387      31,880
+                                                                                      ------      ------
+      Deferred credits and other liabilities                                          74,504      77,304
+                                                                                      ------      ------
+
+                                                                                      $468,912    $489,250
+                                                                                       ======      ======
+
+</TABLE>
+                      See the notes to the consolidated financial statements.
+
+                                                  F-4 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                     Statements of Consolidated Cash Flows
+                                            (Dollars in thousands)
+<CAPTION>
+                                                                              Years Ended September 30, 
+                                                                           1991        1992        1993 
+      <S>                                                              <C>         <C>         <C>
+      Operating Activities
+      Net income                                                       $   9,147   $  16,477   $  15,973
+      Adjustments to reconcile net income to net cash provided by
+      operating activities:
+           Depreciation and amortization                                  14,512      15,644      16,346
+           Write-down of gas producing properties                          2,325                        
+           Amortization of non-current fuel inventory                      1,066         860         709
+           Deferred Federal income taxes                                   3,480       2,814       8,343
+           Amortization of deferred investment tax credits                  (469)       (462)       (461)
+           Other                                                           2,533       2,711       3,269
+      Effect of changes in:
+           Accounts receivable, net                                         (397)     (6,270)      1,912
+           Fuel inventories and deferred cost of gas, net                 10,011     (10,747)    (10,454)
+           Accounts payable, deposits and accruals                         1,541       3,121     (13,201)
+           General taxes                                                  (1,147)     (4,437)    (13,851)
+           Other                                                          (2,014)     (4,729)     (6,547)
+                                                                          ------      ------      ------
+      Net cash provided by operating activities                           40,588      14,982       2,038
+                                                                          ------      ------      ------
+      Financing Activities
+      Equity contributed by NUI                                            6,500                  10,000
+      Dividends paid to NUI                                               (9,228)     (9,176)    (10,744)
+      Proceeds from issuance of long-term debt                                        52,860
+      Funds for construction held by trustee                                         (32,338)     11,015
+      Repayments of long-term debt                                        (1,051)    (25,914)     (2,734)
+      Repayments under capital lease obligations                          (2,139)     (2,355)     (1,874)
+      Net short-term borrowings                                           (5,800)     25,950      30,450
+                                                                          ------      ------      ------
+      Net cash provided by (used for) financing activities               (11,718)      9,027      36,113
+                                                                          ------      ------      ------
+      Investing Activities
+      Additions to utility plant                                         (27,714)    (30,742)    (35,442)
+      Proceeds from sales of marketable securities                            98       6,170
+      Marketable securities transferred from NUI                                                  (3,227)
+      Other                                                                 (268)       (574)     (1,123)
+                                                                          ------      ------      ------
+      Net cash used for investing activities                             (27,884)    (25,146)    (39,792)
+                                                                          ------      ------      ------
+
+      Net Increase (Decrease) in Cash and Temporary Cash Investments        $986     ($1,137)    ($1,641)
+                                                                          ======      ======      ======
+
+      Cash and Temporary Cash Investments
+      At beginning of period                                              $3,454      $4,440      $3,303
+      At end of period                                                     4,440       3,303       1,662
+
+      Supplemental Disclosures of Cash Flows
+      Income taxes paid                                                   $4,286      $6,144      $2,810
+      Interest paid                                                       11,535      12,943      12,120
+</TABLE>
+
+
+                       See the notes to the consolidated financial statements.
+
+                                                  F-5 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                       Statements of Consolidated Taxes 
+                                            (Dollars in thousands)
+<CAPTION>
+                                                                              Years Ended September 30, 
+                                                                          1991         1992        1993 
+      <S>                                                             <C>          <C>         <C>       
+      General Taxes
+      Gross receipts and franchise                                    $  28,875    $  30,297   $  30,472
+      Payroll                                                             2,749        2,850       2,992
+      Other                                                               2,403        2,128       2,266
+                                                                         ------       ------      ------
+      Total general taxes                                               $34,027      $35,275     $35,730
+                                                                         ------       ------      ------
+      Federal Income Taxes
+      Currently payable                                                  $1,742       $5,934        $681
+      Deferred, net                                                       3,480        2,814       8,343
+      Amortization of investment tax credits                               (469)        (462)       (461)
+                                                                         ------       ------      ------
+      Provision for Federal income taxes                                 $4,753       $8,286      $8,563
+                                                                         ------       ------      ------
+      Sources of Deferred Federal Income Taxes
+      Depreciation of utility plant                                      $2,157       $2,650      $2,313
+      Litigation settlement                                               2,103
+      Alternative minimum tax                                              (808)         286      (1,102)
+      Write-down of gas producing properties                               (791)
+      Gross receipts and franchise taxes                                   (676)        (643)      4,947
+      Deferred charges                                                   (1,193)        (360)      1,282
+      Other, net                                                          1,336          881         903
+                                                                         ------       ------      ------
+      Provision for deferred Federal income taxes                        $3,480       $2,814      $8,343
+                                                                         ------       ------      ------
+      Reconciliation of Federal Income Tax at Statutory Rate to
+      Provision for Income Taxes
+      Income before Federal income taxes                                $13,900      $24,763     $24,536
+                                                                         ======       ======      ======
+      Federal income taxes computed at the statutory tax rate 
+      (34% in fiscal 1991 and 1992 and 34.75% in fiscal 1993)
+                                                                         $4,726       $8,419      $8,526
+      Increase (reduction) resulting from:
+           Excess of book over tax depreciation not previously
+           deferred                                                         432          446         432
+           Amortization of investment tax credits                          (469)        (462)       (461)
+           Other, net                                                        64         (117)         66
+                                                                         ------       ------      ------
+      Provision for Federal income taxes                                  4,753        8,286       8,563
+      Provision for state income taxes                                      286          438         332
+                                                                         ------       ------      ------
+      Total provision for income taxes                                    5,039        8,724       8,895
+      Less: provision (credit) included in other income and
+      expense                                                              (475)         686         352
+                                                                         ------       ------      ------
+      Provision for income taxes included in operating expenses          $5,514       $8,038      $8,543
+                                                                         ======       ======      ======
+</TABLE>
+
+                       See the notes to the consolidated financial statements.
+
+                                                  F-6 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                   Statements of Consolidated Capitalization
+                                            (Dollars in thousands)
+<CAPTION>
+                                                                                         September 30,  
+                                                                                      1992        1993  
+      <S>                                                                           <C>       <C>          
+      Long-Term Debt
+
+      Gas facilities revenue bonds
+           6.75% due October 1, 2021 *                                              $ 46,200  $   46,200
+           6.625% due October 1, 2021 *                                                8,400       8,400
+           11% due June 1, 2014                                                       25,000      25,000
+           11.25% due June 1, 2014                                                    21,500      21,500
+
+      First mortgage bonds
+           8.5% due May 1, 2002                                                        9,091       8,182
+           8% due April 1, 1997                                                        2,750       2,625
+           14% due July 1, 1994                                                        1,500         800
+           7.25% due January 1, 1993                                                   1,000           -
+                                                                                      ------      ------
+      Long-term debt, including current portion                                      115,441     112,707
+      Subsidiary's guaranty of ESOP indebtedness                                       1,458       1,339
+                                                                                      ------      ------
+      Total long-term debt, including current portion                                116,899     114,046
+      Current portion of long-term debt                                               (2,853)     (1,956)
+                                                                                      ------      ------
+      Total long-term debt                                                           114,046     112,090
+                                                                                      ------      ------
+
+      Preferred Stock, 500,000 shares authorized; none issued                              -           -
+                                                                                      ------      ------
+
+      Common Shareholder's Equity
+      Common Stock, no par value;
+          Shares authorized: 1,500,000
+          Shares outstanding: 1,040,164                                               78,322      88,322
+      Retained earnings                                                               74,302      79,669
+      Unrealized loss on marketable securities                                                       (93)
+      Subsidiary's guaranty of ESOP indebtedness                                      (1,458)     (1,339)
+                                                                                      ------      ------
+      Total common shareholder's equity                                              151,166     166,559
+                                                                                      ------      ------
+      Total Capitalization                                                          $265,212    $278,649
+                                                                                      ======      ======
+
+<FN>
+     * The unexpended portion of the net proceeds from this indebtedness, amounting to $24.2 million as
+     of September 30, 1993, is carried on the Company's consolidated balance sheet as funds for
+     construction held by trustee until drawn upon incurring eligible construction expenditures.
+</TABLE>
+
+                       See the notes to the consolidated financial statements.
+
+                                                  F-7 <PAGE>
+
+<TABLE>
+                                  Elizabethtown Gas Company and Subsidiaries
+                                Statements of Consolidated Shareholder's Equity
+                                            (Dollars in thousands)
+
+<CAPTION>
+
+                                                                 Valuation of  Guaranty of              
+                                             Common    Retained    Marketable         ESOP              
+                                              Stock    Earnings    Securities Indebtedness         Total
+      <S>                                 <C>         <C>             <C>          <C>          <C>      
+      Balance, October 1, 1990            $  71,822   $  66,803       $     -      ($1,661)     $136,964
+      Net Income                                          9,147                                    9,147
+      Cash dividends                                     (9,228)                                  (9,228)
+      Contributions from NUI                  6,500                                                6,500
+      ESOP transactions                                     140                         93           233
+                                             ------      ------        ------       ------        ------
+      Balance September 30, 1991             78,322      66,862                     (1,568)      143,616
+
+      Net income                                         16,477                                   16,477
+      Cash dividends                                     (9,176)                                  (9,176)
+      Contributions from NUI
+      ESOP transactions                                     139                        110           249
+                                             ------      ------        ------       ------        ------
+      Balance, September 30, 1992            78,322      74,302                     (1,458)       151,166
+
+      Net income                                         15,973                                   15,973
+      Cash dividends                                    (10,744)                                 (10,744)
+      Contributions from NUI                 10,000                                               10,000
+      Valuation adjustments                                               (93)                       (93)
+      ESOP transactions                                     138                        119           257
+                                             ------      ------        ------       ------        ------
+      Balance, September 30, 1993           $88,322     $79,669          ($93)     ($1,339)     $166,559
+                                             ======      ======        ======       ======        ======
+</TABLE>
+
+
+
+
+                       See the notes to the consolidated financial statements.
+
+                                                  F-8 <PAGE>
+
+
+                      Elizabethtown Gas Company and Subsidiaries
+                   Notes to the Consolidated Financial Statements 
+
+
+          1. Summary of Significant Accounting Policies
+      
+          Principles of Consolidation. The consolidated financial statements
+     include the accounts of Elizabethtown Gas Company ("Elizabethtown") and
+     its wholly-owned subsidiaries (the "Company"). Elizabethtown, which is a
+     wholly-owned subsidiary of NUI Corporation ("NUI"), distributes natural
+     gas in New Jersey and Florida. Intercompany accounts and transactions have
+     been eliminated in consolidation. 
+
+          Certain reclassifications have been made to the prior year financial
+     statements to conform with the current year presentation. 
+
+          Regulation.The Company's operations are subject to regulation by the
+     New Jersey Board of Regulatory Commissioners (the "NJBRC") and the Florida
+     Public Service Commission (the "FPSC"). 
+
+          Property, Plant and Equipment. Utility plant is stated at its
+     original cost at the time it was placed into service. Depreciation is
+     provided on a composite straight-line basis using rates approved by the
+     state commissions. The estimated service lives used range from 5 to 84
+     years. At the time properties are retired, the original cost plus the cost
+     of retirement, less salvage, is charged to accumulated depreciation.
+      
+          The unamortized plant acquisition adjustment represents the remaining
+     unamortized portion of the excess, at the date of acquisition of the
+     Florida Division, of the purchase price over the book value of the net
+     assets acquired. The plant acquisition adjustment is being amortized on a
+     straight-line basis over thirty years. 
+
+          Repairs of all property, plant and equipment and replacements and
+     renewals of minor items of property are charged to maintenance expense as
+     incurred. 
+
+          Revenues and Gas and Fuel Costs. Operating revenues include accrued
+     unbilled revenues through the end of each accounting period. Operating
+     revenues also include adjustments attributable to the New Jersey
+     Division's weather normalization clause that are accrued during the winter
+     heating season and billed or credited to customers in the following year.
+     Weather normalization adjustments increased the Company's operating
+     margins (operating revenues less purchased gas and fuel and gross receipts
+     and franchise taxes) by approximately $1.3 million in fiscal 1993 and $0.8
+     million in fiscal 1992.
+
+          Costs of gas and fuel are recognized as expenses in accordance with
+     the gas cost adjustment clause applicable in each state. Such clauses
+     provide for periodic reconciliations of actual recoverable gas costs and
+     the estimated amounts that have been billed to customers. Under or over
+     recoveries are deferred when they arise and are recovered from or refunded
+     to customers in subsequent periods. 
+
+          Income Taxes. The Company provides deferred Federal income taxes for
+     differences between book and tax income other than taxes associated with a
+     portion of the differences in depreciation of New Jersey Division utility
+
+
+                                      F-9 <PAGE>
+
+
+     plant additions prior to October 1, 1975 that, in accordance with a rate
+     order, are being flowed through to customers. The net amount of such
+     differences for which deferred income taxes have not been provided was
+     approximately $8 million at September 30, 1993. Under the established
+     ratemaking practices, taxes attributable to these differences for which
+     deferred taxes were not previously provided are collected in customers'
+     rates when due for payment.
+
+          Investment tax credits, which were generated principally in
+     connection with additions to utility plant made prior to January 1, 1986,
+     are being amortized over the estimated service lives of the properties
+     that gave rise to the credits.
+      
+          As of October 1, 1993, the Company will adopt Statement of Financial
+     Accounting Standards ("SFAS") No. 109, "Accounting for Income Taxes,"
+     which, among other things, changes the method used by enterprises to
+     account for deferred income taxes. Accordingly, the Company will record
+     deferred income taxes not previously provided for the differences between
+     the book and tax bases of assets, and will adjust previously established
+     deferred income taxes to reflect the currently expected Federal income tax
+     rate. Adoption of SFAS No. 109 will not have a material effect on the
+     Company's net income because, as discussed above, deferred taxes
+     previously not provided will be collected from customers as the taxes are
+     paid and the adjustment of deferred tax balances to reflect the current
+     Federal income tax rate generally will be included in operating income
+     over the remaining depreciable lives of the related property in accordance
+     with the provisions of the Tax Reform Act of 1986, and the Company's
+     revenue requirements for ratemaking purposes will be reduced concurrently.
+     As of October 1, 1993, the Company will increase the deferred tax
+     liability by approximately $9.0 million, increase the unamortized plant
+     acquisition adjustment by approximately $9.2 million and record a net
+     regulatory liability of approximately $0.2 million.
+
+          Postretirement Benefits Other Than Pensions. The Company provides
+     certain health care benefits to substantially all retirees receiving
+     benefits under a Company pension plan, other than the Florida Division
+     plan, who reach retirement age while working for the Company. The cost of
+     these benefits, which is expensed as claims are incurred, was $0.7 million
+     in fiscal 1993, $0.6 million in fiscal 1992 and $0.8 million in fiscal
+     1991.
+
+          As of October 1, 1993, the Company will adopt the accounting method
+     required by SFAS No. 106, "Employers' Accounting for Postretirement
+     Benefits Other Than Pensions," which, among other things, requires
+     enterprises to accrue the expected cost of these benefits during the years
+     that eligible employees render the necessary service. The adoption of SFAS
+     No. 106 will give rise to an unfunded postretirement benefit obligation
+     amounting to $21 million. The Company has received an order from the NJBRC
+     permitting it to defer for as long as five years the difference between
+     the amount of expense computed as claims are incurred and the amount
+     computed on the accrual method, pending ratemaking treatment that would be
+     considered in a full rate case. The consensus issued in 1993 by the
+     Emerging Issues Task Force of the Financial Accounting Standards Board
+     (the "EITF") permits rate regulated companies to defer such expenses when
+     the ratemaking treatment provides for them to be fully recovered in the
+     subsequent fifteen year period. The Company expects to seek ratemaking
+     treatment that is consistent with the EITF's consensus and, accordingly,
+
+
+                                     F-10 <PAGE>
+
+
+     the adoption of SFAS No. 106 is not expected to have a material effect
+     upon the Company's net income.
+
+          The Company continually evaluates alternative ways to manage these
+     benefits and control their costs. Any changes in the plan or revisions to
+     assumptions that affect the amount of expected future benefits may have a
+     significant effect on the amount of the reported obligation and the annual
+     deferrals and expense.
+
+          2. Pending Acquisition
+
+          On July 27, 1993, NUI and Pennsylvania & Southern Gas Company
+     ("PSGS") entered into an Agreement and Plan of Merger, pursuant to which
+     PSGS would be merged with and into NUI (the "PSGS Merger"). Under the
+     Agreement and Plan of Merger, NUI will acquire all of the outstanding
+     common shares of PSGS for approximately $17 million, payable in shares of
+     NUI Common Stock equivalent to $71.50 per PSGS share, except that each
+     shareholder will receive no less than 2.4 and no more than 3.0 shares of
+     NUI Common Stock for each PSGS share held. The exchange value of the NUI
+     Common Stock will be established immediately prior to the merger. The PSGS
+     Merger will be consummated upon receipt of all required regulatory
+     approvals, the approval of the stockholders of PSGS, and the satisfaction
+     or waiver of certain other consents and conditions. Upon the effectiveness
+     of the PSGS Merger, NUI would assume all of the rights and obligations of
+     PSGS. Following the PSGS Merger, Elizabethtown will be merged with and
+     into NUI (the "Elizabethtown Merger"). 
+
+          The PSGS Merger will be accounted for as a purchase of PSGS by NUI in
+     accordance with generally accepted accounting principles. Accordingly, due
+     to the effects of the regulatory process, the underlying net assets of
+     PSGS will become the assets of NUI at, generally, their historical net
+     book value and the excess of the purchase price over the historical net
+     book value of the underlying net assets of PSGS, which amounts to
+     approximately $6.8 million, will be added to utility plant as a "utility
+     plant acquisition adjustment," which will be amortized over a thirty-year
+     period that approximates the remaining useful life of the utility plant
+     acquired.
+
+          Under its business plan, the Company concentrates on customer growth
+     and the profitability of the gas distribution business. The PSGS Merger,
+     which will result in a seven percent increase in the number of customers
+     served, and the Elizabethtown Merger, through which NUI will become an
+     operating utility company with three divisions providing gas service in
+     six states, fit within the business plan.
+
+          3. Capitalization
+      
+          Long-Term Debt. In October 1991, pursuant to agreements between
+     Elizabethtown and the New Jersey Economic Development Authority, gas
+     facilities revenue bonds that mature in October 2021 were issued in the
+     amount of $46.2 million at 6.75% and $8.4 million at 6.625% to finance
+     expenditures through fiscal 1995 for the construction of certain gas
+     facilities and related equipment in New Jersey, including approximately
+     $11.4 million expended prior to incurring this long-term debt. The
+     unexpended portion of the net proceeds from these borrowings was
+     $24.2 million at September 30, 1993 and is classified on the Company's
+
+
+
+                                     F-11 <PAGE>
+
+
+     consolidated balance sheet as funds for construction held by trustee until
+     drawn upon incurring eligible expenditures.
+
+          In fiscal 1992, in accordance with the optional prepayment provisions
+     of the underlying indenture agreements, Elizabethtown borrowed under its
+     bank lines of credit to repay $6.6 million of 6.5% sinking fund debentures
+     and $6.1 million of 9.5% sinking fund debentures in advance of their
+     scheduled maturities.
+
+          The Florida Division's assets collateralize a mortgage and deed of
+     trust, dated November 1, 1959, and subsequent modifications thereof. 
+
+          As of September 30, 1993, the scheduled repayments of the Company's
+     long-term debt over the next five years were as follows: $1.9 million in
+     fiscal 1994, $1.1 million in fiscal 1995, $1.1 million in fiscal 1996,
+     $3.2 million in fiscal 1997 and $1.0 million in fiscal 1998. The gas
+     facilities revenue bonds that are due in 2014 and the remaining balance of
+     first mortgage bonds become eligible in fiscal 1994 for optional
+     prepayment amounting to $1.3 million in excess of their $57.3 million face
+     value.
+
+          Preferred Stock. Elizabethtown has 500,000 shares of authorized but
+     unissued preferred stock.
+
+          Common Stock. NUI contributed additional equity capital amounting to
+     $10.0 million in fiscal 1993 and $6.5 million in fiscal 1991.
+
+          Employee Stock Ownership Plan. The Company provides an employee stock
+     ownership plan for certain employees of its Florida Division (the "ESOP"),
+     which was funded initially with indebtedness that is guaranteed by a
+     subsidiary of Elizabethtown. The Company incurred ESOP contribution
+     expense amounting to $0.9 million in fiscal 1993, $0.7 million in fiscal
+     1992 and $1.0 million in fiscal 1991, representing contributions for loan
+     payments and to acquire additional shares of NUI Common Stock. As of
+     September 30, 1993, the ESOP trust held 263,103 shares of NUI Common
+     Stock, of which 179,493 shares were allocated to participating employees.
+     Participating employees are entitled to vote the allocated shares and the
+     ESOP trustees vote the remainder of the shares.
+
+          4. Notes Payable to Banks
+
+          At September 30, 1993, the Company's outstanding notes payable to
+     banks were $63.2 million with a combined weighted average interest rate of
+     3.8%. Unused lines of credit at September 30, 1993 were $63.7 million.
+     While there are no formal compensating balance requirements, certain banks
+     have indicated that satisfactory balances should be maintained to support
+     the lines of credit and services provided.
+      
+          The weighted average daily amount outstanding of notes payable to
+     banks and the weighted average interest rate on that amount was
+     $32.2 million at 3.6% in fiscal 1993, $13.0 million at 5.0% in fiscal 1992
+     and $16.0 million at 7.9% in fiscal 1991.
+
+          5. Leases
+
+          Property, plant and equipment held under capital leases amounted to
+     $22.0 million at September 30, 1993 and $22.4 million at September 30,
+
+
+                                     F-12 <PAGE>
+
+
+     1992, with related accumulated amortization of $8.0 million in 1993 and
+     $7.0 million in 1992. These properties consisted principally of leasehold
+     improvements and office furniture and fixtures for a divisional
+     headquarters. A summary of future minimum payments for properties held
+     under capital leases follows (in thousands):
+
+     1994                                                              $  3,107
+     1995                                                                 2,409
+     1996                                                                 2,149
+     1997                                                                 1,966
+     1998                                                                 1,839
+     1999 and Thereafter                                                  8,532
+                                                                         ------
+     Total Future Minimum Payments                                       20,002
+     Amount Representing Interest                                        (5,786)
+     Current Portion of Capital Lease Obligations                        (1,926)
+                                                                         ------
+     Capital Lease Obligations                                          $12,290
+                                                                         ======
+
+          Minimum payments under noncancelable operating leases, which relate
+     principally to office space for a divisional headquarters, are
+     approximately $3.0 million in each of the next five years.
+
+          Rents charged to operating expenses were $4.0 million in fiscal 1993,
+     $3.7 million in fiscal 1992 and $3.6 million in fiscal 1991.
+
+          6. Other Income and Expense
+
+          The write down of properties in fiscal 1991 relates to certain
+     reserves of natural gas that are recoverable based upon market prices that
+     had declined significantly. 
+
+          7. Pension Benefits
+
+          The Company has non-contributory defined benefit retirement plans
+     which cover substantially all of its employees, other than the Florida
+     Division's unionized employees who participate in a union sponsored
+     multi-employer plan. The Company funds its plans in accordance with the
+     requirements of the Employee Retirement Income Security Act of 1974
+     (ERISA) and makes contributions to the union sponsored plan in accordance
+     with its contractual obligations. Benefits paid under the Company's plans
+     are based on years of service and levels of compensation. The Company's
+     actuarial calculation of pension expense is based on the projected unit
+     cost method.
+
+                                         F-13 <PAGE>
+
+
+          The components of pension expense for the Company's plans were as
+     follows (in thousands):
+
+                                              1991          1992          1993 
+     Service Cost                          $  1,580      $  1,608      $  1,775
+     Interest Cost                            3,746         4,078         4,394
+     Return on Plan Assets                  (12,908)       (6,744)      (11,240)
+     Net Amortization                         6,869           556          4,805
+                                             ------        ------        ------
+     Pension Credit                          $(713)        $(502)        $(266)
+                                             ======        ======        ======
+
+
+          The status of the Company's funded plans as of September 30 was as
+     follows (in thousands):
+
+                                                            1992          1993 
+     Actuarial Present Value of Benefit Obligation:
+         Vested Benefits                                $  39,455     $  42,724
+         Non-vested Benefits                                2,759         2,758
+                                                           ------        ------
+     Accumulated Benefit Obligation                        42,214        45,482
+     Projected Increases in Compensation Levels            11,684        10,072
+                                                           ------        ------
+     Projected Benefit Obligation                          53,898        55,554
+     Market Value of Plan Assets                           69,201        68,184
+                                                           ------        ------
+     Plan Assets in Excess of Projected Benefit
+     Obligation                                            15,303        12,630
+     Unrecognized Net Loss and Prior Service Cost          (7,645)       (6,502)
+     Unrecognized Net Transition Asset                     (5,881)       (4,416)
+                                                           ------        ------
+     Pension Prepayment                                    $1,777        $1,712
+                                                           ======        ======
+
+          The projected benefit obligation for the Company's principal pension
+     plan was calculated using a discount rate of 7% in fiscal 1993 and 8.25%
+     in fiscal 1992 and an assumed annual increase in compensation levels of 5%
+     in fiscal 1993 and 5.25% in fiscal 1992. The expected long-term rate of
+     return on assets is 9%. The assets of the Company's funded plans are
+     invested primarily in publicly-traded fixed income and equity securities. 
+
+          Certain key employees also participate in an unfunded supplemental
+     retirement plan. The projected benefit obligation under this plan was
+     $3.1 million as of September 30, 1993 and $1.8 million as of September 30,
+     1992, and the expense for this plan is approximately $0.4 million
+     annually.
+
+          8. Commitments and Contingencies
+
+          Commitments. Capital expenditures are expected to be approximately
+     $48.0 million in fiscal 1994. 
+
+          Environmental Matters. The Company is subject to federal and state
+     legislation with respect to water, air quality, solid waste disposal and
+     employee health and safety matters and to environmental regulations issued
+     by the United States Environmental Protection Agency (the "EPA"), the New
+
+
+                                     F-14 <PAGE>
+
+
+     Jersey Department of Environmental Protection and Energy (the "NJDEPE"),
+     and other federal and state agencies.
+
+          The Company owns, or previously owned, certain properties on which
+     gas was manufactured by the New Jersey Division or by other parties in the
+     past. Coal tar residues are present on six of these sites and the Company
+     has reported their presence to the EPA, the NJDEPE and the NJBRC. In April
+     1991, the NJDEPE issued an Administrative Consent Order that establishes
+     the procedures to be followed by the Company in the development of its
+     remediation plan for the site on South Street in Elizabeth, New Jersey.
+     Subsequently, the Company and the NJDEPE entered into Memoranda of
+     Agreement that establish procedures for the development of investigation
+     and remediation plans for the other five sites.
+
+          The Company expects it will expend in the next twenty years
+     approximately $25 million, net of approximately $6 million that the
+     Company estimates will be borne by the prior owner and operator of certain
+     of the sites, to complete investigation of such sites and the remediation
+     of the coal tar contamination. The Company, with the assistance of an
+     outside consulting firm, determined the estimated expenditure by assessing
+     the cost of (1) obtaining additional required data about each site and (2)
+     the applicable remedial action, among those currently known, that is most
+     appropriate for each site. The ultimate costs will depend upon the
+     investigation and remediation plans that finally are adopted by the
+     Company, subject to the approval of the NJDEPE, and may be less or greater
+     than the Company's current estimate. The Company has an accrual of
+     approximately $25 million for investigation and remediation of the sites
+     and the related costs have been deferred on its Consolidated Balance
+     Sheet.
+
+          The Company believes that its remediation costs will be recoverable
+     in rates and that a portion of such costs may be recoverable from the
+     Company's insurance carriers. The current base rate order for the New
+     Jersey Division permits the Company to utilize full deferred accounting
+     for coal tar related expenditures, which amounted to approximately $0.8
+     million in fiscal 1993 and $0.6 million in fiscal 1992. The current base
+     rate order provides for the recovery through rates at $130,000 annually of
+     coal tar related expenditures incurred prior to the rate order. Other New
+     Jersey utilities also have received authorization to recover similar
+     environmental expenditures in rates.
+
+          Gas Procurement Contracts. Certain of the Company's long-term
+     contracts for the supply, storage and delivery of natural gas include
+     fixed charges that amount to approximately $64 million annually, of which
+     approximately $43 million is associated with pipeline delivery contracts.
+     The Company currently recovers, and expects to continue to recover, such
+     fixed charges through its gas adjustment clauses. The Company also is
+     committed to purchase, at market-related prices, minimum quantities of gas
+     that, in the aggregate, are approximately 7 million Mcf per year or to pay
+     certain costs in the event the minimum quantities are not taken. The
+     Company expects that minimum demand on its systems will continue to exceed
+     these minimum purchase obligations.
+
+          The implementation of Federal Energy Regulatory Commission ("FERC")
+     Order No. 636 required the restructuring of the Company's contracts with
+     certain pipeline companies that together supply less than one-third of the
+     Company's total firm gas supply. Under Order No. 636 the pipeline
+
+
+                                     F-15 <PAGE>
+
+
+     companies are passing through to their customers transition costs
+     associated with mandated restructuring, such as costs resulting from
+     buying out unmarketable gas purchase contracts. The transition costs
+     charged to the Company have amounted to approximately $1.4 million and are
+     being recovered through the Company's gas adjustment clauses.
+
+          Additionally, certain of the Company's suppliers received FERC
+     approval of surcharges on their rates to recover costs incurred to settle
+     certain take-or-pay obligations they had with natural gas producers. The
+     New Jersey Division has received approval from the NJBRC to recover that
+     portion of the surcharge that is based on a unit rate in the same manner
+     as it recovers other commodity costs and to recover fixed charges over a
+     nine-year period, ending in 1997. Of these fixed charges, the amount
+     deferred as of September 30, 1993 was $2.0 million.
+
+          Other. In addition, the Company is involved in various claims and
+     litigation incidental to its business. In the opinion of management, none
+     of these claims and litigation will have a material adverse effect on the
+     Company's results of operations or its financial condition.
+
+                                                  F-16 <PAGE>
+<TABLE>
+
+                                                                                               SCHEDULE V
+                                  Elizabethtown Gas Company and Subsidiaries
+                                         Property, Plant and Equipment
+                                      For Each of the Fiscal Years in the
+                                  Three-Year Period Ended September 30, 1993
+                                            (Dollars in thousands)
+<CAPTION>
+
+                                          Balance,                                               Balance,
+                                         Beginning    Additions                       Other        End of
+              Classification             of Period      at Cost   Retirements       Changes        Period
+     <S>                                  <C>          <C>           <C>           <C>           <C>         
+     1991
+     Intangible plant                     $      -     $    630      $      -      $      -      $    630
+     Non-depreciable plant                   1,842           57                                     1,899
+     Production                              8,132            9             2                       8,139
+     Storage                                 6,520           34            99                       6,455
+     Transmission plant                      1,717                                                  1,717
+     Distribution plant                    319,491       22,599           835         2,935       344,190
+     General plant                          49,849        3,486           899            12        52,448
+     Gas producing properties                1,418          (15)                                    1,403
+     Construction work in progress           5,563       (1,984)                                    3,579
+                                            ------       ------        ------        ------        ------
+                                          $394,532      $24,816        $1,835        $2,947 (a)  $420,460
+                                            ======       ======        ======        ======        ======
+     1992
+     Intangible plant                         $630         $417        $    -        $    -        $1,047
+     Non-depreciable plant                   1,899           12                                     1,911
+     Production                              8,139           23             2                       8,160
+     Storage                                 6,455          401           306                       6,550
+     Transmission plant                      1,717          578                                     2,295
+     Distribution plant                    344,190       22,209         1,065                     365,334
+     General plant                          52,448        6,118         2,809                      55,757
+     Gas producing properties                1,403                                                  1,403
+     Construction work in progress           3,579        1,574                                     5,153
+                                            ------       ------        ------        ------        ------
+                                          $420,460      $31,332        $4,182        $    -      $447,610
+                                            ======       ======        ======        ======        ======
+     1993
+     Intangible plant                       $1,047          $27        $    -        $    -        $1,074
+     Non-depreciable plant                   1,911            6                         200 (b)     2,117
+     Production                              8,160          267                                     8,427
+     Storage                                 6,550        1,155                                     7,705
+     Transmission plant                      2,295           51                                     2,346
+     Distribution plant                    365,334       31,044         1,194           587 (b)   395,771 
+     General plant                          55,757        6,242         2,158          (787)(b)    59,054
+     Gas producing properties                1,403                                                  1,403
+     Construction work in progress           5,153          803                                     5,956
+                                            ------       ------        ------        ------        ------
+                                          $447,610      $39,595        $3,352        $    -      $483,853
+                                            ======       ======        ======        ======        ======
+<F1>
+     a) Added as a result of an acquisition.
+<F2>
+     b) Reclassifications among accounts.
+
+
+</TABLE>
+                                                  F-17 <PAGE>
+<TABLE>
+
+                                                                                              SCHEDULE VI
+                                  Elizabethtown Gas Company and Subsidiaries
+                                   Accumulated Depreciation and Amortization
+                                       of Property, Plant and Equipment
+                                      For Each of the Fiscal Years in the
+                                  Three-Year Period Ended September 30, 1993
+                                            (Dollars in thousands)
+<CAPTION>
+                                          Additions Charged to
+                                         ---------------------                  
+                                Balance,    Deprec-                          Other Changes       Balance,                        
+                               Beginning     iation     Other    Retire-    -----------------     End of 
+          Classification       of Period    Expense   Expenses    ments     Salvage     Other     Period 
+     <S>                        <C>         <C>       <C>       <C>        <C>        <C>        <C>      
+     1991
+     Intangible plant           $      -    $    11   $      -  $      -   $      -   $    -     $     11
+     Production                    3,987        257                    2                 (25)(a)    4,217
+     Storage                       5,338        306                   99                            5,545
+     Transmission plant            1,014         31                                                 1,045
+
+                                                                                        (400)(a)     
+     Distribution plant           93,881      8,938                  835         54    1,173 (b)  102,811
+
+     General plant                10,414      3,419        787       894      1,012      (13)(a)   14,725
+     Gas producing properties      1,062                   148                                      1,210
+                                  ------     ------     ------    ------     ------   ------       ------
+                                $115,696    $12,962       $935    $1,830     $1,066     $735     $129,564
+                                  ======     ======     ======    ======     ======   ======       ======
+     1992
+     Intangible plant                $11       $127       $  -      $  -       $  -   $    -         $138
+     Production                    4,217        250                    2                 (34)       4,431
+     Storage                       5,545        308                  306                 (70)       5,477
+     Transmission plant            1,045         36                                                 1,081
+     Distribution plant          102,811      9,386                1,065          1     (523)     110,610
+     General plant                14,725      4,166        610     2,791        309      (31)      16,988
+     Gas producing properties      1,210                   151                                      1,361
+                                  ------     ------     ------    ------     ------    ------      ------
+                                $129,564    $14,273       $761    $4,164       $310    $(658)(a) $140,086
+                                  ======     ======     ======    ======     ======    ======      ======
+     1993
+     Intangible plant               $138       $221       $  -      $  -       $  -    $   -         $359
+     Production                    4,431        255                                     (194)(a)    4,492
+     Storage                       5,477        349                                       (5)(a)    5,821
+     Transmission plant            1,081         42                                                 1,123
+
+                                                                                        (889)(a)
+     Distribution plant          110,610     10,099                1,180                 172 (b)  118,812
+
+
+                                                                                         (35)(a)
+     General plant                16,988      4,116        600     1,782                (172)(b)   19,715
+     Gas producing properties      1,361                    42                                      1,403
+                                  ------     ------     ------    ------     ------   ------       ------
+                                $140,086    $15,082       $642    $2,962       $  -  $(1,123)    $151,725
+                                  ======     ======     ======    ======     ======   ======       ======
+<F1>
+     a) Removal costs.
+<F2>
+     b) Added as a result of an acquisition.
+<F3>
+     c) Reclassifications among accounts.
+
+</TABLE>
+
+                                                  F-18 <PAGE>
+<TABLE>
+
+                                                                                            SCHEDULE VIII
+                                  Elizabethtown Gas Company and Subsidiaries
+                                       Valuation and Qualifying Accounts
+                                      For Each of the Fiscal Years in the
+                                  Three-Year Period Ended September 30, 1993
+                                            (Dollars in thousands)
+<CAPTION>
+                                                            Additions         
+                                                    --------------------------
+                                            Balance,   Charged to                                Balance,
+                                           Beginning    Costs and                                 End of 
+                 Description               of Period     Expenses      Other     Deductions       Period 
+     <S>                                    <C>          <C>          <C>          <C>           <C>       
+     1991
+     Allowance for doubtful accounts        $  1,262     $  2,333     $  514(a)    $  3,068(b)   $  1,041
+     Reserve for litigation                   $6,760        $(260)                   $6,500(c)   $      -
+     Reserve for environmental 
+     matters (d)                                                      24,700                      $24,700
+
+     1992
+     Allowance for doubtful accounts          $1,041       $2,281       $744(a)      $2,696(b)     $1,370
+     Reserve for environmental 
+     matters (d)                             $24,700                                              $24,700
+
+     1993
+     Allowance for doubtful accounts          $1,370       $1,852       $474(a)      $2,471(b)     $1,225
+     Reserve for environmental 
+     matters (d)                             $24,700                                              $24,700
+
+<F1>
+     a) Recoveries.
+<F2>
+     b) Uncollectible amounts written off.
+<F3>
+     c) In February 1991, the Company paid $6.5 million to settle an antitrust lawsuit and, in a related
+     transaction, $1.5 million to acquire certain gas distribution assets which added 6,100 customers in
+     the Florida Division. The cost of the settlement was charged against the reserve established by the
+     Company in conjunction with assuming the related litigation when it acquired the Florida Division
+     in 1988.
+
+
+
+
+                                                  F-19 <PAGE>
+
+
+<F4>
+     d) The related cost of the reserve established in fiscal 1991 was recorded as a deferred charge, as
+     have subsequent expenditures amounting to approximately $0.8 million in fiscal 1993 and $0.6
+     million in fiscal 1992. See "Commitments and Contingencies-Environmental Matters," Note 8 of the
+     Notes to the Consolidated Financial Statements. 
+
+</TABLE>
+                                                  F-20 <PAGE>
+
+<TABLE>
+                                                                                              SCHEDULE IX
+                                  Elizabethtown Gas Company and Subsidiaries
+                                             Short-Term Borrowings
+                                      For Each of the Fiscal Years in the
+                                  Three-Year Period Ended September 30, 1993
+                                            (Dollars in thousands)
+
+<CAPTION>
+                                                              1991              1992               1993  
+     <S>                                                  <C>              <C>                <C>
+     Amount outstanding at year end                       $  6,800(a)      $  32,750          $  63,200
+     Maximum amount outstanding                           $ 39,000         $  32,750          $  63,950
+     Average daily amount outstanding                     $ 15,967         $  13,002          $  32,188
+     Range of interest rates                              5.875-10.50%     3.22-7.45%         3.13-5.00%
+     Weighted average interest rates:
+         On average daily amount outstanding                   7.94%             4.96%              3.58%
+         On year end balance                                   6.78%             3.88%              3.84%
+                      
+<FN>
+     a)  Excludes $11.4 million of notes payable to banks that were refinanced with the net proceeds of
+     gas facilities revenue bonds issued in fiscal 1992.
+
+</TABLE>
+
+                                                  F-21 <PAGE>
+
+
+                                      SIGNATURES
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+     Exchange Act of 1934, the Registrant has duly caused this report to be
+     signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+     Date:  December 10, 1993               ELIZABETHTOWN GAS COMPANY
+                                              (Registrant)
+
+     By:    ROBERT P. KENNEY, PRESIDENT &          By:    JOSEPH P. COUGHLIN,
+            CHIEF EXECUTIVE OFFICER                       SECRETARY
+
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+     this report has been signed below by the following persons on behalf of
+     the Registrant and in the Capacities on the dates indicated.
+
+
+
+     December 10, 1993                  JOHN KEAN, DIRECTOR
+
+
+     December 10, 1993                  C. R. CARVER, DIRECTOR
+
+
+     December 10, 1993                  DUNCAN S. ELLSWORTH, JR., DIRECTOR
+
+
+     December 10, 1993                  DR. VERA KING FARRIS, DIRECTOR
+
+
+     December 10, 1993                  ROBERT W. KEAN, JR., DIRECTOR
+
+
+     December 10, 1993                  STEWART B. KEAN, DIRECTOR
+
+
+     December 10, 1993                  STEPHEN SCHACHMAN, DIRECTOR
+
+
+     December 10, 1993                  FREDERICK W. SULLIVAN, DIRECTOR
+
+
+
+
+     DAVID P. VINCENT,                         RAND W. SMITH,
+     CHIEF FINANCIAL OFFICER                   CHIEF ACCOUNTING OFFICER
+
+     Supplemental Information to be furnished with reports filed pursuant to
+     Section 15 (d) of the Act by Registrants Which Have Not Registered
+     Securities Pursuant to Section 12 of the Act:
+
+
+     No annual report covering Registrant's last fiscal year or any proxy
+     material has been sent to security holders.
+     Registrant is a wholly-owned subsidiary of NUI Corporation. <PAGE>
+
+
+                                  INDEX TO EXHIBITS
+
+      Exhibit
+      No.                   Description
+
+      21              Subsidiaries of Elizabethtown Gas Company <PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+
+
+
+
+
+
+
+                                                                 EXHIBIT NO. 21
+
+
+
+
+                      SUBSIDIARIES OF ELIZABETHTOWN GAS COMPANY
+
+
+          Essel Corporation (a Florida corporation) and Utility Billing
+     Services, Inc. (a New Jersey corporation) are wholly-owned subsidiaries of
+     Elizabethtown Gas Company.
+
+          Natural Gas Services, Inc. (a Delaware corporation) is a wholly-owned
+     subsidiary of Essel Corporation.
+<PAGE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
